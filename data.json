@@ -1,0 +1,2448 @@
+{
+  "brand": "食之愈烘焙",
+  "brandEn": "Foodcomforts Bakery",
+  "config": {
+    "accessPassword": ""
+  },
+  "sections": [
+    {
+      "id": "cream",
+      "name": "轻糖奶油类",
+      "emoji": "🍰",
+      "en": "Light-Sugar Creams"
+    },
+    {
+      "id": "cheese",
+      "name": "芝士和挞类",
+      "emoji": "🧀",
+      "en": "Cheese & Tarts"
+    },
+    {
+      "id": "heavy",
+      "name": "重手工产品（宝宝宴、婚礼专品）",
+      "emoji": "🎉",
+      "en": "Handcraft Wedding"
+    },
+    {
+      "id": "lightcream",
+      "name": "少奶油类蛋糕",
+      "emoji": "🍮",
+      "en": "Less-Cream Cakes"
+    },
+    {
+      "id": "mousse",
+      "name": "慕斯类",
+      "emoji": "🍡",
+      "en": "Mousse"
+    },
+    {
+      "id": "snack",
+      "name": "下午茶和茶点类",
+      "emoji": "🫖",
+      "en": "Afternoon Tea & Snacks"
+    },
+    {
+      "id": "handmade",
+      "name": "手工茶点",
+      "emoji": "🌸",
+      "en": "Handmade Pastry"
+    },
+    {
+      "id": "nuts",
+      "name": "囍·坚果盘",
+      "emoji": "🥜",
+      "en": "Nuts Platter"
+    },
+    {
+      "id": "french",
+      "name": "精致法点",
+      "emoji": "🌷",
+      "en": "French Dessert"
+    },
+    {
+      "id": "cold",
+      "name": "精致冷餐",
+      "emoji": "🥗",
+      "en": "Cold Appetizers"
+    },
+    {
+      "id": "snack2",
+      "name": "小咸吃甜系列搭配",
+      "emoji": "🍢",
+      "en": "Sweet & Savory"
+    },
+    {
+      "id": "lumed",
+      "name": "卤味小吃",
+      "emoji": "🍗",
+      "en": "Braised Snacks"
+    },
+    {
+      "id": "drinks",
+      "name": "茶饮系列",
+      "emoji": "🥤",
+      "en": "Drinks"
+    },
+    {
+      "id": "fruit",
+      "name": "水果",
+      "emoji": "🍉",
+      "en": "Fruits"
+    },
+    {
+      "id": "table_cake",
+      "name": "甜品台大蛋糕",
+      "emoji": "🍰",
+      "en": "Table Cake"
+    }
+  ],
+  "products": {
+    "cream": [
+      {
+        "name": "水果抱抱",
+        "spec": "12元/个",
+        "minQty": 20,
+        "price": 12,
+        "img": "cream_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "海盐低糖杏仁卷",
+        "spec": "12",
+        "minQty": 10,
+        "price": 12,
+        "img": "p06_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "鲜果小方蛋糕(小)",
+        "spec": "10元/个",
+        "minQty": 16,
+        "price": 10,
+        "img": "p06_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "纸杯蛋糕（大）",
+        "spec": "¥13/个",
+        "minQty": 6,
+        "price": 13,
+        "img": "cream_4.jpg",
+        "note": "可订小款 8元/个"
+      },
+      {
+        "name": "cupcake蛋糕（小）",
+        "spec": "¥8/个",
+        "minQty": 8,
+        "price": 8,
+        "img": "p07_1.jpg",
+        "note": "可订小款 8元/个"
+      },
+      {
+        "name": "水果流心泡芙",
+        "spec": "12元/个",
+        "minQty": 8,
+        "price": 12,
+        "img": "p07_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "水果号角酥（大）",
+        "spec": "¥18/个",
+        "minQty": 8,
+        "price": 13,
+        "img": "p07_4.jpg",
+        "note": "可订小款 12元/个"
+      },
+      {
+        "name": "水果号角酥（小）",
+        "spec": "¥12",
+        "price": 10,
+        "minQty": 12,
+        "img": "p07_4.jpg",
+        "note": "可订小款 12元/个"
+      },
+      {
+        "name": "中式竹筒蛋糕",
+        "spec": "20元/个",
+        "minQty": 6,
+        "price": 20,
+        "img": "p07_5.jpg",
+        "note": "10个起订"
+      },
+      {
+        "name": "鲜果瑞士卷",
+        "spec": "12元/个",
+        "minQty": 10,
+        "price": 12,
+        "img": "p08_0.jpg",
+        "note": "可订小款 12元/个"
+      },
+      {
+        "name": "精致水果高脚奶油杯子（小）",
+        "spec": "¥15/个",
+        "minQty": 8,
+        "price": 15,
+        "img": "p08_4.jpg",
+        "note": "可订小款 10元/个"
+      },
+      {
+        "name": "红丝绒草莓福袋",
+        "spec": "20元/个",
+        "minQty": 1,
+        "price": 20,
+        "img": "p08_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "鲜果小方蛋糕(大)",
+        "spec": "12元/个",
+        "price": 12,
+        "minQty": 16,
+        "img": "p06_3.jpg"
+      },
+      {
+        "name": "鲜果夹心蛋糕卷",
+        "spec": "12元/个",
+        "minQty": 10,
+        "price": 12,
+        "img": "p07_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "水果高脚奶油杯子",
+        "spec": "¥18/个",
+        "minQty": 1,
+        "price": 18,
+        "img": "p08_4.jpg",
+        "note": "可订小款 10元/个"
+      },
+      {
+        "name": "电脑测试",
+        "spec": "12元/个",
+        "price": 12,
+        "minQty": 0,
+        "img": "cream_1.jpg"
+      }
+    ],
+    "cheese": [
+      {
+        "name": "水果轻芝士蛋糕（大）",
+        "spec": "¥12/个",
+        "minQty": 6,
+        "price": 12,
+        "img": "p09_0.jpg",
+        "note": "6个起订"
+      },
+      {
+        "name": "水果轻芝士蛋糕（小）",
+        "spec": "¥10/个",
+        "minQty": 8,
+        "price": 10,
+        "img": "p09_0.jpg",
+        "note": "6个起订"
+      },
+      {
+        "name": "现烤巴斯克芝士蛋糕",
+        "spec": "12元/个",
+        "price": 12,
+        "minQty": 10,
+        "img": "p09_1.jpg",
+        "note": "6个起订"
+      },
+      {
+        "name": "法式海盐花塔",
+        "spec": "15元/个",
+        "minQty": 8,
+        "price": 15,
+        "img": "p09_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "半熟芝士",
+        "spec": "12元/个",
+        "minQty": 6,
+        "price": 12,
+        "img": "p09_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "现烤水果盘挞",
+        "spec": "12元/个",
+        "minQty": 6,
+        "price": 12,
+        "img": "p09_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "鲜果芝士塔",
+        "spec": "8元/个",
+        "minQty": 10,
+        "price": 8,
+        "img": "p09_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "低糖美拉德栗子塔",
+        "spec": "15元/个",
+        "minQty": 10,
+        "price": 15,
+        "img": "p10_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "巴斯克小杯",
+        "spec": "15元/个",
+        "minQty": 10,
+        "price": 15,
+        "img": "p10_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "柠檬流心塔",
+        "spec": "12元/个",
+        "minQty": 10,
+        "price": 12,
+        "img": "p10_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "中式福气小瓦缸蛋糕",
+        "spec": "25元/个",
+        "minQty": 6,
+        "price": 25,
+        "img": "p10_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "抹茶流心塔",
+        "spec": "12元/个",
+        "minQty": 8,
+        "price": 12,
+        "img": "p10_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "迷你曲奇水果挞",
+        "spec": "10元/个",
+        "minQty": 10,
+        "price": 10,
+        "img": "p10_5.jpg",
+        "note": ""
+      }
+    ],
+    "heavy": [
+      {
+        "name": "手工巧克力甜甜圈（主题设计款）",
+        "spec": "18元/个",
+        "minQty": 6,
+        "price": 18,
+        "img": "p11_0.jpg",
+        "note": "8个起订"
+      },
+      {
+        "name": "造型推推乐蛋糕（主题设计款）",
+        "spec": "15元/个",
+        "minQty": 6,
+        "price": 15,
+        "img": "p11_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "水果雪糕筒蛋糕（主题设计款）",
+        "spec": "15元/个",
+        "minQty": 6,
+        "price": 15,
+        "img": "p11_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "法式清糖马卡龙",
+        "spec": "12元/粒",
+        "minQty": 6,
+        "price": 12,
+        "img": "p11_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "雪糕造型巧克力蛋糕（主题设计款）",
+        "spec": "20元/个",
+        "minQty": 6,
+        "price": 20,
+        "img": "p11_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "焦糖布丁杯（主题设计款）",
+        "spec": "20元/个(玻璃瓶)",
+        "minQty": 6,
+        "price": 20,
+        "img": "p11_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "韩式棒棒糖蛋糕（主题设计款）",
+        "spec": "18元/个",
+        "minQty": 10,
+        "price": 18,
+        "img": "p12_0.jpg",
+        "note": "24个起订"
+      },
+      {
+        "name": "巧克力小熊玛德琳",
+        "spec": "12元/个",
+        "minQty": 12,
+        "price": 12,
+        "img": "p12_1.jpg",
+        "note": "12个起订"
+      },
+      {
+        "name": "现烤巴斯克（整个主题装饰）",
+        "spec": "160元/个(整蛋糕)",
+        "minQty": 1,
+        "price": 160,
+        "img": "p12_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "主题设计轻乳酪",
+        "spec": "120元/条(10件)",
+        "minQty": 1,
+        "price": 120,
+        "img": "p12_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "整条设计主题蛋糕卷",
+        "spec": "150元/条",
+        "minQty": 1,
+        "price": 150,
+        "img": "p12_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "cupcake纸杯蛋糕（主题设计款）",
+        "spec": "14元/个",
+        "minQty": 6,
+        "price": 14,
+        "img": "p12_5.jpg",
+        "note": ""
+      }
+    ],
+    "lightcream": [
+      {
+        "name": "精致慕斯杯蛋糕",
+        "spec": "8元/个(可选蓝莓/草莓/芒果/抹茶)",
+        "minQty": 8,
+        "price": 10,
+        "img": "p13_1.jpg",
+        "note": "多种口味可选"
+      },
+      {
+        "name": "巧克力造型草莓",
+        "spec": "8元/个",
+        "minQty": 12,
+        "price": 8,
+        "img": "p13_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "椰奶烤布蕾（少奶油产品）",
+        "spec": "12元/个",
+        "minQty": 6,
+        "price": 12,
+        "img": "p14_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "现烤焦糖布丁",
+        "spec": "14元/个",
+        "minQty": 8,
+        "price": 14,
+        "img": "p14_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "大理石磅蛋糕",
+        "spec": "12元/个",
+        "minQty": 1,
+        "price": 12,
+        "img": "p14_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "清甜椰奶奶砖",
+        "spec": "65元/份(约16粒)",
+        "minQty": 1,
+        "price": 65,
+        "img": "p14_3.jpg",
+        "note": "一份16粒"
+      },
+      {
+        "name": "初夏（少奶油蛋糕）",
+        "spec": "12元/个",
+        "minQty": 8,
+        "price": 12,
+        "img": "p14_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "研磨时光（轻糖少奶油产品）",
+        "spec": "12元/个",
+        "minQty": 8,
+        "price": 12,
+        "img": "p14_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "秘境（少奶油系列）",
+        "spec": "12元/个",
+        "minQty": 10,
+        "price": 12,
+        "img": "p15_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "酸甜蓝莓塔",
+        "spec": "12元/个",
+        "minQty": 10,
+        "price": 12,
+        "img": "p15_2.jpg",
+        "note": ""
+      }
+    ],
+    "mousse": [
+      {
+        "name": "意式提拉米苏（小）",
+        "spec": "¥12/个",
+        "minQty": 8,
+        "price": 12,
+        "img": "p16_0.jpg",
+        "note": "8个起订，可选小款12元/大款20元"
+      },
+      {
+        "name": "意式提拉米苏（大）",
+        "spec": "¥20/个",
+        "minQty": 8,
+        "price": 20,
+        "img": "p16_0.jpg",
+        "note": "8个起订，可选小款12元/大款20元"
+      },
+      {
+        "name": "莓果提拉米苏",
+        "spec": "13元/个",
+        "minQty": 6,
+        "price": 13,
+        "img": "p16_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "芋泥椰椰",
+        "spec": "12元/个",
+        "minQty": 10,
+        "price": 12,
+        "img": "p16_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "鲜芒多多",
+        "spec": "10元/个",
+        "minQty": 10,
+        "price": 10,
+        "img": "p16_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "云顶百香（酸甜可口）",
+        "spec": "13元/个",
+        "minQty": 6,
+        "price": 13,
+        "img": "p16_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "栗屿微光",
+        "spec": "11元/个",
+        "minQty": 6,
+        "price": 11,
+        "img": "p17_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "绿野轻慕",
+        "spec": "15元/个",
+        "minQty": 1,
+        "price": 15,
+        "img": "p17_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "酸奶可可",
+        "spec": "10元/个",
+        "minQty": 6,
+        "price": 10,
+        "img": "p17_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "杏语微甜",
+        "spec": "¥10/个",
+        "minQty": 8,
+        "price": 10,
+        "img": "p16_5.jpg",
+        "note": "可选大款15元/个"
+      }
+    ],
+    "snack": [
+      {
+        "name": "黑金迷你汉堡",
+        "spec": "10元/个",
+        "minQty": 10,
+        "price": 10,
+        "img": "p18_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "火腿芝士可颂",
+        "spec": "8元/个",
+        "minQty": 8,
+        "price": 8,
+        "img": "p18_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "迷你芝士汉堡",
+        "spec": "8元/个",
+        "minQty": 10,
+        "price": 8,
+        "img": "p18_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "法式小热狗",
+        "spec": "5元/个",
+        "minQty": 10,
+        "price": 5,
+        "img": "p18_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "青瓜芝士三文治",
+        "spec": "7元/个",
+        "minQty": 12,
+        "price": 7,
+        "img": "p19_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "全麦厚切鲜蔬菜三文治",
+        "spec": "8元/份",
+        "minQty": 12,
+        "price": 8,
+        "img": "p19_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "手工椒盐桃酥",
+        "spec": "3.5元/粒",
+        "minQty": 12,
+        "price": 3.5,
+        "img": "p19_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "肉松小方",
+        "spec": "4元/个",
+        "minQty": 16,
+        "price": 4,
+        "img": "p19_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "巧克力薄脆",
+        "spec": "120克",
+        "minQty": 1,
+        "price": 60,
+        "img": "p19_4.jpg",
+        "note": "16粒起"
+      },
+      {
+        "name": "现烤麻薯球",
+        "spec": "3元/个",
+        "minQty": 9,
+        "price": 3,
+        "img": "p19_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "一口芝士火腿麻薯",
+        "spec": "20元/盒(12个一盒)",
+        "minQty": 1,
+        "price": 20,
+        "img": "p20_0.jpg",
+        "note": "12个一盒"
+      },
+      {
+        "name": "虎皮蛋糕",
+        "spec": "5片",
+        "minQty": 1,
+        "price": 15,
+        "img": "p20_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "原味爆浆大泡芙",
+        "spec": "6元/个",
+        "minQty": 8,
+        "price": 6,
+        "img": "p20_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "小贝蛋糕",
+        "spec": "6元/个",
+        "minQty": 8,
+        "price": 6,
+        "img": "p20_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "肉松虎皮卷",
+        "spec": "4元/个",
+        "minQty": 8,
+        "price": 4,
+        "img": "p20_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "手工醇糖绿豆冰糕",
+        "spec": "5元/个",
+        "minQty": 10,
+        "price": 5,
+        "img": "p21_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "顶级黄油牛角包",
+        "spec": "8元/个",
+        "minQty": 10,
+        "price": 8,
+        "img": "p21_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "千层葡挞",
+        "spec": "3.5元/个",
+        "minQty": 12,
+        "price": 3.5,
+        "img": "p21_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "潮汕咸香绿豆饼",
+        "spec": "60元/份(20个)",
+        "minQty": 1,
+        "price": 60,
+        "img": "p21_4.jpg",
+        "note": "20个一份"
+      },
+      {
+        "name": "蝴蝶酥",
+        "spec": "4元/个",
+        "minQty": 12,
+        "price": 4,
+        "img": "p21_3.jpg",
+        "note": "20个一份"
+      },
+      {
+        "name": "起酥老婆饼",
+        "spec": "60元/份（20个）",
+        "minQty": 1,
+        "price": 60,
+        "img": "p21_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "芋泥海苔号角酥（大）",
+        "spec": "¥12/个",
+        "minQty": 8,
+        "price": 12,
+        "img": "p18_0.jpg",
+        "note": "可订小款 7元/个"
+      },
+      {
+        "name": "芋泥海苔号角酥（小）",
+        "spec": "¥8/个",
+        "minQty": 12,
+        "price": 8,
+        "img": "p18_0.jpg",
+        "note": "可订小款 7元/个"
+      },
+      {
+        "name": "鸡扒三文治（小份）",
+        "spec": "7元/个",
+        "minQty": 16,
+        "price": 7,
+        "img": "p18_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "手工黄油曲奇饼",
+        "spec": "180克",
+        "minQty": 1,
+        "price": 50,
+        "img": "p20_2.jpg",
+        "note": "25个起订"
+      }
+    ],
+    "handmade": [
+      {
+        "name": "桃花酥",
+        "spec": "12元/个",
+        "minQty": 4,
+        "price": 12,
+        "img": "p22_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "经典手工凤梨酥",
+        "spec": "12元/个",
+        "minQty": 10,
+        "price": 12,
+        "img": "p22_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "迷你凤梨酥",
+        "spec": "7元/个",
+        "minQty": 10,
+        "price": 7,
+        "img": "p22_3.jpg",
+        "note": ""
+      }
+    ],
+    "nuts": [
+      {
+        "name": "坚果四拼",
+        "spec": "120元/份",
+        "minQty": 1,
+        "price": 120,
+        "img": "p23_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "坚果9宫格",
+        "spec": "200元/份",
+        "minQty": 1,
+        "price": 200,
+        "img": "p23_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "坚果干货零食拼盘",
+        "spec": "85元/份(葡萄干+红枣+桂圆+花生+瓜子)",
+        "minQty": 1,
+        "price": 85,
+        "img": "p24_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "会议果干",
+        "spec": "80元/份(苹果干+杏仁+紫菜+素辣条)",
+        "minQty": 1,
+        "price": 80,
+        "img": "p24_2.jpg",
+        "note": ""
+      }
+    ],
+    "french": [
+      {
+        "name": "可露丽",
+        "spec": "20元/个",
+        "minQty": 12,
+        "price": 20,
+        "img": "p25_0.jpg",
+        "note": "12个起订"
+      },
+      {
+        "name": "抹茶伯爵",
+        "spec": "20元/个",
+        "minQty": 12,
+        "price": 20,
+        "img": "p25_1.jpg",
+        "note": "12个起订"
+      },
+      {
+        "name": "椰香雪莉",
+        "spec": "15元/个",
+        "minQty": 12,
+        "price": 15,
+        "img": "p25_2.jpg",
+        "note": "12个起订"
+      },
+      {
+        "name": "半糖春日",
+        "spec": "15元/个",
+        "minQty": 12,
+        "price": 15,
+        "img": "p25_3.jpg",
+        "note": "12个起订"
+      },
+      {
+        "name": "桃之夭夭",
+        "spec": "18元/个",
+        "minQty": 12,
+        "price": 18,
+        "img": "p25_4.jpg",
+        "note": "12个起订"
+      },
+      {
+        "name": "玫瑰荔荔",
+        "spec": "16元/个",
+        "minQty": 12,
+        "price": 16,
+        "img": "p25_5.jpg",
+        "note": "12个起订"
+      },
+      {
+        "name": "甜心结梦",
+        "spec": "22元/个",
+        "minQty": 8,
+        "price": 22,
+        "img": "p26_0.jpg",
+        "note": "12个起订"
+      },
+      {
+        "name": "小葵朵朵",
+        "spec": "20元/个",
+        "minQty": 6,
+        "price": 20,
+        "img": "p26_1.jpg",
+        "note": "12个起订"
+      },
+      {
+        "name": "奶蓝泡泡",
+        "spec": "¥28/个",
+        "minQty": 6,
+        "price": 20,
+        "img": "p26_2.jpg",
+        "note": "12个起订，可选小款15元"
+      },
+      {
+        "name": "花见漫想",
+        "spec": "23元/个",
+        "minQty": 6,
+        "price": 23,
+        "img": "p26_3.jpg",
+        "note": "12个起订"
+      },
+      {
+        "name": "晴日云酪",
+        "spec": "28元/个",
+        "minQty": 6,
+        "price": 28,
+        "img": "p26_4.jpg",
+        "note": "12个起订"
+      },
+      {
+        "name": "荔露凝香",
+        "spec": "¥16/个",
+        "minQty": 8,
+        "price": 16,
+        "img": "p26_5.jpg",
+        "note": "12个起订，可选小款15元"
+      },
+      {
+        "name": "巧克力梦龙",
+        "spec": "12元/个",
+        "minQty": 10,
+        "price": 12,
+        "img": "p27_0.jpg",
+        "note": "12个起订"
+      },
+      {
+        "name": "芒芒夏日",
+        "spec": "15元/个(小)",
+        "minQty": 8,
+        "price": 15,
+        "img": "p27_2.jpg",
+        "note": "12个起订"
+      },
+      {
+        "name": "柠檬乳酪",
+        "spec": "15元/个",
+        "minQty": 6,
+        "price": 15,
+        "img": "p27_1.jpg",
+        "note": "12个起订"
+      },
+      {
+        "name": "茉莉蜜桃",
+        "spec": "18元/个(小)",
+        "minQty": 6,
+        "price": 18,
+        "img": "p27_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "特洛伊",
+        "spec": "20元/个",
+        "minQty": 6,
+        "price": 20,
+        "img": "p27_4.jpg",
+        "note": ""
+      }
+    ],
+    "cold": [
+      {
+        "name": "芝士火腿卷",
+        "spec": "8元/串",
+        "minQty": 16,
+        "price": 8,
+        "img": "p28_1.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "鲜虾香芒蔬菜沙拉",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p28_2.jpg",
+        "note": "16串起订"
+      },
+      {
+        "name": "鲜虾牛油果",
+        "spec": "20元/个",
+        "minQty": 16,
+        "price": 20,
+        "img": "p28_3.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "蜜瓜培根卷",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p28_4.jpg",
+        "note": "16串起订"
+      },
+      {
+        "name": "蜜瓜帕尔马奶酪",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p29_0.jpg",
+        "note": "16串起订"
+      },
+      {
+        "name": "蜂蜜无花果培根杯",
+        "spec": "18元/个",
+        "minQty": 16,
+        "price": 18,
+        "img": "p29_1.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "芝士鸡块果蔬小汉堡",
+        "spec": "8元/个",
+        "minQty": 16,
+        "price": 8,
+        "img": "p29_2.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "凤梨培根卷",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p29_3.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "小号培根秋葵卷",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p29_4.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "蟹柳鲜蔬杯",
+        "spec": "15元/个",
+        "minQty": 16,
+        "price": 12,
+        "img": "p29_5.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "橄榄萨拉米三明治",
+        "spec": "12元/个",
+        "minQty": 16,
+        "price": 12,
+        "img": "p30_0.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "青瓜鲜虾塔",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p30_1.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "培根青瓜法棍",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p30_2.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "鲜虾培根三明治",
+        "spec": "12元/个",
+        "minQty": 16,
+        "price": 12,
+        "img": "p30_3.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "马苏里拉奶酪火腿串",
+        "spec": "13元/串",
+        "minQty": 16,
+        "price": 13,
+        "img": "p30_4.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "夏威夷黑椒牛肉粒串",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p30_5.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "杯子三明治",
+        "spec": "10元/串",
+        "minQty": 16,
+        "price": 10,
+        "img": "p31_0.jpg",
+        "note": "16串起订"
+      },
+      {
+        "name": "芦笋培根卷",
+        "spec": "15元/串",
+        "minQty": 16,
+        "price": 15,
+        "img": "p31_2.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "香芒培根卷",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p31_3.jpg",
+        "note": "16串起订"
+      },
+      {
+        "name": "青虾水果沙拉塔",
+        "spec": "15元/串",
+        "minQty": 16,
+        "price": 15,
+        "img": "p31_4.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "米肠芝士花卷",
+        "spec": "13元/串",
+        "minQty": 16,
+        "price": 13,
+        "img": "p31_5.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "香缇沙拉培根",
+        "spec": "13元/串",
+        "minQty": 16,
+        "price": 13,
+        "img": "p32_0.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "火腿蜜瓜卷",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p32_1.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "蜜瓜芝士培根",
+        "spec": "11元/串",
+        "minQty": 16,
+        "price": 11,
+        "img": "p32_2.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "水果鲜虾沙拉杯",
+        "spec": "11元/串",
+        "minQty": 16,
+        "price": 11,
+        "img": "p32_5.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "牛肉杂锦串",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p32_3.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "火腿口蘑挞",
+        "spec": "15元/串",
+        "minQty": 16,
+        "price": 15,
+        "img": "p34_2.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "米肠黑松露",
+        "spec": "13元/串",
+        "minQty": 16,
+        "price": 13,
+        "img": "p33_2.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "凤梨烤翅",
+        "spec": "10元/串",
+        "minQty": 20,
+        "price": 10,
+        "img": "p33_1.jpg",
+        "note": "16串起订"
+      },
+      {
+        "name": "香印鱼蛋",
+        "spec": "9元/串",
+        "minQty": 16,
+        "price": 9,
+        "img": "p33_3.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "黑椒牛肉塔",
+        "spec": "12元/个",
+        "minQty": 16,
+        "price": 12,
+        "img": "p33_4.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "帕斯雀牛肉口蘑杯",
+        "spec": "12元/个",
+        "minQty": 16,
+        "price": 12,
+        "img": "p34_2.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "萨拉米肠香印",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p34_1.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "德式香肠蟹柳串",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p34_3.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "德式黑椒肠凤梨挞",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p34_4.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "蟹柳芝士塔",
+        "spec": "12元/个(小)",
+        "minQty": 16,
+        "price": 12,
+        "img": "p34_5.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "三文鱼奶酪三明治",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p35_1.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "培根蔬菜卷",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p35_0.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "法式蒜香黄油虾",
+        "spec": "13元/串",
+        "minQty": 16,
+        "price": 13,
+        "img": "p35_2.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "罗勒蟹柳白酱",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p35_3.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "意大利火腿彩椒沙拉",
+        "spec": "15元/串",
+        "minQty": 16,
+        "price": 15,
+        "img": "p35_4.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "鲜虾玉米沙拉羽衣甘蓝",
+        "spec": "15元/串",
+        "minQty": 16,
+        "price": 15,
+        "img": "p35_5.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "鸡胸肉凯撒酱法棍",
+        "spec": "11元/串",
+        "minQty": 16,
+        "price": 11,
+        "img": "p36_1.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "白汁培根野菌塔",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p36_0.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "香煎鸭胸肉萨拉米肠",
+        "spec": "13元/串",
+        "minQty": 16,
+        "price": 13,
+        "img": "p36_2.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "鲜蔬红酒牛肉粒",
+        "spec": "15元/串",
+        "minQty": 16,
+        "price": 15,
+        "img": "p36_3.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "肉酱意大利面杯",
+        "spec": "15元/份",
+        "minQty": 16,
+        "price": 15,
+        "img": "p31_1.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "轻食菠菜黑椒牛肉卷",
+        "spec": "18元/份",
+        "price": 18,
+        "minQty": 12,
+        "img": "cold_48.jpg",
+        "note": "16串起订"
+      },
+      {
+        "name": "香芒培根卷(副本)",
+        "spec": "12元/串",
+        "price": 12,
+        "minQty": 0,
+        "img": "p31_3.jpg",
+        "note": "16串起订"
+      },
+      {
+        "name": "芦笋培根卷(副本)",
+        "spec": "15元/串",
+        "price": 15,
+        "minQty": 0,
+        "img": "p31_2.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "黑椒芝士牛肉可颂",
+        "spec": "10元/份",
+        "price": 10,
+        "minQty": 12,
+        "img": "cold_51.jpg",
+        "note": "16个起订"
+      }
+    ],
+    "snack2": [
+      {
+        "name": "烤红薯（带机器）",
+        "spec": "5元/个",
+        "minQty": 100,
+        "price": 5,
+        "img": "p37_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "糖炒栗子",
+        "spec": "32元/斤",
+        "minQty": 3,
+        "price": 32,
+        "img": "p37_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "糖山楂",
+        "spec": "28元/份",
+        "minQty": 3,
+        "price": 28,
+        "img": "p37_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "冰糖葫芦（小串）",
+        "spec": "¥12/串",
+        "minQty": 20,
+        "price": 12,
+        "img": "p37_3.jpg",
+        "note": "200串起订"
+      },
+      {
+        "name": "冰糖葫芦（大串）",
+        "spec": "¥18/串",
+        "minQty": 12,
+        "price": 18,
+        "img": "p37_3.jpg",
+        "note": "200串起订"
+      },
+      {
+        "name": "薯条",
+        "spec": "80元/20人份",
+        "minQty": 1,
+        "price": 80,
+        "img": "p37_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "冰粉",
+        "spec": "15元/450人份",
+        "price": 15,
+        "minQty": 20,
+        "img": "snack2_7.jpg"
+      }
+    ],
+    "lumed": [
+      {
+        "name": "鸡块",
+        "spec": "150元/50个",
+        "minQty": 1,
+        "price": 150,
+        "img": "lumed_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "咖喱鱼蛋",
+        "spec": "2元/个",
+        "minQty": 60,
+        "price": 2,
+        "img": "p38_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "卤味素菜",
+        "spec": "33元/斤",
+        "minQty": 2,
+        "price": 33,
+        "img": "p38_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "奥尔良鸡中翅",
+        "spec": "4.5元/1个",
+        "minQty": 50,
+        "price": 4.5,
+        "img": "p38_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "纯肉火山肠",
+        "spec": "5元/条",
+        "minQty": 20,
+        "price": 5,
+        "img": "p38_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "凉拌素菜",
+        "spec": "33元/1斤",
+        "minQty": 2,
+        "price": 33,
+        "img": "p38_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "柠檬百香果无骨鸡爪",
+        "spec": "55元/斤",
+        "minQty": 2,
+        "price": 55,
+        "img": "p39_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "蒜香无骨鸭掌",
+        "spec": "55元/1斤",
+        "minQty": 2,
+        "price": 55,
+        "img": "p39_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "卤味小吃套餐",
+        "spec": "220元/4斤",
+        "minQty": 1,
+        "price": 220,
+        "img": "p39_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "【麻辣】酱卤鸭肾/鸭脖双拼",
+        "spec": "50元/斤",
+        "minQty": 2,
+        "price": 50,
+        "img": "p39_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "盐焗鸡翅",
+        "spec": "72元/1斤",
+        "minQty": 2,
+        "price": 72,
+        "img": "p39_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "寿司船",
+        "spec": "350元/份",
+        "minQty": 1,
+        "price": 350,
+        "img": "p39_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "招牌爆汁香肠",
+        "spec": "2.3元/个",
+        "minQty": 60,
+        "price": 2.3,
+        "img": "p40_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "大串秘制钵钵鸡",
+        "spec": "4元/串",
+        "minQty": 60,
+        "price": 4,
+        "img": "p40_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "现卤鸭翅",
+        "spec": "7元/个",
+        "minQty": 20,
+        "price": 7,
+        "img": "p40_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "现卤鸡爪",
+        "spec": "5.5元/个",
+        "minQty": 20,
+        "price": 5.5,
+        "img": "p40_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "现卤鸭胗",
+        "spec": "60元/斤",
+        "minQty": 2,
+        "price": 60,
+        "img": "p40_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "现卤鸭爪",
+        "spec": "5元/个",
+        "minQty": 20,
+        "price": 5,
+        "img": "p40_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "安格斯小牛肉串",
+        "spec": "100元/1斤",
+        "minQty": 1,
+        "price": 100,
+        "img": "p41_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "牙签牛肉",
+        "spec": "150元/1斤",
+        "minQty": 1,
+        "price": 150,
+        "img": "p41_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "寿司拼盘",
+        "spec": "150元/38粒",
+        "minQty": 1,
+        "price": 150,
+        "img": "p41_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "意大利肉酱面",
+        "spec": "180元/份(15人份)",
+        "minQty": 1,
+        "price": 180,
+        "img": "p41_3.jpg",
+        "note": "15人份"
+      },
+      {
+        "name": "卤味鸭下巴",
+        "spec": "10元/个",
+        "minQty": 16,
+        "price": 10,
+        "img": "p41_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "章鱼小丸子",
+        "spec": "130元/36颗",
+        "minQty": 1,
+        "price": 130,
+        "img": "p41_5.jpg",
+        "note": ""
+      }
+    ],
+    "drinks": [
+      {
+        "name": "蜜桃乌龙（8L桶装）",
+        "spec": "8L/桶 ¥200",
+        "minQty": 1,
+        "price": 200,
+        "img": "p43_0.jpg",
+        "note": "可选：冰/常温/热"
+      },
+      {
+        "name": "荔枝玫瑰红茶（8L桶装）",
+        "spec": "8L/桶 ¥200",
+        "minQty": 1,
+        "price": 200,
+        "img": "p43_0.jpg",
+        "note": "可选：冰/常温"
+      },
+      {
+        "name": "红茶（8L桶装）",
+        "spec": "8L/桶 ¥80",
+        "minQty": 1,
+        "price": 80,
+        "img": "p43_0.jpg",
+        "note": "8升装"
+      },
+      {
+        "name": "罗汉果熟地热茶（8L桶装）",
+        "spec": "8L/桶 ¥150",
+        "minQty": 1,
+        "price": 150,
+        "img": "p43_0.jpg",
+        "note": "热饮"
+      },
+      {
+        "name": "柠乐（8L桶装）",
+        "spec": "8L/桶 ¥130",
+        "minQty": 1,
+        "price": 130,
+        "img": "p43_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "橙汁（8L桶装）",
+        "spec": "8L/桶 ¥130",
+        "minQty": 1,
+        "price": 130,
+        "img": "p43_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "秘制酸梅汤（8L桶装）",
+        "spec": "8L/桶 ¥130",
+        "minQty": 1,
+        "price": 130,
+        "img": "p43_0.jpg",
+        "note": "可选：冰/常温"
+      },
+      {
+        "name": "花茶（8L桶装）",
+        "spec": "8L/桶 ¥220",
+        "minQty": 1,
+        "price": 220,
+        "img": "p43_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "奶茶（8L桶装）",
+        "spec": "8L/桶 ¥200",
+        "minQty": 1,
+        "price": 200,
+        "img": "p43_0.jpg",
+        "note": "可选：冰/常温/热"
+      },
+      {
+        "name": "水果茶（瓶装）",
+        "spec": "350ml/瓶 ¥10",
+        "minQty": 1,
+        "price": 10,
+        "img": "p43_0.jpg",
+        "note": "瓶装10元/瓶 350ml"
+      },
+      {
+        "name": "水果茶（8L桶装）",
+        "spec": "8L/桶 ¥230",
+        "minQty": 1,
+        "price": 230,
+        "img": "p43_0.jpg",
+        "note": "瓶装10元/瓶 350ml"
+      },
+      {
+        "name": "暴打香印柠檬茶（8L桶装）",
+        "spec": "8L/桶 ¥250",
+        "minQty": 1,
+        "price": 250,
+        "img": "p43_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "桂花龙眼热茶（8L桶装）",
+        "spec": "8L/桶 ¥180",
+        "minQty": 1,
+        "price": 180,
+        "img": "p43_0.jpg",
+        "note": "热饮"
+      },
+      {
+        "name": "气泡水果茶（8L桶装）",
+        "spec": "8L/桶 ¥250",
+        "minQty": 1,
+        "price": 250,
+        "img": "p43_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "暗黑玫瑰绝绝紫（8L桶装）",
+        "spec": "8L/桶 ¥280",
+        "minQty": 1,
+        "price": 280,
+        "img": "p43_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "薄荷柠檬乳酸菌（8L桶装）",
+        "spec": "8L/桶 ¥200",
+        "minQty": 1,
+        "price": 200,
+        "img": "p43_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "港式奶茶（罐装）",
+        "spec": "罐 ¥12",
+        "minQty": 1,
+        "price": 12,
+        "img": "p44_1.jpg",
+        "note": "12元/罐"
+      },
+      {
+        "name": "杨枝甘露（瓶装）",
+        "spec": "瓶 ¥12",
+        "minQty": 1,
+        "price": 12,
+        "img": "p44_2.jpg",
+        "note": "12元/瓶"
+      },
+      {
+        "name": "乳酸菌饮品（支装）",
+        "spec": "支 ¥3.5",
+        "minQty": 1,
+        "price": 3.5,
+        "img": "p44_3.jpg",
+        "note": "3.5元/支"
+      },
+      {
+        "name": "柠檬薄荷茶（壶装）",
+        "spec": "壶 ¥60",
+        "minQty": 1,
+        "price": 60,
+        "img": "p44_4.jpg",
+        "note": "60元/壶"
+      },
+      {
+        "name": "大桶缤纷水果茶（桶装）",
+        "spec": "160/5升",
+        "price": 160,
+        "minQty": 1,
+        "img": "drinks_21.jpg",
+        "note": "3.5元/支"
+      },
+      {
+        "name": "椰奶西瓜",
+        "spec": "150/5升",
+        "price": 150,
+        "minQty": 1,
+        "img": "drinks_22.jpg",
+        "note": "60元/壶"
+      },
+      {
+        "name": "杨枝甘露（桶装）",
+        "spec": "180/5升",
+        "price": 180,
+        "minQty": 1,
+        "img": "drinks_23.jpg",
+        "note": "60元/壶"
+      },
+      {
+        "name": "凤梨满杯（桶装）",
+        "spec": "160/5升",
+        "price": 160,
+        "minQty": 1,
+        "img": "drinks_24.jpg",
+        "note": "60元/壶"
+      },
+      {
+        "name": "泰式柠檬茶（桶装）",
+        "spec": "150/5升",
+        "price": 150,
+        "minQty": 1,
+        "img": "drinks_25.jpg",
+        "note": "3.5元/支"
+      }
+    ],
+    "fruit": [
+      {
+        "name": "水果拼盘(5斤装)",
+        "spec": "180元/盘(40x27x4.5cm)",
+        "minQty": 1,
+        "price": 180,
+        "img": "p45_1.jpg",
+        "note": "约5斤"
+      },
+      {
+        "name": "水果拼盘(8斤装)",
+        "spec": "250元/盘(40x31x8cm)",
+        "minQty": 1,
+        "price": 250,
+        "img": "p45_1.jpg",
+        "note": "约8斤"
+      },
+      {
+        "name": "什锦水果",
+        "spec": "10元/串(15串起)",
+        "minQty": 15,
+        "price": 10,
+        "img": "p45_0.jpg",
+        "note": "15串起订"
+      },
+      {
+        "name": "法式冷餐水果拼盘",
+        "spec": "480元/1份",
+        "minQty": 1,
+        "price": 480,
+        "img": "p46_1.jpg",
+        "note": "根据季节主题水果会变换"
+      },
+      {
+        "name": "水果鲜虾沙拉",
+        "spec": "200元/份",
+        "minQty": 1,
+        "price": 200,
+        "img": "p46_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "高脚水果杯（高级水果除外）",
+        "spec": "10元/个",
+        "minQty": 16,
+        "price": 10,
+        "img": "p46_3.jpg",
+        "note": ""
+      }
+    ],
+    "table_cake": [
+      {
+        "name": "酥皮草莓莓果蛋糕",
+        "img": "table_cake_12.jpeg",
+        "spec": "多种规格可选",
+        "price": 680,
+        "minQty": 1,
+        "isCake": true,
+        "cakeSpecs": {
+          "round": {
+            "label": "圆形",
+            "crafts": [
+              "酥皮版一层夹心",
+              "酥皮版两层夹心",
+              "蛋糕胚双层夹心",
+              "蛋糕胚双层夹心【复杂款】"
+            ],
+            "sizes": [
+              {
+                "label": "20寸(50cm)",
+                "prices": [
+                  2200,
+                  2580,
+                  1800,
+                  2180
+                ]
+              },
+              {
+                "label": "24寸(60cm)",
+                "prices": [
+                  2500,
+                  2800,
+                  2200,
+                  2580
+                ]
+              },
+              {
+                "label": "28寸(70cm)",
+                "prices": [
+                  2800,
+                  3300,
+                  2600,
+                  3000
+                ]
+              },
+              {
+                "label": "32寸(80cm)",
+                "prices": [
+                  3300,
+                  3800,
+                  3000,
+                  3500
+                ]
+              },
+              {
+                "label": "39寸(100cm)",
+                "prices": [
+                  4200,
+                  4750,
+                  3800,
+                  4300
+                ]
+              }
+            ]
+          },
+          "rect": {
+            "label": "长方形",
+            "types": [
+              "二层夹心款",
+              "定制款"
+            ],
+            "sizes": [
+              {
+                "label": "60×40cm",
+                "standardPrice": 980
+              },
+              {
+                "label": "50×30cm",
+                "standardPrice": 780
+              },
+              {
+                "label": "40×30cm",
+                "standardPrice": 680
+              }
+            ]
+          },
+          "note": "水果：草莓+树莓+蓝莓；夹心：草莓果酱夹心"
+        }
+      },
+      {
+        "name": "酥皮青提蛋糕",
+        "img": "table_cake_13.jpeg",
+        "spec": "多种规格可选",
+        "price": 680,
+        "minQty": 1,
+        "isCake": true,
+        "cakeSpecs": {
+          "round": {
+            "label": "圆形",
+            "crafts": [
+              "酥皮版一层夹心",
+              "酥皮版两层夹心",
+              "蛋糕胚双层夹心",
+              "蛋糕胚双层夹心【复杂款】"
+            ],
+            "sizes": [
+              {
+                "label": "20寸(50cm)",
+                "prices": [
+                  2200,
+                  2580,
+                  1800,
+                  2180
+                ]
+              },
+              {
+                "label": "24寸(60cm)",
+                "prices": [
+                  2500,
+                  2800,
+                  2200,
+                  2580
+                ]
+              },
+              {
+                "label": "28寸(70cm)",
+                "prices": [
+                  2800,
+                  3300,
+                  2600,
+                  3000
+                ]
+              },
+              {
+                "label": "32寸(80cm)",
+                "prices": [
+                  3300,
+                  3800,
+                  3000,
+                  3500
+                ]
+              },
+              {
+                "label": "39寸(100cm)",
+                "prices": [
+                  4200,
+                  4750,
+                  3800,
+                  4300
+                ]
+              }
+            ]
+          },
+          "rect": {
+            "label": "长方形",
+            "types": [
+              "二层夹心款",
+              "定制款"
+            ],
+            "sizes": [
+              {
+                "label": "60×40cm",
+                "standardPrice": 980
+              },
+              {
+                "label": "50×30cm",
+                "standardPrice": 780
+              },
+              {
+                "label": "40×30cm",
+                "standardPrice": 680
+              }
+            ]
+          },
+          "note": "水果：青提为主；夹心：青提夹心"
+        }
+      },
+      {
+        "name": "酥皮纯树莓蛋糕",
+        "img": "table_cake_14.jpeg",
+        "spec": "多种规格可选",
+        "price": 680,
+        "minQty": 1,
+        "isCake": true,
+        "cakeSpecs": {
+          "round": {
+            "label": "圆形",
+            "crafts": [
+              "酥皮版一层夹心",
+              "酥皮版两层夹心",
+              "蛋糕胚双层夹心",
+              "蛋糕胚双层夹心【复杂款】"
+            ],
+            "sizes": [
+              {
+                "label": "20寸(50cm)",
+                "prices": [
+                  2200,
+                  2580,
+                  1800,
+                  2180
+                ]
+              },
+              {
+                "label": "24寸(60cm)",
+                "prices": [
+                  2500,
+                  2800,
+                  2200,
+                  2580
+                ]
+              },
+              {
+                "label": "28寸(70cm)",
+                "prices": [
+                  2800,
+                  3300,
+                  2600,
+                  3000
+                ]
+              },
+              {
+                "label": "32寸(80cm)",
+                "prices": [
+                  3300,
+                  3800,
+                  3000,
+                  3500
+                ]
+              },
+              {
+                "label": "39寸(100cm)",
+                "prices": [
+                  4200,
+                  4750,
+                  3800,
+                  4300
+                ]
+              }
+            ]
+          },
+          "rect": {
+            "label": "长方形",
+            "types": [
+              "二层夹心款",
+              "定制款"
+            ],
+            "sizes": [
+              {
+                "label": "60×40cm",
+                "standardPrice": 980
+              },
+              {
+                "label": "50×30cm",
+                "standardPrice": 780
+              },
+              {
+                "label": "40×30cm",
+                "standardPrice": 680
+              }
+            ]
+          },
+          "note": "水果：纯树莓；夹心：草莓果酱夹心；纯树莓额外加¥500"
+        }
+      },
+      {
+        "name": "酥皮莓果双层蛋糕",
+        "img": "table_cake_15.jpeg",
+        "spec": "多种规格可选",
+        "price": 680,
+        "minQty": 1,
+        "isCake": true,
+        "cakeSpecs": {
+          "round": {
+            "label": "圆形",
+            "crafts": [
+              "酥皮版一层夹心",
+              "酥皮版两层夹心",
+              "蛋糕胚双层夹心",
+              "蛋糕胚双层夹心【复杂款】"
+            ],
+            "sizes": [
+              {
+                "label": "20寸(50cm)",
+                "prices": [
+                  2200,
+                  2580,
+                  1800,
+                  2180
+                ]
+              },
+              {
+                "label": "24寸(60cm)",
+                "prices": [
+                  2500,
+                  2800,
+                  2200,
+                  2580
+                ]
+              },
+              {
+                "label": "28寸(70cm)",
+                "prices": [
+                  2800,
+                  3300,
+                  2600,
+                  3000
+                ]
+              },
+              {
+                "label": "32寸(80cm)",
+                "prices": [
+                  3300,
+                  3800,
+                  3000,
+                  3500
+                ]
+              },
+              {
+                "label": "39寸(100cm)",
+                "prices": [
+                  4200,
+                  4750,
+                  3800,
+                  4300
+                ]
+              }
+            ]
+          },
+          "rect": {
+            "label": "长方形",
+            "types": [
+              "二层夹心款",
+              "定制款"
+            ],
+            "sizes": [
+              {
+                "label": "60×40cm",
+                "standardPrice": 980
+              },
+              {
+                "label": "50×30cm",
+                "standardPrice": 780
+              },
+              {
+                "label": "40×30cm",
+                "standardPrice": 680
+              }
+            ]
+          },
+          "note": "水果：草莓+树莓+蓝莓；夹心：草莓果酱夹心"
+        }
+      },
+      {
+        "name": "蛋糕胚莓果蛋糕",
+        "img": "table_cake_16.jpeg",
+        "spec": "多种规格可选",
+        "price": 680,
+        "minQty": 1,
+        "isCake": true,
+        "cakeSpecs": {
+          "round": {
+            "label": "圆形",
+            "crafts": [
+              "酥皮版一层夹心",
+              "酥皮版两层夹心",
+              "蛋糕胚双层夹心",
+              "蛋糕胚双层夹心【复杂款】"
+            ],
+            "sizes": [
+              {
+                "label": "20寸(50cm)",
+                "prices": [
+                  2200,
+                  2580,
+                  1800,
+                  2180
+                ]
+              },
+              {
+                "label": "24寸(60cm)",
+                "prices": [
+                  2500,
+                  2800,
+                  2200,
+                  2580
+                ]
+              },
+              {
+                "label": "28寸(70cm)",
+                "prices": [
+                  2800,
+                  3300,
+                  2600,
+                  3000
+                ]
+              },
+              {
+                "label": "32寸(80cm)",
+                "prices": [
+                  3300,
+                  3800,
+                  3000,
+                  3500
+                ]
+              },
+              {
+                "label": "39寸(100cm)",
+                "prices": [
+                  4200,
+                  4750,
+                  3800,
+                  4300
+                ]
+              }
+            ]
+          },
+          "rect": {
+            "label": "长方形",
+            "types": [
+              "二层夹心款",
+              "定制款"
+            ],
+            "sizes": [
+              {
+                "label": "60×40cm",
+                "standardPrice": 980
+              },
+              {
+                "label": "50×30cm",
+                "standardPrice": 780
+              },
+              {
+                "label": "40×30cm",
+                "standardPrice": 680
+              }
+            ]
+          },
+          "note": "水果：草莓+蓝莓；夹心：草莓果酱夹心"
+        }
+      },
+      {
+        "name": "提拉米苏大蛋糕",
+        "img": "table_cake_17.jpeg",
+        "spec": "多种规格可选",
+        "price": 680,
+        "minQty": 1,
+        "isCake": true,
+        "cakeSpecs": {
+          "round": {
+            "label": "圆形",
+            "crafts": [
+              "酥皮版一层夹心",
+              "酥皮版两层夹心",
+              "蛋糕胚双层夹心",
+              "蛋糕胚双层夹心【复杂款】"
+            ],
+            "sizes": [
+              {
+                "label": "20寸(50cm)",
+                "prices": [
+                  2200,
+                  2580,
+                  1800,
+                  2180
+                ]
+              },
+              {
+                "label": "24寸(60cm)",
+                "prices": [
+                  2500,
+                  2800,
+                  2200,
+                  2580
+                ]
+              },
+              {
+                "label": "28寸(70cm)",
+                "prices": [
+                  2800,
+                  3300,
+                  2600,
+                  3000
+                ]
+              },
+              {
+                "label": "32寸(80cm)",
+                "prices": [
+                  3300,
+                  3800,
+                  3000,
+                  3500
+                ]
+              },
+              {
+                "label": "39寸(100cm)",
+                "prices": [
+                  4200,
+                  4750,
+                  3800,
+                  4300
+                ]
+              }
+            ]
+          },
+          "rect": {
+            "label": "长方形",
+            "types": [
+              "二层夹心款",
+              "定制款"
+            ],
+            "sizes": [
+              {
+                "label": "60×40cm",
+                "standardPrice": 980
+              },
+              {
+                "label": "50×30cm",
+                "standardPrice": 780
+              },
+              {
+                "label": "40×30cm",
+                "standardPrice": 680
+              }
+            ]
+          },
+          "note": "水果：提拉米苏；夹心：提拉米苏夹心"
+        }
+      },
+      {
+        "name": "老师驻场服务",
+        "img": "",
+        "spec": "150元/场",
+        "price": 150,
+        "minQty": 0,
+        "note": "专业烘焙老师现场服务，提供糖粉筛等工具。免费提供餐具，免费配套桌子，不包含配送费。"
+      }
+    ]
+  }
+}
