@@ -216,13 +216,6 @@
         "price": 18,
         "img": "p08_4.jpg",
         "note": "可订小款 10元/个"
-      },
-      {
-        "name": "电脑测试",
-        "spec": "12元/个",
-        "price": 12,
-        "minQty": 0,
-        "img": "cream_1.jpg"
       }
     ],
     "cheese": [
