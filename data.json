@@ -533,9 +533,9 @@
       },
       {
         "name": "法式小热狗",
-        "spec": "5元/个",
+        "spec": "6元/个",
         "minQty": 10,
-        "price": 5,
+        "price": 6,
         "img": "p18_5.jpg",
         "note": ""
       },
@@ -597,9 +597,9 @@
       },
       {
         "name": "原味爆浆大泡芙",
-        "spec": "6元/个",
+        "spec": "10元/个",
         "minQty": 8,
-        "price": 6,
+        "price": 10,
         "img": "p20_3.jpg",
         "note": ""
       },
@@ -613,81 +613,49 @@
       },
       {
         "name": "肉松虎皮卷",
-        "spec": "4元/个",
+        "spec": "6元/个",
         "minQty": 8,
-        "price": 4,
+        "price": 6,
         "img": "p20_5.jpg",
         "note": ""
       },
       {
         "name": "手工醇糖绿豆冰糕",
-        "spec": "5元/个",
+        "spec": "6元/个",
         "minQty": 10,
-        "price": 5,
+        "price": 6,
         "img": "p21_0.jpg",
         "note": ""
       },
       {
-        "name": "顶级黄油牛角包",
-        "spec": "8元/个",
-        "minQty": 10,
-        "price": 8,
-        "img": "p21_1.jpg",
-        "note": ""
-      },
-      {
         "name": "千层葡挞",
-        "spec": "3.5元/个",
+        "spec": "5元/个",
         "minQty": 12,
-        "price": 3.5,
+        "price": 5,
         "img": "p21_2.jpg",
         "note": ""
       },
       {
-        "name": "潮汕咸香绿豆饼",
-        "spec": "60元/份(20个)",
-        "minQty": 1,
-        "price": 60,
-        "img": "p21_4.jpg",
-        "note": "20个一份"
-      },
-      {
-        "name": "蝴蝶酥",
-        "spec": "4元/个",
-        "minQty": 12,
-        "price": 4,
-        "img": "p21_3.jpg",
-        "note": "20个一份"
-      },
-      {
         "name": "起酥老婆饼",
-        "spec": "60元/份（20个）",
+        "spec": "60元/份（15个）",
         "minQty": 1,
         "price": 60,
         "img": "p21_5.jpg",
         "note": ""
       },
       {
-        "name": "芋泥海苔号角酥（大）",
-        "spec": "¥12/个",
-        "minQty": 8,
+        "name": "芋泥海苔号角酥",
+        "spec": "12元/个",
+        "minQty": 10,
         "price": 12,
         "img": "p18_0.jpg",
-        "note": "可订小款 7元/个"
-      },
-      {
-        "name": "芋泥海苔号角酥（小）",
-        "spec": "¥8/个",
-        "minQty": 12,
-        "price": 8,
-        "img": "p18_0.jpg",
-        "note": "可订小款 7元/个"
+        "note": ""
       },
       {
         "name": "鸡扒三文治（小份）",
-        "spec": "7元/个",
+        "spec": "8元/个",
         "minQty": 16,
-        "price": 7,
+        "price": 8,
         "img": "p18_4.jpg",
         "note": ""
       },
@@ -703,9 +671,9 @@
     "handmade": [
       {
         "name": "桃花酥",
-        "spec": "12元/个",
+        "spec": "16元/个",
         "minQty": 4,
-        "price": 12,
+        "price": 16,
         "img": "p22_1.jpg",
         "note": ""
       },
@@ -718,10 +686,10 @@
         "note": ""
       },
       {
-        "name": "迷你凤梨酥",
-        "spec": "7元/个",
+        "name": "卡通凤梨酥",
+        "spec": "12.8元/个",
         "minQty": 10,
-        "price": 7,
+        "price": 12.8,
         "img": "p22_3.jpg",
         "note": ""
       }
