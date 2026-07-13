@@ -124,25 +124,25 @@
       },
       {
         "name": "纸杯蛋糕（大）",
-        "spec": "¥15/个",
+        "spec": "¥13/个",
         "minQty": 6,
-        "price": 15,
+        "price": 13,
         "img": "cream_4.jpg",
         "note": "可订小款 8元/个"
       },
       {
         "name": "cupcake蛋糕（小）",
-        "spec": "¥9.5/个",
+        "spec": "¥8/个",
         "minQty": 8,
-        "price": 9.5,
+        "price": 8,
         "img": "p07_1.jpg",
         "note": "可订小款 8元/个"
       },
       {
         "name": "水果流心泡芙",
-        "spec": "15元/个",
+        "spec": "12元/个",
         "minQty": 8,
-        "price": 15,
+        "price": 12,
         "img": "p07_2.jpg",
         "note": ""
       },
