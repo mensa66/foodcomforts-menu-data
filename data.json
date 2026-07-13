@@ -100,7 +100,7 @@
     "cream": [
       {
         "name": "水果抱抱卷",
-        "spec": "个",
+        "spec": "¥12.5/个",
         "minQty": 20,
         "price": 12.5,
         "img": "cream_1.jpg",
@@ -108,7 +108,7 @@
       },
       {
         "name": "海盐低糖杏仁卷",
-        "spec": "个",
+        "spec": "¥12.5/个",
         "minQty": 10,
         "price": 12.5,
         "img": "p06_2.jpg",
@@ -116,7 +116,7 @@
       },
       {
         "name": "鲜果小方蛋糕(小)",
-        "spec": "个",
+        "spec": "¥12/个",
         "minQty": 16,
         "price": 12,
         "img": "p06_3.jpg",
@@ -124,17 +124,17 @@
       },
       {
         "name": "纸杯蛋糕（大）",
-        "spec": "¥13/个",
+        "spec": "¥15/个",
         "minQty": 6,
-        "price": 13,
+        "price": 15,
         "img": "cream_4.jpg",
         "note": "可订小款 8元/个"
       },
       {
         "name": "cupcake蛋糕（小）",
-        "spec": "¥8/个",
+        "spec": "¥10/个",
         "minQty": 8,
-        "price": 8,
+        "price": 10,
         "img": "p07_1.jpg",
         "note": "可订小款 8元/个"
       },
