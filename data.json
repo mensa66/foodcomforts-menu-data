@@ -128,7 +128,7 @@
         "minQty": 6,
         "price": 15,
         "img": "cream_4.jpg",
-        "note": "可订小款 8元/个"
+        "note": ""
       },
       {
         "name": "cupcake蛋糕（小）",
@@ -136,53 +136,45 @@
         "minQty": 8,
         "price": 10,
         "img": "p07_1.jpg",
-        "note": "可订小款 8元/个"
+        "note": ""
       },
       {
         "name": "水果流心泡芙",
-        "spec": "12元/个",
+        "spec": "15元/个",
         "minQty": 8,
-        "price": 12,
+        "price": 15,
         "img": "p07_2.jpg",
         "note": ""
       },
       {
         "name": "水果号角酥（大）",
-        "spec": "¥18/个",
-        "minQty": 8,
-        "price": 13,
+        "spec": "¥16/个",
+        "minQty": 10,
+        "price": 16,
         "img": "p07_4.jpg",
-        "note": "可订小款 12元/个"
+        "note": ""
       },
       {
         "name": "水果号角酥（小）",
         "spec": "¥12",
-        "price": 10,
-        "minQty": 12,
+        "price": 12,
+        "minQty": 10,
         "img": "p07_4.jpg",
-        "note": "可订小款 12元/个"
-      },
-      {
-        "name": "中式竹筒蛋糕",
-        "spec": "20元/个",
-        "minQty": 6,
-        "price": 20,
-        "img": "p07_5.jpg",
-        "note": "10个起订"
+        "note": ""
       },
       {
         "name": "鲜果瑞士卷",
-        "spec": "12元/个",
-        "minQty": 10,
-        "price": 12,
+        "spec": "15元/个",
+        "minQty": 8,
+        "price": 5,
         "img": "p08_0.jpg",
-        "note": "可订小款 12元/个"
+        "note": ""
       },
       {
         "name": "精致水果高脚奶油杯子（小）",
-        "spec": "¥15/个",
+        "spec": "¥16/个",
         "minQty": 8,
-        "price": 15,
+        "price": 16,
         "img": "p08_4.jpg",
         "note": "可订小款 10元/个"
       },
@@ -196,33 +188,18 @@
       },
       {
         "name": "鲜果小方蛋糕(大)",
-        "spec": "12元/个",
-        "price": 12,
+        "spec": "15元/个",
+        "price": 15,
         "minQty": 16,
         "img": "p06_3.jpg"
       },
       {
         "name": "鲜果夹心蛋糕卷",
-        "spec": "12元/个",
+        "spec": "15元/个",
         "minQty": 10,
-        "price": 12,
+        "price": 15,
         "img": "p07_3.jpg",
         "note": ""
-      },
-      {
-        "name": "水果高脚奶油杯子",
-        "spec": "¥18/个",
-        "minQty": 1,
-        "price": 18,
-        "img": "p08_4.jpg",
-        "note": "可订小款 10元/个"
-      },
-      {
-        "name": "电脑测试",
-        "spec": "12元/个",
-        "price": 12,
-        "minQty": 0,
-        "img": "cream_1.jpg"
       }
     ],
     "cheese": [
