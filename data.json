@@ -369,9 +369,9 @@
     "lightcream": [
       {
         "name": "精致慕斯杯蛋糕",
-        "spec": "8元/个(可选蓝莓/草莓/芒果/抹茶)",
+        "spec": "16元/个(可选蓝莓/草莓/芒果/抹茶)",
         "minQty": 8,
-        "price": 10,
+        "price": 16,
         "img": "p13_1.jpg",
         "note": "多种口味可选"
       },
@@ -385,147 +385,123 @@
       },
       {
         "name": "椰奶烤布蕾（少奶油产品）",
-        "spec": "12元/个",
+        "spec": "12.5元/个",
         "minQty": 6,
-        "price": 12,
+        "price": 12.5,
         "img": "p14_0.jpg",
         "note": ""
       },
       {
         "name": "现烤焦糖布丁",
-        "spec": "14元/个",
+        "spec": "15元/个",
         "minQty": 8,
-        "price": 14,
+        "price": 15,
         "img": "p14_1.jpg",
         "note": ""
       },
       {
-        "name": "大理石磅蛋糕",
-        "spec": "12元/个",
-        "minQty": 1,
-        "price": 12,
-        "img": "p14_2.jpg",
-        "note": ""
-      },
-      {
         "name": "清甜椰奶奶砖",
-        "spec": "65元/份(约16粒)",
+        "spec": "68元/份(约16粒)",
         "minQty": 1,
-        "price": 65,
+        "price": 68,
         "img": "p14_3.jpg",
         "note": "一份16粒"
       },
       {
         "name": "初夏（少奶油蛋糕）",
-        "spec": "12元/个",
+        "spec": "15元/个",
         "minQty": 8,
-        "price": 12,
+        "price": 15,
         "img": "p14_4.jpg",
         "note": ""
       },
       {
         "name": "研磨时光（轻糖少奶油产品）",
-        "spec": "12元/个",
+        "spec": "14元/个",
         "minQty": 8,
-        "price": 12,
+        "price": 14,
         "img": "p14_5.jpg",
         "note": ""
       },
       {
         "name": "秘境（少奶油系列）",
-        "spec": "12元/个",
+        "spec": "14元/个",
         "minQty": 10,
-        "price": 12,
+        "price": 14,
         "img": "p15_1.jpg",
-        "note": ""
-      },
-      {
-        "name": "酸甜蓝莓塔",
-        "spec": "12元/个",
-        "minQty": 10,
-        "price": 12,
-        "img": "p15_2.jpg",
         "note": ""
       }
     ],
     "mousse": [
       {
         "name": "意式提拉米苏（小）",
-        "spec": "¥12/个",
+        "spec": "¥15/个",
         "minQty": 8,
-        "price": 12,
-        "img": "p16_0.jpg",
-        "note": "8个起订，可选小款12元/大款20元"
-      },
-      {
-        "name": "意式提拉米苏（大）",
-        "spec": "¥20/个",
-        "minQty": 8,
-        "price": 20,
+        "price": 15,
         "img": "p16_0.jpg",
         "note": "8个起订，可选小款12元/大款20元"
       },
       {
         "name": "莓果提拉米苏",
-        "spec": "13元/个",
+        "spec": "16元/个",
         "minQty": 6,
-        "price": 13,
+        "price": 16,
         "img": "p16_1.jpg",
         "note": ""
       },
       {
         "name": "芋泥椰椰",
-        "spec": "12元/个",
+        "spec": "15元/个",
         "minQty": 10,
-        "price": 12,
+        "price": 15,
         "img": "p16_2.jpg",
         "note": ""
       },
       {
         "name": "鲜芒多多",
-        "spec": "10元/个",
+        "spec": "13元/个",
         "minQty": 10,
-        "price": 10,
+        "price": 13,
         "img": "p16_3.jpg",
         "note": ""
       },
       {
         "name": "云顶百香（酸甜可口）",
-        "spec": "13元/个",
+        "spec": "16元/个",
         "minQty": 6,
-        "price": 13,
+        "price": 16,
         "img": "p16_4.jpg",
         "note": ""
       },
       {
         "name": "栗屿微光",
-        "spec": "11元/个",
+        "spec": "13元/个",
         "minQty": 6,
-        "price": 11,
+        "price": 13,
         "img": "p17_0.jpg",
         "note": ""
       },
       {
         "name": "绿野轻慕",
-        "spec": "15元/个",
+        "spec": "16元/个",
         "minQty": 1,
-        "price": 15,
+        "price": 16,
         "img": "p17_1.jpg",
         "note": ""
       },
       {
         "name": "酸奶可可",
-        "spec": "10元/个",
+        "spec": "12元/个",
         "minQty": 6,
-        "price": 10,
+        "price": 12,
         "img": "p17_2.jpg",
         "note": ""
       },
       {
         "name": "杏语微甜",
-        "spec": "¥10/个",
+        "spec": "¥12.5/个",
         "minQty": 8,
-        "price": 10,
+        "price": 12.5,
         "img": "p16_5.jpg",
         "note": "可选大款15元/个"
       }
@@ -533,9 +509,9 @@
     "snack": [
       {
         "name": "黑金迷你汉堡",
-        "spec": "10元/个",
+        "spec": "12元/个",
         "minQty": 10,
-        "price": 10,
+        "price": 12,
         "img": "p18_2.jpg",
         "note": ""
       },
@@ -549,9 +525,9 @@
       },
       {
         "name": "迷你芝士汉堡",
-        "spec": "8元/个",
+        "spec": "12元/个",
         "minQty": 10,
-        "price": 8,
+        "price": 12,
         "img": "p18_3.jpg",
         "note": ""
       },
@@ -588,14 +564,6 @@
         "note": ""
       },
       {
-        "name": "肉松小方",
-        "spec": "4元/个",
-        "minQty": 16,
-        "price": 4,
-        "img": "p19_3.jpg",
-        "note": ""
-      },
-      {
         "name": "巧克力薄脆",
         "spec": "120克",
         "minQty": 1,
@@ -605,17 +573,17 @@
       },
       {
         "name": "现烤麻薯球",
-        "spec": "3元/个",
+        "spec": "4元/个",
         "minQty": 9,
-        "price": 3,
+        "price": 4,
         "img": "p19_5.jpg",
         "note": ""
       },
       {
         "name": "一口芝士火腿麻薯",
-        "spec": "20元/盒(12个一盒)",
+        "spec": "24元/盒(12个一盒)",
         "minQty": 1,
-        "price": 20,
+        "price": 24,
         "img": "p20_0.jpg",
         "note": "12个一盒"
       },
