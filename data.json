@@ -735,7 +735,7 @@
         "minQty": 12,
         "price": 20,
         "img": "p25_0.jpg",
-        "note": "12个起订"
+        "note": ""
       },
       {
         "name": "抹茶伯爵",
@@ -743,23 +743,15 @@
         "minQty": 12,
         "price": 20,
         "img": "p25_1.jpg",
-        "note": "12个起订"
+        "note": ""
       },
       {
         "name": "椰香雪莉",
-        "spec": "15元/个",
+        "spec": "16元/个",
         "minQty": 12,
-        "price": 15,
+        "price": 16,
         "img": "p25_2.jpg",
-        "note": "12个起订"
-      },
-      {
-        "name": "半糖春日",
-        "spec": "15元/个",
-        "minQty": 12,
-        "price": 15,
-        "img": "p25_3.jpg",
-        "note": "12个起订"
+        "note": ""
       },
       {
         "name": "桃之夭夭",
@@ -767,7 +759,7 @@
         "minQty": 12,
         "price": 18,
         "img": "p25_4.jpg",
-        "note": "12个起订"
+        "note": ""
       },
       {
         "name": "玫瑰荔荔",
@@ -775,7 +767,7 @@
         "minQty": 12,
         "price": 16,
         "img": "p25_5.jpg",
-        "note": "12个起订"
+        "note": ""
       },
       {
         "name": "甜心结梦",
@@ -783,39 +775,39 @@
         "minQty": 8,
         "price": 22,
         "img": "p26_0.jpg",
-        "note": "12个起订"
+        "note": ""
       },
       {
         "name": "小葵朵朵",
         "spec": "20元/个",
-        "minQty": 6,
+        "minQty": 8,
         "price": 20,
         "img": "p26_1.jpg",
-        "note": "12个起订"
+        "note": ""
       },
       {
         "name": "奶蓝泡泡",
         "spec": "¥28/个",
-        "minQty": 6,
+        "minQty": 8,
         "price": 20,
         "img": "p26_2.jpg",
-        "note": "12个起订，可选小款15元"
+        "note": ""
       },
       {
         "name": "花见漫想",
         "spec": "23元/个",
-        "minQty": 6,
+        "minQty": 8,
         "price": 23,
         "img": "p26_3.jpg",
-        "note": "12个起订"
+        "note": ""
       },
       {
         "name": "晴日云酪",
         "spec": "28元/个",
-        "minQty": 6,
+        "minQty": 8,
         "price": 28,
         "img": "p26_4.jpg",
-        "note": "12个起订"
+        "note": ""
       },
       {
         "name": "荔露凝香",
@@ -823,36 +815,36 @@
         "minQty": 8,
         "price": 16,
         "img": "p26_5.jpg",
-        "note": "12个起订，可选小款15元"
+        "note": ""
       },
       {
         "name": "巧克力梦龙",
-        "spec": "12元/个",
+        "spec": "16元/个",
         "minQty": 10,
-        "price": 12,
+        "price": 16,
         "img": "p27_0.jpg",
-        "note": "12个起订"
+        "note": ""
       },
       {
         "name": "芒芒夏日",
-        "spec": "15元/个(小)",
+        "spec": "16元/个",
         "minQty": 8,
-        "price": 15,
+        "price": 16,
         "img": "p27_2.jpg",
-        "note": "12个起订"
+        "note": ""
       },
       {
         "name": "柠檬乳酪",
-        "spec": "15元/个",
-        "minQty": 6,
-        "price": 15,
+        "spec": "16元/个",
+        "minQty": 8,
+        "price": 16,
         "img": "p27_1.jpg",
-        "note": "12个起订"
+        "note": ""
       },
       {
         "name": "茉莉蜜桃",
-        "spec": "18元/个(小)",
-        "minQty": 6,
+        "spec": "18元/个",
+        "minQty": 8,
         "price": 18,
         "img": "p27_3.jpg",
         "note": ""
@@ -860,7 +852,7 @@
       {
         "name": "特洛伊",
         "spec": "20元/个",
-        "minQty": 6,
+        "minQty": 8,
         "price": 20,
         "img": "p27_4.jpg",
         "note": ""
@@ -869,19 +861,19 @@
     "cold": [
       {
         "name": "芝士火腿卷",
-        "spec": "8元/串",
+        "spec": "8.5元/串",
         "minQty": 16,
-        "price": 8,
+        "price": 8.5,
         "img": "p28_1.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "鲜虾香芒蔬菜沙拉",
-        "spec": "12元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p28_2.jpg",
-        "note": "16串起订"
+        "note": ""
       },
       {
         "name": "鲜虾牛油果",
@@ -889,23 +881,23 @@
         "minQty": 16,
         "price": 20,
         "img": "p28_3.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "蜜瓜培根卷",
-        "spec": "12元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p28_4.jpg",
-        "note": "16串起订"
+        "note": ""
       },
       {
         "name": "蜜瓜帕尔马奶酪",
-        "spec": "12元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p29_0.jpg",
-        "note": "16串起订"
+        "note": ""
       },
       {
         "name": "蜂蜜无花果培根杯",
@@ -913,95 +905,95 @@
         "minQty": 16,
         "price": 18,
         "img": "p29_1.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "芝士鸡块果蔬小汉堡",
-        "spec": "8元/个",
+        "spec": "12元/个",
         "minQty": 16,
-        "price": 8,
+        "price": 12,
         "img": "p29_2.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "凤梨培根卷",
-        "spec": "12元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p29_3.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "小号培根秋葵卷",
-        "spec": "12元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p29_4.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "蟹柳鲜蔬杯",
         "spec": "15元/个",
         "minQty": 16,
-        "price": 12,
+        "price": 15,
         "img": "p29_5.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "橄榄萨拉米三明治",
-        "spec": "12元/个",
+        "spec": "15元/个",
         "minQty": 16,
-        "price": 12,
+        "price": 15,
         "img": "p30_0.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "青瓜鲜虾塔",
-        "spec": "12元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p30_1.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "培根青瓜法棍",
-        "spec": "12元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p30_2.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "鲜虾培根三明治",
-        "spec": "12元/个",
+        "spec": "12.5元/个",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p30_3.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "马苏里拉奶酪火腿串",
-        "spec": "13元/串",
+        "spec": "15元/串",
         "minQty": 16,
-        "price": 13,
+        "price": 15,
         "img": "p30_4.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "夏威夷黑椒牛肉粒串",
-        "spec": "12元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p30_5.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "杯子三明治",
-        "spec": "10元/串",
+        "spec": "10.5元/串",
         "minQty": 16,
-        "price": 10,
+        "price": 10.5,
         "img": "p31_0.jpg",
-        "note": "16串起订"
+        "note": ""
       },
       {
         "name": "芦笋培根卷",
@@ -1009,15 +1001,15 @@
         "minQty": 16,
         "price": 15,
         "img": "p31_2.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "香芒培根卷",
-        "spec": "12元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p31_3.jpg",
-        "note": "16串起订"
+        "note": ""
       },
       {
         "name": "青虾水果沙拉塔",
@@ -1025,71 +1017,63 @@
         "minQty": 16,
         "price": 15,
         "img": "p31_4.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "米肠芝士花卷",
-        "spec": "13元/串",
+        "spec": "13.5元/串",
         "minQty": 16,
-        "price": 13,
+        "price": 13.5,
         "img": "p31_5.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "香缇沙拉培根",
-        "spec": "13元/串",
+        "spec": "13.5元/串",
         "minQty": 16,
-        "price": 13,
+        "price": 13.5,
         "img": "p32_0.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "火腿蜜瓜卷",
-        "spec": "12元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p32_1.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "蜜瓜芝士培根",
-        "spec": "11元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 11,
+        "price": 12.5,
         "img": "p32_2.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "水果鲜虾沙拉杯",
-        "spec": "11元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 11,
+        "price": 12.5,
         "img": "p32_5.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "牛肉杂锦串",
-        "spec": "12元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p32_3.jpg",
-        "note": "16个起订"
-      },
-      {
-        "name": "火腿口蘑挞",
-        "spec": "15元/串",
-        "minQty": 16,
-        "price": 15,
-        "img": "p34_2.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "米肠黑松露",
-        "spec": "13元/串",
+        "spec": "15元/串",
         "minQty": 16,
-        "price": 13,
+        "price": 15,
         "img": "p33_2.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "凤梨烤翅",
@@ -1097,7 +1081,7 @@
         "minQty": 20,
         "price": 10,
         "img": "p33_1.jpg",
-        "note": "16串起订"
+        "note": ""
       },
       {
         "name": "香印鱼蛋",
@@ -1105,175 +1089,175 @@
         "minQty": 16,
         "price": 9,
         "img": "p33_3.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "黑椒牛肉塔",
-        "spec": "12元/个",
+        "spec": "12.5元/个",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p33_4.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "帕斯雀牛肉口蘑杯",
-        "spec": "12元/个",
+        "spec": "12.5元/个",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p34_2.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "萨拉米肠香印",
-        "spec": "12元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p34_1.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "德式香肠蟹柳串",
-        "spec": "12元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p34_3.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "德式黑椒肠凤梨挞",
-        "spec": "12元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p34_4.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "蟹柳芝士塔",
-        "spec": "12元/个(小)",
+        "spec": "12.5元/个(小)",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p34_5.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "三文鱼奶酪三明治",
-        "spec": "12元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p35_1.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "培根蔬菜卷",
-        "spec": "12元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p35_0.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "法式蒜香黄油虾",
-        "spec": "13元/串",
+        "spec": "13.5元/串",
         "minQty": 16,
-        "price": 13,
+        "price": 13.5,
         "img": "p35_2.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "罗勒蟹柳白酱",
-        "spec": "12元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p35_3.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "意大利火腿彩椒沙拉",
-        "spec": "15元/串",
+        "spec": "16元/串",
         "minQty": 16,
-        "price": 15,
+        "price": 16,
         "img": "p35_4.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "鲜虾玉米沙拉羽衣甘蓝",
-        "spec": "15元/串",
+        "spec": "16元/串",
         "minQty": 16,
-        "price": 15,
+        "price": 16,
         "img": "p35_5.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "鸡胸肉凯撒酱法棍",
-        "spec": "11元/串",
+        "spec": "12元/串",
         "minQty": 16,
-        "price": 11,
+        "price": 12,
         "img": "p36_1.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "白汁培根野菌塔",
-        "spec": "12元/串",
+        "spec": "12.5元/串",
         "minQty": 16,
-        "price": 12,
+        "price": 12.5,
         "img": "p36_0.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "香煎鸭胸肉萨拉米肠",
-        "spec": "13元/串",
+        "spec": "13.5元/串",
         "minQty": 16,
-        "price": 13,
+        "price": 13.5,
         "img": "p36_2.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "鲜蔬红酒牛肉粒",
-        "spec": "15元/串",
+        "spec": "16元/串",
         "minQty": 16,
-        "price": 15,
+        "price": 16,
         "img": "p36_3.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "肉酱意大利面杯",
-        "spec": "15元/份",
+        "spec": "16元/份",
         "minQty": 16,
-        "price": 15,
+        "price": 16,
         "img": "p31_1.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "轻食菠菜黑椒牛肉卷",
-        "spec": "18元/份",
-        "price": 18,
+        "spec": "20元/份",
+        "price": 20,
         "minQty": 12,
         "img": "cold_48.jpg",
-        "note": "16串起订"
+        "note": ""
       },
       {
-        "name": "香芒培根卷(副本)",
-        "spec": "12元/串",
-        "price": 12,
-        "minQty": 0,
+        "name": "香芒培根卷",
+        "spec": "12.5元/串",
+        "price": 12.5,
+        "minQty": 16,
         "img": "p31_3.jpg",
-        "note": "16串起订"
+        "note": ""
       },
       {
-        "name": "芦笋培根卷(副本)",
-        "spec": "15元/串",
-        "price": 15,
-        "minQty": 0,
+        "name": "芦笋培根卷",
+        "spec": "16元/串",
+        "price": 16,
+        "minQty": 16,
         "img": "p31_2.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "黑椒芝士牛肉可颂",
-        "spec": "10元/份",
-        "price": 10,
+        "spec": "12元/份",
+        "price": 12,
         "minQty": 12,
         "img": "cold_51.jpg",
-        "note": "16个起订"
+        "note": ""
       }
     ],
     "snack2": [
