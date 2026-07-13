@@ -205,24 +205,24 @@
     "cheese": [
       {
         "name": "水果轻芝士蛋糕（大）",
-        "spec": "¥12/个",
+        "spec": "¥15/个",
         "minQty": 6,
-        "price": 12,
+        "price": 15,
         "img": "p09_0.jpg",
         "note": "6个起订"
       },
       {
         "name": "水果轻芝士蛋糕（小）",
-        "spec": "¥10/个",
+        "spec": "¥12/个",
         "minQty": 8,
-        "price": 10,
+        "price": 12,
         "img": "p09_0.jpg",
         "note": "6个起订"
       },
       {
         "name": "现烤巴斯克芝士蛋糕",
-        "spec": "12元/个",
-        "price": 12,
+        "spec": "16元/个",
+        "price": 16,
         "minQty": 10,
         "img": "p09_1.jpg",
         "note": "6个起订"
@@ -244,43 +244,27 @@
         "note": ""
       },
       {
-        "name": "现烤水果盘挞",
-        "spec": "12元/个",
-        "minQty": 6,
-        "price": 12,
-        "img": "p09_3.jpg",
-        "note": ""
-      },
-      {
         "name": "鲜果芝士塔",
-        "spec": "8元/个",
+        "spec": "10元/个",
         "minQty": 10,
-        "price": 8,
+        "price": 10,
         "img": "p09_4.jpg",
         "note": ""
       },
       {
         "name": "低糖美拉德栗子塔",
-        "spec": "15元/个",
+        "spec": "16元/个",
         "minQty": 10,
-        "price": 15,
+        "price": 16,
         "img": "p10_0.jpg",
         "note": ""
       },
       {
         "name": "巴斯克小杯",
-        "spec": "15元/个",
+        "spec": "16元/个",
         "minQty": 10,
-        "price": 15,
+        "price": 16,
         "img": "p10_1.jpg",
-        "note": ""
-      },
-      {
-        "name": "柠檬流心塔",
-        "spec": "12元/个",
-        "minQty": 10,
-        "price": 12,
-        "img": "p10_2.jpg",
         "note": ""
       },
       {
@@ -292,18 +276,10 @@
         "note": ""
       },
       {
-        "name": "抹茶流心塔",
-        "spec": "12元/个",
-        "minQty": 8,
-        "price": 12,
-        "img": "p10_4.jpg",
-        "note": ""
-      },
-      {
         "name": "迷你曲奇水果挞",
-        "spec": "10元/个",
+        "spec": "12元/个",
         "minQty": 10,
-        "price": 10,
+        "price": 12,
         "img": "p10_5.jpg",
         "note": ""
       }
@@ -331,14 +307,6 @@
         "minQty": 6,
         "price": 15,
         "img": "p11_2.jpg",
-        "note": ""
-      },
-      {
-        "name": "法式清糖马卡龙",
-        "spec": "12元/粒",
-        "minQty": 6,
-        "price": 12,
-        "img": "p11_3.jpg",
         "note": ""
       },
       {
