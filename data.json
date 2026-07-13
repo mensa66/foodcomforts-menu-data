@@ -99,10 +99,10 @@
   "products": {
     "cream": [
       {
-        "name": "水果抱抱卷",
-        "spec": "12.5元/个",
-        "minQty": 20,
-        "price": 12.5,
+        "name": "水果抱抱",
+        "spec": "12元/个",
+        "minQty": 30,
+        "price": 12,
         "img": "cream_1.jpg",
         "note": ""
       },
