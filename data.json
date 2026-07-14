@@ -1462,7 +1462,7 @@
       },
       {
         "name": "现卤鸭胗",
-        "spec": "6元/个",
+        "spec": "8元/个",
         "minQty": 10,
         "price": 8,
         "img": "p40_4.jpg",
@@ -1474,14 +1474,6 @@
         "minQty": 20,
         "price": 5,
         "img": "p40_5.jpg",
-        "note": ""
-      },
-      {
-        "name": "安格斯小牛肉串",
-        "spec": "100元/1斤",
-        "minQty": 1,
-        "price": 100,
-        "img": "p41_0.jpg",
         "note": ""
       },
       {
