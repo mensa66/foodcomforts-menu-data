@@ -5,9 +5,8 @@
     "accessPassword": ""
   },
   "auth": {
-    "enabled": true,
-    "username": "test1",
-    "password": "12345678"
+    "enabled": false,
+    "accounts": []
   },
   "sections": [
     {
@@ -108,7 +107,7 @@
         "spec": "¥12.5/个",
         "minQty": 20,
         "price": 12.5,
-        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/cream_mrk9mc39.jpg",
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/cream_mrk9zqz7.jpg",
         "note": ""
       },
       {
