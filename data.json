@@ -5,8 +5,13 @@
     "accessPassword": ""
   },
   "auth": {
-    "enabled": false,
-    "accounts": []
+    "enabled": true,
+    "accounts": [
+      {
+        "username": "test1",
+        "password": "12345678"
+      }
+    ]
   },
   "sections": [
     {
