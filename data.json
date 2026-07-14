@@ -1359,7 +1359,7 @@
       {
         "name": "奥尔良鸡中翅",
         "spec": "5元/1个",
-        "minQty": 50,
+        "minQty": 20,
         "price": 5,
         "img": "p38_3.jpg",
         "note": ""
