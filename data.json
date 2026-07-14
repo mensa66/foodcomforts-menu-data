@@ -1366,8 +1366,8 @@
       },
       {
         "name": "纯肉火山肠",
-        "spec": "5元/条",
-        "minQty": 20,
+        "spec": "6元/条",
+        "minQty": 100,
         "price": 6,
         "img": "p38_4.jpg",
         "note": ""
