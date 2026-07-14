@@ -1350,10 +1350,10 @@
       },
       {
         "name": "卤味素菜",
-        "spec": "33元/斤",
+        "spec": "38元/斤",
         "minQty": 2,
         "price": 38,
-        "img": "p38_2.jpg",
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/lumed_mrkor8lk.jpg",
         "note": ""
       },
       {
