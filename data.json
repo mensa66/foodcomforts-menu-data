@@ -1664,7 +1664,7 @@
       },
       {
         "name": "杨枝甘露（桶装）",
-        "spec": "180/5升",
+        "spec": "200/5升",
         "price": 200,
         "minQty": 1,
         "img": "drinks_23.jpg",
@@ -1673,7 +1673,7 @@
       {
         "name": "凤梨满杯（桶装）",
         "spec": "160/5升",
-        "price": 160,
+        "price": 180,
         "minQty": 1,
         "img": "drinks_24.jpg",
         "note": "60元/壶"
