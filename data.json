@@ -1390,7 +1390,7 @@
       },
       {
         "name": "蒜香无骨鸭掌",
-        "spec": "55元/1斤",
+        "spec": "58元/1斤",
         "minQty": 2,
         "price": 58,
         "img": "p39_1.jpg",
@@ -1401,7 +1401,7 @@
         "spec": "220元/4斤",
         "minQty": 1,
         "price": 220,
-        "img": "p39_2.jpg",
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/lumed_mrkow64n.jpg",
         "note": ""
       },
       {
