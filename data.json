@@ -1648,7 +1648,7 @@
       },
       {
         "name": "大桶缤纷水果茶（桶装）",
-        "spec": "160/5升",
+        "spec": "180/5升",
         "price": 180,
         "minQty": 1,
         "img": "drinks_21.jpg",
@@ -1657,7 +1657,7 @@
       {
         "name": "椰奶西瓜",
         "spec": "150/5升",
-        "price": 150,
+        "price": 160,
         "minQty": 1,
         "img": "drinks_22.jpg",
         "note": "60元/壶"
