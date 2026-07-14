@@ -1326,7 +1326,7 @@
         "name": "冰粉",
         "spec": "15元/450人份",
         "price": 15,
-        "minQty": 20,
+        "minQty": 50,
         "img": "snack2_7.jpg"
       }
     ],
