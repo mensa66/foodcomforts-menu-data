@@ -1462,8 +1462,8 @@
       },
       {
         "name": "现卤鸭胗",
-        "spec": "60元/斤",
-        "minQty": 2,
+        "spec": "6元/个",
+        "minQty": 10,
         "price": 6,
         "img": "p40_4.jpg",
         "note": ""
