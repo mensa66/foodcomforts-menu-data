@@ -1336,7 +1336,7 @@
         "name": "关东煮",
         "spec": "150元/50个",
         "minQty": 1,
-        "price": 150,
+        "price": 5,
         "img": "lumed_1.jpg",
         "note": ""
       },
