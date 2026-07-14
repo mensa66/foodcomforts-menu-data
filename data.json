@@ -1324,7 +1324,7 @@
       },
       {
         "name": "冰粉",
-        "spec": "15元",
+        "spec": "15元/份",
         "price": 15,
         "minQty": 50,
         "img": "snack2_7.jpg",
