@@ -1656,7 +1656,7 @@
       },
       {
         "name": "椰奶西瓜",
-        "spec": "150/5升",
+        "spec": "160/5升",
         "price": 160,
         "minQty": 1,
         "img": "drinks_22.jpg",
@@ -1665,7 +1665,7 @@
       {
         "name": "杨枝甘露（桶装）",
         "spec": "180/5升",
-        "price": 180,
+        "price": 200,
         "minQty": 1,
         "img": "drinks_23.jpg",
         "note": "60元/壶"
