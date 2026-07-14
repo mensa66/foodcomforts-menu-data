@@ -1327,7 +1327,8 @@
         "spec": "15元/450人份",
         "price": 15,
         "minQty": 50,
-        "img": "snack2_7.jpg"
+        "img": "snack2_7.jpg",
+        "note": "zi'zhu"
       }
     ],
     "lumed": [
