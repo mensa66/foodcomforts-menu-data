@@ -1503,7 +1503,7 @@
       {
         "name": "卤味鸭头",
         "spec": "10元/个",
-        "minQty": 16,
+        "minQty": 10,
         "price": 10,
         "img": "p41_4.jpg",
         "note": ""
