@@ -5,9 +5,9 @@
     "accessPassword": ""
   },
   "auth": {
-    "enabled": false,
-    "username": "",
-    "password": ""
+    "enabled": true,
+    "username": "test1",
+    "password": "12345678"
   },
   "sections": [
     {
