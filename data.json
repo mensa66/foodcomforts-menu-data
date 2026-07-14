@@ -1334,8 +1334,8 @@
     "lumed": [
       {
         "name": "关东煮",
-        "spec": "5元/chuan",
-        "minQty": 1,
+        "spec": "5元/串",
+        "minQty": 100,
         "price": 5,
         "img": "lumed_1.jpg",
         "note": ""
