@@ -1333,12 +1333,12 @@
     ],
     "lumed": [
       {
-        "name": "关东煮（f's）",
+        "name": "关东煮（带机器）",
         "spec": "5元/串",
         "minQty": 100,
         "price": 5,
         "img": "lumed_1.jpg",
-        "note": "带机器"
+        "note": ""
       },
       {
         "name": "咖喱鱼蛋",
