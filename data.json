@@ -5,7 +5,7 @@
     "accessPassword": ""
   },
   "auth": {
-    "enabled": true,
+    "enabled": false,
     "accounts": [
       {
         "username": "test1",
