@@ -792,7 +792,7 @@
       },
       {
         "name": "小葵朵朵",
-        "spec": "20元/个",
+        "spec": "25元/个",
         "minQty": 8,
         "price": 25,
         "img": "p26_1.jpg",
@@ -802,7 +802,7 @@
         "name": "奶蓝泡泡",
         "spec": "¥28/个",
         "minQty": 8,
-        "price": 20,
+        "price": 28,
         "img": "p26_2.jpg",
         "note": ""
       },
