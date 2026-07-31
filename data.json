@@ -808,7 +808,7 @@
       },
       {
         "name": "花见漫想",
-        "spec": "23元/个",
+        "spec": "25元/个",
         "minQty": 8,
         "price": 25,
         "img": "p26_3.jpg",
@@ -818,7 +818,7 @@
         "name": "晴日云酪",
         "spec": "28元/个",
         "minQty": 8,
-        "price": 28,
+        "price": 30,
         "img": "p26_4.jpg",
         "note": ""
       },
