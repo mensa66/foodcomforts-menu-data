@@ -646,7 +646,7 @@
         "name": "整条设计主题蛋糕卷",
         "spec": "150元/条",
         "minQty": 1,
-        "price": 150,
+        "price": 1,
         "img": "p12_4.jpg",
         "note": ""
       },
