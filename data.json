@@ -2087,14 +2087,6 @@
         "price": 18,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_2612439e6a8a6593.jpg",
         "note": ""
-      },
-      {
-        "name": "蜜瓜火腿",
-        "spec": "件",
-        "minQty": 10,
-        "price": 14,
-        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afe6e2c.jpg",
-        "note": "16个起订"
       }
     ],
     "snack2": [
@@ -2102,7 +2094,7 @@
         "name": "烤红薯",
         "spec": "8元/个",
         "minQty": 30,
-        "price": 8,
+        "price": 10,
         "img": "p37_2.jpg",
         "note": ""
       },
