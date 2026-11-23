@@ -924,13 +924,13 @@
         "minQty": 8,
         "price": 22,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_db8664076aed648d.jpg",
-        "note": "8个起订，可选小款12元/大款20元"
+        "note": ""
       },
       {
         "name": "草莓巴巴露亚",
         "spec": "个",
         "minQty": 6,
-        "price": 18,
+        "price": 20,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_650815a96aab7568.jpg",
         "note": ""
       },
