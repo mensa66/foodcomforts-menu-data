@@ -1988,7 +1988,7 @@
         "name": "水果tapas",
         "spec": "12元",
         "minQty": 0,
-        "price": 12,
+        "price": 1,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_37138adf6a8942d4.jpg",
         "note": "16串起订"
       },
