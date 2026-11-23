@@ -1,1 +1,3703 @@
-{"brand":"食之愈烘焙","brandEn":"Foodcomforts Bakery","config":{"accessPassword":""},"auth":{"enabled":false,"accounts":[{"username":"test1","password":"12345678"},{"username":"test2","password":"12345678"}]},"sections":[{"id":"cream","name":"轻糖奶油类","emoji":"🍰","en":"Light-Sugar Creams"},{"id":"cheese","name":"芝士和挞类","emoji":"🧀","en":"Cheese & Tarts"},{"id":"heavy","name":"重手工产品（宝宝宴、婚礼专品）","emoji":"🎉","en":"Handcraft Wedding"},{"id":"lightcream","name":"少奶油类蛋糕","emoji":"🍮","en":"Less-Cream Cakes"},{"id":"mousse","name":"慕斯类","emoji":"🍡","en":"Mousse"},{"id":"snack","name":"下午茶和茶点类","emoji":"🫖","en":"Afternoon Tea & Snacks"},{"id":"handmade","name":"手工茶点","emoji":"🌸","en":"Handmade Pastry"},{"id":"nuts","name":"囍·坚果盘","emoji":"🥜","en":"Nuts Platter"},{"id":"french","name":"精致法点","emoji":"🌷","en":"French Dessert"},{"id":"cold","name":"精致冷餐","emoji":"🥗","en":"Cold Appetizers"},{"id":"snack2","name":"小咸吃甜系列搭配","emoji":"🍢","en":"Sweet & Savory"},{"id":"lumed","name":"卤味小吃","emoji":"🍗","en":"Braised Snacks"},{"id":"drinks","name":"茶饮系列","emoji":"🥤","en":"Drinks"},{"id":"fruit","name":"水果","emoji":"🍉","en":"Fruits"},{"id":"table_cake","name":"甜品台大蛋糕","emoji":"🍰","en":"Table Cake"}],"products":{"cream":[{"name":"水果抱抱卷","spec":"¥12.5/个","minQty":20,"price":12.5,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/cream_mrk9zqz7.jpg","note":""},{"name":"海盐低糖杏仁卷","spec":"¥13/个","minQty":10,"price":13,"img":"p06_2.jpg","note":""},{"name":"鲜果小方蛋糕(小)","spec":"¥12/个","minQty":16,"price":12,"img":"p06_3.jpg","note":""},{"name":"纸杯蛋糕（大）","spec":"¥15/个","minQty":6,"price":15,"img":"cream_4.jpg","note":""},{"name":"cupcake蛋糕（小）","spec":"¥10/个","minQty":8,"price":10,"img":"p07_1.jpg","note":""},{"name":"水果流心泡芙","spec":"15元/个","minQty":8,"price":15,"img":"p07_2.jpg","note":""},{"name":"水果号角酥（大）","spec":"¥16/个","minQty":10,"price":16,"img":"p07_4.jpg","note":""},{"name":"水果号角酥（小）","spec":"¥12","price":12,"minQty":10,"img":"p07_4.jpg","note":""},{"name":"鲜果瑞士卷","spec":"15元/个","minQty":8,"price":15,"img":"p08_0.jpg","note":""},{"name":"精致水果高脚奶油杯子（小）","spec":"¥16/个","minQty":8,"price":16,"img":"p08_4.jpg","note":"可订小款 10元/个"},{"name":"红丝绒草莓福袋","spec":"20元/个","minQty":1,"price":20,"img":"p08_3.jpg","note":""},{"name":"鲜果小方蛋糕(大)","spec":"15元/个","price":15,"minQty":16,"img":"p06_3.jpg"},{"name":"鲜果夹心蛋糕卷","spec":"15元/个","minQty":10,"price":15,"img":"p07_3.jpg","note":""},{"name":"竹韵清甜","spec":"个","minQty":6,"price":20,"img":"p07_5.jpg","note":"10个起订"},{"name":"水果高脚奶油杯子","spec":"杯","minQty":8,"price":18,"img":"p08_4.jpg","note":"可订小款 10元/个"},{"name":"手工爆浆雪媚娘","spec":"有芒果，草莓，蓝莓，芋泥，海盐奥利奥多个口味","minQty":12,"price":13,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aafb816.jpg","note":"可订小款 12元/个"},{"name":"拿破仑千层酥","spec":"件","minQty":12,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aafb98c.jpg","note":""},{"name":"草莓蛋糕","spec":"动物奶油，草莓果酱草莓夹心.","minQty":6,"price":20,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_cb2dc49b6ae9d6b2.jpg","note":""},{"name":"鲜奶草莓小方蛋糕(小)","spec":"5*5cm","minQty":12,"price":12,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196afe7143.jpg","note":""},{"name":"抹茶树莓蛋糕","spec":"5*5cm","minQty":12,"price":13,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196afe717b.jpg","note":""},{"name":"鲜果口味蛋糕卷【平放】","spec":"件","minQty":10,"price":12,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_65108bbb6afe71b7.jpg","note":""},{"name":"海盐杏仁草莓蛋糕","spec":"4*6","minQty":12,"price":13,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afe7214.jpg","note":""},{"name":"海盐小方","spec":"3.5*3.5cm","minQty":16,"price":8,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afe7266.jpg","note":"可订小款 10元/个"},{"name":"圣诞草莓串","spec":"件","minQty":12,"price":9,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_65108bbb6b0014dc.jpg","note":""},{"name":"菠萝蜜抱草莓","spec":"个","minQty":16,"price":8,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_65108bbb6b001512.jpg","note":""},{"name":"水果串","spec":"件","minQty":10,"price":10,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6b0016de.jpg","note":""},{"name":"圣诞手提桶","spec":"件","minQty":8,"price":20,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196b0016fb.jpg","note":""},{"name":"圣诞咸点圣诞树","spec":"件","minQty":10,"price":12,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46b0017b1.jpg","note":""},{"name":"圣诞纸杯蛋糕","spec":"个","minQty":10,"price":13,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6b001a5f.jpg","note":"可订小款 8元/个"},{"name":"圣诞草莓巴斯克小杯","spec":"件","minQty":10,"price":18,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6b001822.jpg","note":""},{"name":"七彩酸奶麻薯","spec":"件","minQty":12,"price":13,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196b001848.jpg","note":""},{"name":"培根土豆沙拉塔","spec":"件","minQty":10,"price":13.8,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6b001894.jpg","note":""},{"name":"圣诞巧克力草莓蛋糕卷","spec":"个","minQty":10,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46b001908.jpg","note":"可订小款 8元/个"},{"name":"圣诞可露丽","spec":"件","minQty":8,"price":18,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196b00194a.jpg","note":""},{"name":"莓果水果杯","spec":"杯","minQty":10,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6b001a82.jpg","note":"可订小款 8元/个"},{"name":"七彩圣诞咸点三层盘","spec":"","minQty":1,"price":1080,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46b001ab5.jpg","note":"可订小款 8元/个"},{"name":"糖葫芦","spec":"串","minQty":20,"price":8,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46b001b08.jpg","note":"可订小款 8元/个"},{"name":"圣诞树塔","spec":"件","minQty":8,"price":20,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_65108bbb6b01afa3.jpg","note":""},{"name":"莓果圣诞老人拿破仑","spec":"件","minQty":8,"price":22,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196b01afe1.jpg","note":""},{"name":"圣诞曲奇塔混搭一套6个【小号】","spec":"6粒/套","minQty":1,"price":60,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6b01b01a.jpg","note":""},{"name":"鹿遇甜冬","spec":"件","minQty":8,"price":25,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196b01b070.jpg","note":""},{"name":"圣诞红雪球法点","spec":"件","minQty":10,"price":23,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_65108bbb6b01b0be.jpg","note":""},{"name":"圣诞玛德琳","spec":"件","minQty":10,"price":12,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196b01b0f1.jpg","note":""},{"name":"平安果","spec":"个","minQty":5,"price":18,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46b01b119.jpg","note":"可订小款 8元/个"}],"cheese":[{"name":"水果轻芝士蛋糕（大）","spec":"¥15/个","minQty":6,"price":15,"img":"p09_0.jpg","note":"6个起订"},{"name":"水果轻芝士蛋糕（小）","spec":"¥12/个","minQty":8,"price":12,"img":"p09_0.jpg","note":"6个起订"},{"name":"现烤巴斯克芝士蛋糕","spec":"16元/个","price":16,"minQty":10,"img":"p09_1.jpg","note":"6个起订"},{"name":"法式海盐花塔","spec":"15元/个","minQty":8,"price":15,"img":"p09_2.jpg","note":""},{"name":"半熟芝士","spec":"12元/个","minQty":6,"price":12,"img":"p09_5.jpg","note":""},{"name":"鲜果芝士塔","spec":"10元/个","minQty":10,"price":10,"img":"p09_4.jpg","note":""},{"name":"低糖美拉德栗子塔","spec":"16元/个","minQty":10,"price":16,"img":"p10_0.jpg","note":""},{"name":"巴斯克小杯","spec":"16元/个","minQty":10,"price":16,"img":"p10_1.jpg","note":""},{"name":"中式福气小瓦缸蛋糕","spec":"25元/个","minQty":6,"price":25,"img":"p10_3.jpg","note":""},{"name":"迷你曲奇水果挞","spec":"12元/个","minQty":10,"price":12,"img":"p10_5.jpg","note":""},{"name":"现烤巴斯克芝士蛋糕（切件）","spec":"件","minQty":8,"price":12,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_01f3430d6aafb478.jpg","note":"6个起订"},{"name":"现烤半熟芝士","spec":"个","minQty":10,"price":12,"img":"p09_5.jpg","note":""},{"name":"柠檬芝士塔","spec":"个","minQty":12,"price":10,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afe6468.jpg","note":""},{"name":"柠檬流心塔","spec":"个","minQty":10,"price":12,"img":"p10_2.jpg","note":""},{"name":"抹茶流心塔","spec":"个","minQty":10,"price":12,"img":"p10_4.jpg","note":""},{"name":"树莓芝士塔","spec":"树莓奶油，树莓鲜果，树莓果酱","minQty":10,"price":12,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aafb850.jpg","note":""},{"name":"焦糖坚果塔(副本)","spec":"个","minQty":12,"price":13,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afe648f.jpg","note":""},{"name":"法式爆酱曲奇水果塔","spec":"个","minQty":8,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afe64f3.jpg","note":""}],"heavy":[{"name":"手工巧克力甜甜圈（主题设计款）","spec":"18元/个","minQty":6,"price":18,"img":"p11_0.jpg","note":"8个起订"},{"name":"造型推推乐蛋糕（主题设计款）","spec":"15元/个","minQty":6,"price":15,"img":"p11_1.jpg","note":""},{"name":"水果雪糕筒蛋糕（主题设计款）","spec":"15元/个","minQty":6,"price":15,"img":"p11_2.jpg","note":""},{"name":"焦糖布丁杯（主题设计款）","spec":"20元/个(玻璃瓶)","minQty":6,"price":20,"img":"p11_5.jpg","note":""},{"name":"韩式棒棒糖蛋糕（主题设计款）","spec":"18元/个","minQty":10,"price":18,"img":"p12_0.jpg","note":"24个起订"},{"name":"巧克力小熊玛德琳","spec":"12元/个","minQty":12,"price":12,"img":"p12_1.jpg","note":"12个起订"},{"name":"现烤巴斯克（整个主题装饰）","spec":"180元/个(整蛋糕)","minQty":1,"price":180,"img":"p12_2.jpg","note":""},{"name":"主题设计轻乳酪","spec":"160元/条(10件)","minQty":1,"price":160,"img":"p12_3.jpg","note":""},{"name":"整条设计主题蛋糕卷","spec":"150元/条","minQty":1,"price":150,"img":"p12_4.jpg","note":""},{"name":"cupcake纸杯蛋糕（主题设计款）","spec":"16元/个","minQty":6,"price":16,"img":"p12_5.jpg","note":""},{"name":"x法式清糖马卡龙","spec":"粒","minQty":10,"price":12,"img":"p11_3.jpg","note":""},{"name":"雪糕造型巧克力蛋糕（主题设计款）","spec":"个","minQty":6,"price":20,"img":"p11_4.jpg","note":""},{"name":"x法式口味马卡龙(副本)","spec":"18元/粒","minQty":8,"price":18,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_650815a96aafb4bc.jpg","note":""},{"name":"贝壳巧克力玛德琳【设计款】","spec":"个","minQty":10,"price":18,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aafb59c.jpg","note":""},{"name":"车厘子红酒蛋糕杯","spec":"个","minQty":1,"price":56,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_01f3430d6aafb5d6.jpg","note":""},{"name":"芒果红酒蛋糕杯","spec":"个","minQty":1,"price":48,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_01f3430d6aafb646.jpg","note":""},{"name":"草莓红酒蛋糕杯(副本)","spec":"个","minQty":1,"price":53,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aafb680.jpg","note":""}],"lightcream":[{"name":"精致慕斯杯蛋糕","spec":"16元/个(可选蓝莓/草莓/芒果/抹茶)","minQty":8,"price":16,"img":"p13_1.jpg","note":"多种口味可选"},{"name":"巧克力造型草莓","spec":"8元/个","minQty":12,"price":8,"img":"p13_0.jpg","note":""},{"name":"椰奶烤布蕾（少奶油产品）","spec":"12.5元/个","minQty":6,"price":12.5,"img":"p14_0.jpg","note":""},{"name":"现烤焦糖布丁","spec":"15元/个","minQty":8,"price":15,"img":"p14_1.jpg","note":""},{"name":"清甜椰奶奶砖","spec":"68元/份(约16粒)","minQty":1,"price":68,"img":"p14_3.jpg","note":"一份16粒"},{"name":"初夏（少奶油蛋糕）","spec":"15元/个","minQty":8,"price":15,"img":"p14_4.jpg","note":""},{"name":"研磨时光（轻糖少奶油产品）","spec":"14元/个","minQty":8,"price":14,"img":"p14_5.jpg","note":""},{"name":"秘境（少奶油系列）","spec":"14元/个","minQty":10,"price":14,"img":"p15_1.jpg","note":""},{"name":"大理石磅蛋糕","spec":"件","minQty":10,"price":12,"img":"p14_2.jpg","note":""},{"name":"酸甜蓝莓塔","spec":"个","minQty":10,"price":12,"img":"p15_2.jpg","note":""},{"name":"荷花冻","spec":"12","minQty":10,"price":12,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_afa272806a800509.jpg","note":"一份16粒"},{"name":"清甜椰奶奶砖杯","spec":"8元","minQty":10,"price":8,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_d7580c016aafb699.jpg","note":"一份16粒"},{"name":"芒果椰奶奶砖","spec":"5元、粒","minQty":20,"price":5,"img":"data:image/jpeg;base64,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","note":"一份16粒"},{"name":"酸奶坚果杯","spec":"15元","minQty":8,"price":18,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_7cc5dc476af9f2bf.jpg","note":"一份16粒"},{"name":"莓果酸奶杯","spec":"杯","minQty":8,"price":18,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_f90f3bbb6af9f311.jpg","note":"一份16粒"},{"name":"轻糖鲜果米布丁【少奶油】","spec":"个","minQty":10,"price":12,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6afe7706.jpg","note":""},{"name":"轻糖绿豆糕","spec":"件","minQty":10,"price":5,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_65108bbb6b001d8b.jpg","note":"一份16粒"}],"mousse":[{"name":"意式提拉米苏（小）","spec":"¥15/个","minQty":8,"price":15,"img":"p16_0.jpg","note":"8个起订，可选小款12元/大款20元"},{"name":"莓果提拉米苏","spec":"16元/个","minQty":6,"price":16,"img":"p16_1.jpg","note":""},{"name":"芋泥椰椰","spec":"15元/个","minQty":10,"price":15,"img":"p16_2.jpg","note":""},{"name":"鲜芒多多","spec":"13元/个","minQty":10,"price":13,"img":"p16_3.jpg","note":""},{"name":"云顶百香（酸甜可口）","spec":"16元/个","minQty":6,"price":16,"img":"p16_4.jpg","note":""},{"name":"栗屿微光","spec":"13元/个","minQty":6,"price":13,"img":"p17_0.jpg","note":""},{"name":"绿野轻慕","spec":"16元/个","minQty":1,"price":16,"img":"p17_1.jpg","note":""},{"name":"酸奶可可","spec":"12元/个","minQty":6,"price":12,"img":"p17_2.jpg","note":""},{"name":"杏语微甜","spec":"¥12.5/个","minQty":8,"price":12.5,"img":"p16_5.jpg","note":"可选大款15元/个"},{"name":"意式提拉米苏（切块大）","spec":"","minQty":8,"price":20,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_db8664076aed648d.jpg","note":"8个起订，可选小款12元/大款20元"},{"name":"草莓巴巴露亚","spec":"个","minQty":6,"price":18,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_650815a96aab7568.jpg","note":""},{"name":"柠檬巴巴露亚","spec":"个","minQty":6,"price":18,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aab757c.jpg","note":""},{"name":"酸奶兔兔","spec":"个","minQty":8,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_d7580c016aab75ac.jpg","note":""},{"name":"巧克力蓝莓慕斯小方","spec":"个","minQty":16,"price":12,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aafb726.jpg","note":""},{"name":"柠檬芝士小方","spec":"个","minQty":16,"price":13,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_650815a96aafb782.jpg","note":""},{"name":"一盏清茶","spec":"桂花，奶冻","minQty":6,"price":26,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_650815a96aafb8e2.jpg","note":""},{"name":"古扇慕斯","spec":"件","minQty":6,"price":22,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_01f3430d6aafb8f2.jpg","note":""},{"name":"轻糖双莓慕斯","spec":"件","minQty":10,"price":11,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_fdc759b06aeaf7c6.jpg","note":""},{"name":"轻糖芒果慕斯小方","spec":"件","minQty":10,"price":11,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_cb2dc49b6aeaf7fb.jpg","note":""},{"name":"轻糖蓝莓慕斯","spec":"件","minQty":10,"price":11,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_db8664076aeaf82a.jpg","note":""},{"name":"巧克力坚果布朗尼","spec":"件","minQty":12,"price":12,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_fdc759b06aeaf87f.jpg","note":""},{"name":"纽约芝士【青柠，蓝莓，草莓】","spec":"件","minQty":10,"price":12,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196afe6dfc.jpg","note":""}],"snack":[{"name":"黑金迷你汉堡","spec":"12元/个","minQty":10,"price":12,"img":"p18_2.jpg","note":""},{"name":"火腿芝士可颂","spec":"8元/个","minQty":8,"price":8,"img":"p18_1.jpg","note":""},{"name":"迷你芝士汉堡","spec":"12元/个","minQty":10,"price":12,"img":"p18_3.jpg","note":""},{"name":"法式小热狗","spec":"6元/个","minQty":10,"price":6,"img":"p18_5.jpg","note":""},{"name":"青瓜芝士三文治","spec":"7元/个","minQty":12,"price":7,"img":"p19_0.jpg","note":""},{"name":"全麦厚切鲜蔬菜三文治","spec":"8元/份","minQty":12,"price":8,"img":"p19_1.jpg","note":""},{"name":"手工椒盐桃酥","spec":"3.5元/粒","minQty":12,"price":3.5,"img":"p19_2.jpg","note":""},{"name":"巧克力薄脆","spec":"120克","minQty":1,"price":60,"img":"p19_4.jpg","note":"16粒起"},{"name":"现烤麻薯球","spec":"4元/个","minQty":9,"price":4,"img":"p19_5.jpg","note":""},{"name":"一口芝士火腿麻薯","spec":"24元/盒(12个一盒)","minQty":1,"price":24,"img":"p20_0.jpg","note":"12个一盒"},{"name":"虎皮蛋糕","spec":"5片","minQty":1,"price":15,"img":"p20_1.jpg","note":""},{"name":"原味爆浆大泡芙","spec":"10元/个","minQty":8,"price":10,"img":"p20_3.jpg","note":""},{"name":"小贝蛋糕","spec":"6元/个","minQty":8,"price":6,"img":"p20_4.jpg","note":""},{"name":"肉松虎皮卷","spec":"6元/个","minQty":8,"price":6,"img":"p20_5.jpg","note":""},{"name":"手工醇糖绿豆冰糕","spec":"6元/个","minQty":10,"price":6,"img":"p21_0.jpg","note":""},{"name":"千层葡挞","spec":"5元/个","minQty":12,"price":5,"img":"p21_2.jpg","note":""},{"name":"起酥老婆饼","spec":"60元/份（15个）","minQty":1,"price":60,"img":"p21_5.jpg","note":""},{"name":"芋泥海苔号角酥","spec":"12元/个","minQty":10,"price":12,"img":"p18_0.jpg","note":""},{"name":"鸡扒三文治（小份）","spec":"8元/个","minQty":16,"price":8,"img":"p18_4.jpg","note":""},{"name":"手工黄油曲奇饼","spec":"180克","minQty":1,"price":50,"img":"p20_2.jpg","note":"25个起订"},{"name":"黄油香煎三文治","spec":"件","minQty":12,"price":8,"img":"p19_0.jpg","note":""},{"name":"肉松小方","spec":"个","minQty":16,"price":4,"img":"p19_3.jpg","note":""},{"name":"顶级黄油牛角包","spec":"个","minQty":10,"price":8,"img":"p21_1.jpg","note":""},{"name":"芋泥海苔号角酥（大）","spec":"个","minQty":8,"price":12,"img":"p18_0.jpg","note":"可订小款 7元/个"},{"name":"芋泥海苔号角酥（小）","spec":"个","minQty":12,"price":8,"img":"p18_0.jpg","note":"可订小款 7元/个"},{"name":"x凤梨小贝","spec":"个","minQty":12,"price":6.5,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_afa272806a8004b8.jpg","note":""},{"name":"x抹茶爆浆小贝","spec":"个","minQty":12,"price":6.5,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_253558636a80049b.jpg","note":""},{"name":"鲜果千层葡挞","spec":"个","minQty":12,"price":6,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afe74e7.jpg","note":""},{"name":"培根松露塔","spec":"件","minQty":12,"price":10,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_f90f3bbb6af9f583.jpg","note":""}],"handmade":[{"name":"桃花酥","spec":"16元/个","minQty":4,"price":16,"img":"p22_1.jpg","note":""},{"name":"经典手工凤梨酥","spec":"12元/个","minQty":10,"price":12,"img":"p22_2.jpg","note":""},{"name":"卡通凤梨酥","spec":"12.8元/个","minQty":10,"price":12.8,"img":"p22_3.jpg","note":""},{"name":"迷你凤梨酥","spec":"个","minQty":10,"price":7,"img":"p22_3.jpg","note":""},{"name":"手工蛋白凤梨酥","spec":"个","minQty":12,"price":10,"img":"data:image/jpeg;base64,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","note":""},{"name":"香蕉糕（传统岭南特色手工糕点）","spec":"件","minQty":20,"price":5,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_a2cf60796ae1b03a.jpg","note":""},{"name":"迷你蛋黄酥","spec":"个","minQty":12,"price":10,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_bc92e77d6ae1b06d.jpg","note":""},{"name":"坚果桃酥","spec":"一份有12个","minQty":1,"price":60,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_a2cf60796ae1b0c5.jpg","note":""},{"name":"低糖手工沙琪玛","spec":"1斤","minQty":1,"price":80,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a9302746ae1b1e1.jpg","note":""},{"name":"南瓜烧","spec":"个","minQty":12,"price":10,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6afe758a.jpg","note":""},{"name":"中式花样酥饼【各形状】","spec":"各种造型口味结合，不同季节节令不一样","minQty":8,"price":28,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a9302746ae1b83d.jpg","note":""},{"name":"黄油蝴蝶酥","spec":"黄油手工蝴蝶酥","minQty":16,"price":6,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_bc92e77d6ae1b8bd.jpg","note":""},{"name":"起酥千层老婆饼","spec":"层层酥脆，岭南特色酥饼","minQty":20,"price":6,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a9302746ae1b97e.jpg","note":""},{"name":"椒盐桃酥","spec":"迷你型，口味独特","minQty":20,"price":4,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a9302746ae1b9c2.jpg","note":""},{"name":"黄油雪花曲奇","spec":"约25小件","minQty":1,"price":60,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_a2cf60796ae1ba7d.jpg","note":""},{"name":"岭南榄香鸡仔饼","spec":"岭南特色手工酥饼，咸香口感","minQty":20,"price":8,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a9302746ae1bdeb.jpg","note":""}],"nuts":[{"name":"坚果四拼","spec":"120元/份","minQty":1,"price":120,"img":"p23_1.jpg","note":""},{"name":"坚果9宫格","spec":"200元/份","minQty":1,"price":200,"img":"p23_2.jpg","note":""},{"name":"坚果干货零食拼盘","spec":"85元/份(葡萄干+红枣+桂圆+花生+瓜子)","minQty":1,"price":85,"img":"p24_1.jpg","note":""},{"name":"会议果干","spec":"80元/份(苹果干+杏仁+紫菜+素辣条)","minQty":1,"price":80,"img":"p24_2.jpg","note":""}],"french":[{"name":"可露丽","spec":"20元/个","minQty":12,"price":20,"img":"p25_0.jpg","note":""},{"name":"抹茶伯爵","spec":"20元/个","minQty":12,"price":20,"img":"p25_1.jpg","note":""},{"name":"椰香雪莉","spec":"16元/个","minQty":12,"price":16,"img":"p25_2.jpg","note":""},{"name":"桃之夭夭","spec":"18元/个","minQty":12,"price":18,"img":"p25_4.jpg","note":""},{"name":"玫瑰荔荔","spec":"16元/个","minQty":12,"price":16,"img":"p25_5.jpg","note":""},{"name":"甜心结梦","spec":"25元/个","minQty":8,"price":25,"img":"p26_0.jpg","note":""},{"name":"小葵朵朵","spec":"25元/个","minQty":8,"price":25,"img":"p26_1.jpg","note":""},{"name":"奶蓝泡泡","spec":"¥28/个","minQty":8,"price":28,"img":"p26_2.jpg","note":""},{"name":"花见漫想","spec":"25元/个","minQty":8,"price":25,"img":"p26_3.jpg","note":""},{"name":"晴日云酪","spec":"30元/个","minQty":8,"price":30,"img":"p26_4.jpg","note":""},{"name":"荔露凝香","spec":"25元/个","minQty":8,"price":25,"img":"p26_5.jpg","note":""},{"name":"巧克力梦龙","spec":"16元/个","minQty":10,"price":16,"img":"p27_0.jpg","note":""},{"name":"芒芒夏日","spec":"16元/个","minQty":8,"price":16,"img":"p27_2.jpg","note":""},{"name":"柠檬乳酪","spec":"16元/个","minQty":8,"price":16,"img":"p27_1.jpg","note":""},{"name":"茉莉蜜桃","spec":"18元/个","minQty":8,"price":18,"img":"p27_3.jpg","note":""},{"name":"特洛伊","spec":"20元/个","minQty":8,"price":20,"img":"p27_4.jpg","note":""},{"name":"琉璃之恋","spec":"¥25个","minQty":8,"price":25,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_50599b866a7ad505.jpg","note":"12个起订，可选小款15元"},{"name":"甜蜜有期","spec":"25/个","minQty":8,"price":25,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_50599b866a7ad51f.jpg","note":"12个起订，可选小款15元"},{"name":"浅夕之约","spec":"30/个","minQty":8,"price":30,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b5138c476a7ad559.jpg","note":"12个起订，可选小款15元"},{"name":"纯甄心愿","spec":"35/个","minQty":8,"price":35,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a0201bc6a7ad59f.jpg","note":"12个起订，可选小款15元"},{"name":"苍山暮雪","spec":"25元","minQty":8,"price":25,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aafb957.jpg","note":"12个起订"},{"name":"提拉米苏塔","spec":"玻璃杯","minQty":1,"price":38,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_650815a96aafba21.jpg","note":"12个起订"},{"name":"主题定制法点","spec":"根据不同主题色定制设计的法式甜品台","minQty":12,"price":28,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a9302746ae1e2b1.jpg","note":"12个起订"}],"cold":[{"name":"芝士火腿卷","spec":"8.5元/串","minQty":16,"price":8.5,"img":"p28_1.jpg","note":""},{"name":"鲜虾香芒蔬菜沙拉","spec":"12.5元/串","minQty":16,"price":12.5,"img":"p28_2.jpg","note":""},{"name":"鲜虾牛油果","spec":"20元/个","minQty":16,"price":20,"img":"p28_3.jpg","note":""},{"name":"蜜瓜培根卷","spec":"12.5元/串","minQty":16,"price":12.5,"img":"p28_4.jpg","note":""},{"name":"蜜瓜帕尔马奶酪","spec":"12.5元/串","minQty":16,"price":12.5,"img":"p29_0.jpg","note":""},{"name":"蜂蜜无花果培根杯","spec":"18元/个","minQty":16,"price":18,"img":"p29_1.jpg","note":""},{"name":"芝士鸡块果蔬小汉堡","spec":"12元/个","minQty":16,"price":12,"img":"p29_2.jpg","note":""},{"name":"凤梨培根卷","spec":"12.5元/串","minQty":16,"price":12.5,"img":"p29_3.jpg","note":""},{"name":"小号培根秋葵卷","spec":"12.5元/串","minQty":16,"price":12.5,"img":"p29_4.jpg","note":""},{"name":"蟹柳鲜蔬杯","spec":"15元/个","minQty":16,"price":15,"img":"p29_5.jpg","note":""},{"name":"橄榄萨拉米三明治","spec":"15元/个","minQty":16,"price":15,"img":"p30_0.jpg","note":""},{"name":"青瓜鲜虾塔","spec":"12.5元/串","minQty":16,"price":12.5,"img":"p30_1.jpg","note":""},{"name":"培根青瓜法棍","spec":"12.5元/串","minQty":16,"price":12.5,"img":"p30_2.jpg","note":""},{"name":"鲜虾培根三明治","spec":"12.5元/个","minQty":16,"price":12.5,"img":"p30_3.jpg","note":""},{"name":"马苏里拉奶酪火腿串","spec":"15元/串","minQty":16,"price":15,"img":"p30_4.jpg","note":""},{"name":"夏威夷黑椒牛肉粒串","spec":"12.5元/串","minQty":16,"price":12.5,"img":"p30_5.jpg","note":""},{"name":"杯子三明治","spec":"10.5元/串","minQty":16,"price":10.5,"img":"p31_0.jpg","note":""},{"name":"芦笋培根卷","spec":"15元/串","minQty":16,"price":15,"img":"p31_2.jpg","note":""},{"name":"香芒培根卷","spec":"12.5元/串","minQty":16,"price":12.5,"img":"p31_3.jpg","note":""},{"name":"青虾水果沙拉塔","spec":"15元/串","minQty":16,"price":15,"img":"p31_4.jpg","note":""},{"name":"米肠芝士花卷","spec":"13.5元/串","minQty":16,"price":13.5,"img":"p31_5.jpg","note":""},{"name":"香缇沙拉培根","spec":"13.5元/串","minQty":16,"price":13.5,"img":"p32_0.jpg","note":""},{"name":"火腿蜜瓜卷","spec":"12.5元/串","minQty":16,"price":12.5,"img":"p32_1.jpg","note":""},{"name":"蜜瓜芝士培根","spec":"13元/串","minQty":16,"price":13,"img":"p32_2.jpg","note":""},{"name":"水果鲜虾沙拉杯","spec":"13元/串","minQty":16,"price":13,"img":"p32_5.jpg","note":""},{"name":"牛肉杂锦串","spec":"15元/串","minQty":16,"price":15,"img":"p32_3.jpg","note":""},{"name":"米肠黑松露","spec":"15元/串","minQty":16,"price":15,"img":"p33_2.jpg","note":""},{"name":"凤梨烤翅","spec":"10元/串","minQty":20,"price":10,"img":"p33_1.jpg","note":""},{"name":"香印鱼蛋","spec":"9元/串","minQty":16,"price":9,"img":"p33_3.jpg","note":""},{"name":"黑椒牛肉塔","spec":"12.5元/个","minQty":16,"price":12.5,"img":"p33_4.jpg","note":""},{"name":"帕斯雀牛肉口蘑杯","spec":"12.5元/个","minQty":16,"price":12.5,"img":"p34_2.jpg","note":""},{"name":"萨拉米肠香印","spec":"12.5元/串","minQty":16,"price":12.5,"img":"p34_1.jpg","note":""},{"name":"德式香肠蟹柳串","spec":"12.5元/串","minQty":16,"price":12.5,"img":"p34_3.jpg","note":""},{"name":"德式黑椒肠凤梨挞","spec":"12.5元/串","minQty":16,"price":12.5,"img":"p34_4.jpg","note":""},{"name":"蟹柳芝士塔","spec":"12.5元/个(小)","minQty":16,"price":12.5,"img":"p34_5.jpg","note":""},{"name":"三文鱼奶酪三明治","spec":"12.5元/串","minQty":16,"price":12.5,"img":"p35_1.jpg","note":""},{"name":"培根蔬菜卷","spec":"12.5元/串","minQty":16,"price":12.5,"img":"p35_0.jpg","note":""},{"name":"法式蒜香黄油虾","spec":"13.5元/串","minQty":16,"price":13.5,"img":"p35_2.jpg","note":""},{"name":"罗勒蟹柳白酱","spec":"12.5元/串","minQty":16,"price":12.5,"img":"p35_3.jpg","note":""},{"name":"意大利火腿彩椒沙拉","spec":"16元/串","minQty":16,"price":16,"img":"p35_4.jpg","note":""},{"name":"鲜虾玉米沙拉羽衣甘蓝","spec":"16元/串","minQty":16,"price":16,"img":"p35_5.jpg","note":""},{"name":"鸡胸肉凯撒酱法棍","spec":"12元/串","minQty":16,"price":12,"img":"p36_1.jpg","note":""},{"name":"白汁培根野菌塔","spec":"12.5元/串","minQty":16,"price":12.5,"img":"p36_0.jpg","note":""},{"name":"香煎鸭胸肉萨拉米肠","spec":"13.5元/串","minQty":16,"price":13.5,"img":"p36_2.jpg","note":""},{"name":"鲜蔬红酒牛肉粒","spec":"16元/串","minQty":16,"price":16,"img":"p36_3.jpg","note":""},{"name":"肉酱意大利面杯","spec":"16元/份","minQty":16,"price":16,"img":"p31_1.jpg","note":""},{"name":"轻食菠菜黑椒牛肉卷","spec":"20元/份","price":20,"minQty":12,"img":"cold_48.jpg","note":""},{"name":"香芒培根卷","spec":"12.5元/串","price":12.5,"minQty":16,"img":"p31_3.jpg","note":""},{"name":"芦笋培根卷","spec":"16元/串","price":16,"minQty":16,"img":"p31_2.jpg","note":""},{"name":"黑椒芝士牛肉可颂","spec":"12元/份","price":12,"minQty":12,"img":"cold_51.jpg","note":""},{"name":"火腿口蘑挞","spec":"15元/串","minQty":16,"price":15,"img":"p34_2.jpg","note":"16个起订"},{"name":"水果tapas","spec":"12元","minQty":0,"price":12,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_37138adf6a8942d4.jpg","note":"16串起订"},{"name":"奶酪火腿拾果串","spec":"15元/串","minQty":20,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_37138adf6a894376.jpg","note":"16个起订"},{"name":"苹果奶酪火腿卷","spec":"15元/个【苹果，奶酪，意大利火腿，薄荷】","minQty":12,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_2612439e6a8a4fd4.jpg","note":"16个起订"},{"name":"芒果彩椒taco","spec":"18元","minQty":12,"price":18,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_2612439e6a8a50af.jpg","note":"16个起订"},{"name":"香煎三文治","spec":"10【午餐肉，鸡蛋，肉松，青瓜，芝士】","minQty":16,"price":10,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_a9defcfd6a8a5108.jpg","note":"16个起订"},{"name":"午餐肉时蔬串","spec":"12元【番茄，芝士，火腿，口蘑，生菜】","minQty":16,"price":12,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9a701d46a8a517d.jpg","note":"16个起订"},{"name":"芦笋牛扒时蔬盘","spec":"250元【番茄，蓝莓，树莓，芦笋，牛扒，烤肠】","minQty":1,"price":250,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_a9defcfd6a8a5235.jpg","note":"16个起订"},{"name":"蟹柳五彩杯(副本)","spec":"15元【蟹柳，番茄，苹果，黄瓜，水果】","minQty":0,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9a701d46a8a501f.jpg","note":"16个起订"},{"name":"无花果火腿奶酪","spec":"15元/个【无花果，奶酪，进口火腿，罗勒叶】","minQty":16,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_2612439e6a8a53a2.jpg","note":"16个起订"},{"name":"烤布里无花果tapas","spec":"20元【无花果，奶酪，法棍，罗勒叶，火腿，蜂蜜，橄榄油】","minQty":12,"price":20,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_2612439e6a8a53f6.jpg","note":"16个起订"},{"name":"水果奶酪塔塔","spec":"15元【法棍，奶酪，水果，橄榄油，蜂蜜】","minQty":16,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_a9defcfd6a8a6196.jpg","note":"16个起订"},{"name":"牛油果鲜虾塔塔","spec":"15元【牛油果，鲜虾，青瓜】","minQty":16,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9a701d46a8ae392.jpg","note":"16个起订"},{"name":"奶油煎扇贝","spec":"杯","minQty":10,"price":20,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_38d6f6e86af9f5f3.jpg","note":"16个起订"},{"name":"火腿奶酪蜜瓜卷(副本)","spec":"15元【意大利火腿，涂抹奶酪，蜜瓜，沙拉菜，坚果，黑醋】","minQty":0,"price":16,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_2612439e6a8a6593.jpg","note":"16个起订"},{"name":"烟熏三文鱼tapas","spec":"份","minQty":12,"price":25,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9bea3326af9f88b.jpg","note":"16个起订"},{"name":"牛油果烟熏三文鱼tapas(副本)","spec":"份","minQty":10,"price":25,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_38d6f6e86af9f969.jpg","note":"16个起订"},{"name":"黑虎虾牛油果tapas","spec":"份","minQty":12,"price":28,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_f90f3bbb6af9faf6.jpg","note":"16个起订"},{"name":"鲜虾三文鱼三文治","spec":"件","minQty":12,"price":23,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_7cc5dc476af9fb25.jpg","note":"16个起订"},{"name":"帕斯雀香芒tapas","spec":"件","minQty":12,"price":23,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9bea3326af9fe16.jpg","note":"16个起订"},{"name":"蜜瓜火腿","spec":"件","minQty":10,"price":14,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afe6e2c.jpg","note":"16个起订"}],"snack2":[{"name":"烤红薯","spec":"8元/个","minQty":30,"price":8,"img":"p37_2.jpg","note":""},{"name":"糖炒栗子","spec":"32元/斤","minQty":3,"price":32,"img":"p37_0.jpg","note":""},{"name":"糖山楂","spec":"28元/份","minQty":3,"price":28,"img":"p37_1.jpg","note":""},{"name":"冰糖葫芦（小串）","spec":"6.8元/串","minQty":20,"price":6.8,"img":"p37_3.jpg","note":""},{"name":"冰糖葫芦（大串）","spec":"12元/串","minQty":12,"price":12,"img":"p37_3.jpg","note":""},{"name":"薯条","spec":"80元/20人份","minQty":1,"price":80,"img":"p37_5.jpg","note":""},{"name":"冰粉","spec":"15元/份","price":15,"minQty":50,"img":"snack2_7.jpg","note":"自助"},{"name":"烤红薯（带机器）","spec":"个","minQty":100,"price":6,"img":"p37_2.jpg","note":""},{"name":"x糖炒栗子杯","spec":"杯","minQty":5,"price":18,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_7cc5dc476af6b9f6.jpg","note":""},{"name":"芝士烤红薯杯","spec":"杯","minQty":16,"price":14,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_f90f3bbb6af6ba2f.jpg","note":""},{"name":"糖山楂杯","spec":"杯","minQty":5,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_f90f3bbb6af6ba6e.jpg","note":""},{"name":"红枣奶芙","spec":"杯","minQty":5,"price":18,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_7cc5dc476af6ba9f.jpg","note":""},{"name":"烤梨","spec":"碗","minQty":12,"price":25,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_38d6f6e86af6be32.jpg","note":"200串起订"}],"lumed":[{"name":"关东煮（带机器）","spec":"5元/串","minQty":100,"price":5,"img":"lumed_1.jpg","note":""},{"name":"咖喱鱼蛋","spec":"2元/个","minQty":60,"price":2,"img":"p38_1.jpg","note":""},{"name":"卤味素菜","spec":"38元/斤","minQty":2,"price":38,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/lumed_mrkor8lk.jpg","note":""},{"name":"奥尔良鸡中翅","spec":"5元/1个","minQty":20,"price":5,"img":"p38_3.jpg","note":""},{"name":"纯肉火山肠（带机器）","spec":"6元/条","minQty":100,"price":6,"img":"p38_4.jpg","note":""},{"name":"凉拌素菜","spec":"38元/1斤","minQty":2,"price":38,"img":"p38_5.jpg","note":""},{"name":"柠檬百香果无骨鸡爪","spec":"58元/斤","minQty":2,"price":58,"img":"p39_0.jpg","note":""},{"name":"蒜香无骨鸭掌","spec":"58元/1斤","minQty":2,"price":58,"img":"p39_1.jpg","note":""},{"name":"卤味小吃套餐","spec":"220元/4斤","minQty":1,"price":220,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/lumed_mrkow64n.jpg","note":""},{"name":"【麻辣】酱卤鸭肾/鸭脖双拼","spec":"50元/斤","minQty":2,"price":50,"img":"p39_4.jpg","note":""},{"name":"盐焗鸡翅","spec":"72元/1斤","minQty":2,"price":72,"img":"p39_3.jpg","note":""},{"name":"寿司船（1.2米）","spec":"980元/份","minQty":1,"price":980,"img":"p39_5.jpg","note":""},{"name":"招牌爆汁香肠","spec":"2.3元/个","minQty":60,"price":2.3,"img":"p40_1.jpg","note":""},{"name":"大串秘制钵钵鸡","spec":"4元/串","minQty":60,"price":4,"img":"p40_0.jpg","note":""},{"name":"现卤鸭翅","spec":"7元/个","minQty":20,"price":7,"img":"p40_2.jpg","note":""},{"name":"现卤鸡爪","spec":"5.5元/个","minQty":20,"price":5.5,"img":"p40_3.jpg","note":""},{"name":"现卤鸭胗","spec":"8元/个","minQty":10,"price":8,"img":"p40_4.jpg","note":""},{"name":"现卤鸭爪","spec":"5元/个","minQty":20,"price":5,"img":"p40_5.jpg","note":""},{"name":"牙签牛肉","spec":"150元/1斤","minQty":1,"price":150,"img":"p41_1.jpg","note":""},{"name":"寿司拼盘","spec":"150元/38粒","minQty":1,"price":150,"img":"p41_2.jpg","note":""},{"name":"意大利肉酱面","spec":"180元/份(15人份)","minQty":1,"price":180,"img":"p41_3.jpg","note":"15人份"},{"name":"卤味鸭头","spec":"10元/个","minQty":10,"price":10,"img":"p41_4.jpg","note":""},{"name":"章鱼小丸子","spec":"130元/36颗","minQty":1,"price":130,"img":"p41_5.jpg","note":""},{"name":"纯肉火山肠","spec":"5元/条","minQty":20,"price":5,"img":"p38_4.jpg","note":""},{"name":"x寿司船","spec":"350元/份","minQty":1,"price":350,"img":"p39_5.jpg","note":""},{"name":"安格斯小牛肉串","spec":"100元/1斤","minQty":1,"price":100,"img":"p41_0.jpg","note":""},{"name":"卤味鸭下巴","spec":"10元/个","minQty":16,"price":10,"img":"p41_4.jpg","note":""},{"name":"港式卤味小吃套餐(副本)","spec":"220元/4斤","minQty":0,"price":220,"img":"p39_2.jpg","note":""},{"name":"凉拌香菜牛肉","spec":"200元【约2斤】","minQty":1,"price":200,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9a701d46a8a6030.jpg","note":""},{"name":"凤梨牛肉串","spec":"15元【凤梨，黑椒牛肉粒，彩椒】","minQty":16,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_a9defcfd6a8a6091.jpg","note":""},{"name":"凤梨鸡肉串","spec":"15元【凤梨，自研鸡腿肉，彩椒】","minQty":16,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_37138adf6a8a60eb.jpg","note":""},{"name":"凤梨牛肉粒【约3斤】","spec":"220【牛肉，凤梨，彩椒，黑椒】","minQty":1,"price":220,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_37138adf6a8a60fb.jpg","note":""},{"name":"百香果柠檬虾","spec":"250元【约2.5斤，大虾，黄瓜，香菜，柠檬，百香果，青柠】","minQty":1,"price":250,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_2612439e6a8a636f.jpg","note":""},{"name":"奶酪流心钵仔糕","spec":"多种口味拼","minQty":20,"price":5,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6b042cc7.jpg","note":""},{"name":"泡菜臭豆腐【现场制作】","spec":"8粒","minQty":100,"price":18,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a9302746ae1b5d3.jpg","note":""},{"name":"*瓦缸麻辣串串【带道具】","spec":"荤素搭配","minQty":150,"price":6,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_fb505a7c6ae1b5f0.jpg","note":""},{"name":"柠檬茶奶茶现场制作","spec":"500ml","minQty":100,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_fb505a7c6ae1b66f.jpg","note":""},{"name":"关东煮","spec":"串","minQty":80,"price":5,"img":"lumed_1.jpg","note":""},{"name":"椰香咖喱鱼蛋","spec":"50","minQty":1,"price":88,"img":"p38_1.jpg","note":""},{"name":"【麻辣】酱卤鸭肾/","spec":"斤","minQty":1,"price":60,"img":"p39_4.jpg","note":""},{"name":"现场抄板栗","spec":"斤","minQty":10,"price":50,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_e0a4d0b36aed62a3.jpg","note":""},{"name":"钵钵鸡大杂烩","spec":"海带，笋，虾，丸子，鱼皮，白菜，莴笋，土豆，莲藕，菇，鸭血，黄瓜，面筋，豆腐皮，千张，鱼豆腐，金针菇，鸡爪，金针菇，魔芋","minQty":100,"price":4,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_e0a4d0b36aed628c.jpg","note":""},{"name":"现场制作糖葫芦","spec":"山楂，杨桃，草莓，蓝莓，圣女果，青提，橘子，金桔","minQty":80,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_e0a4d0b36aed623c.jpg","note":""},{"name":"冰淇淋diy","spec":"内涵Diy等各种器皿","minQty":40,"price":20,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_fdc759b06aed62df.jpg","note":""},{"name":"冰粉Diy","spec":"份","minQty":50,"price":18,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_e0a4d0b36aed62f2.jpg","note":""},{"name":"纸杯蛋糕DIY","spec":"个","minQty":60,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_cb2dc49b6aed6328.jpg","note":""},{"name":"卤味素菜【毛豆花生】","spec":"杯","minQty":16,"price":10,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_38d6f6e86af6b39b.jpg","note":""},{"name":"卤味毛豆","spec":"1斤","minQty":2,"price":38,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9bea3326af6b3e5.jpg","note":""},{"name":"卤味小吃杯","spec":"杯","minQty":12,"price":12,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_f90f3bbb6af6b4d7.jpg","note":""},{"name":"钵钵鸡小吃杯","spec":"杯","minQty":20,"price":12,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9bea3326af6b506.jpg","note":""},{"name":"卤味素菜杯","spec":"杯","minQty":12,"price":10,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_f90f3bbb6af6b587.jpg","note":""},{"name":"凉拌素菜杯","spec":"杯","minQty":20,"price":10,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_7cc5dc476af6b5db.jpg","note":""},{"name":"凉拌青瓜牛肉杯","spec":"杯","minQty":12,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_38d6f6e86af6b62d.jpg","note":""},{"name":"凉拌青瓜牛肉","spec":"2斤","minQty":1,"price":180,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9bea3326af6b65c.jpg","note":""},{"name":"x寿司拼盘杯","spec":"杯","minQty":18,"price":15,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9bea3326af6cef1.jpg","note":""},{"name":"椰香鱼蛋杯","spec":"杯","minQty":10,"price":10,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_65108bbb6afe617b.jpg","note":""},{"name":"百香果柠檬无骨鸡爪【杯】","spec":"杯","minQty":10,"price":12,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_65108bbb6afe61b9.jpg","note":""}],"drinks":[{"name":"蜜桃乌龙（8L桶装）","spec":"8L/桶 ¥200","minQty":1,"price":200,"img":"p43_0.jpg","note":"可选：冰/常温/热"},{"name":"荔枝玫瑰红茶（8L桶装）","spec":"8L/桶 ¥200","minQty":1,"price":200,"img":"p43_0.jpg","note":"可选：冰/常温"},{"name":"红茶（8L桶装）","spec":"8L/桶 ¥80","minQty":1,"price":80,"img":"p43_0.jpg","note":"8升装"},{"name":"罗汉果熟地热茶（8L桶装）","spec":"8L/桶 ¥150","minQty":1,"price":150,"img":"p43_0.jpg","note":"热饮"},{"name":"柠乐（8L桶装）","spec":"8L/桶 ¥130","minQty":1,"price":130,"img":"p43_0.jpg","note":""},{"name":"橙汁（8L桶装）","spec":"8L/桶 ¥130","minQty":1,"price":130,"img":"p43_0.jpg","note":""},{"name":"秘制酸梅汤（8L桶装）","spec":"8L/桶 ¥130","minQty":1,"price":130,"img":"p43_0.jpg","note":"可选：冰/常温"},{"name":"奶茶（8L桶装）","spec":"8L/桶 ¥200","minQty":1,"price":200,"img":"p43_0.jpg","note":"可选：冰/常温/热"},{"name":"水果茶（瓶装）","spec":"350ml/瓶 ¥10","minQty":1,"price":10,"img":"p43_0.jpg","note":"瓶装10元/瓶 350ml"},{"name":"桂花龙眼热茶（8L桶装）","spec":"8L/桶 ¥180","minQty":1,"price":180,"img":"p43_0.jpg","note":"热饮"},{"name":"气泡水果茶（8L桶装）","spec":"8L/桶 ¥250","minQty":1,"price":250,"img":"p43_0.jpg","note":""},{"name":"薄荷柠檬乳酸菌（8L桶装）","spec":"8L/桶 ¥200","minQty":1,"price":200,"img":"p43_0.jpg","note":""},{"name":"港式奶茶（罐装）","spec":"罐 ¥12","minQty":1,"price":12,"img":"p44_1.jpg","note":"12元/罐"},{"name":"杨枝甘露（瓶装）","spec":"瓶 ¥12","minQty":1,"price":12,"img":"p44_2.jpg","note":"12元/瓶"},{"name":"乳酸菌饮品（支装）","spec":"支 ¥3.5","minQty":1,"price":3.5,"img":"p44_3.jpg","note":"3.5元/支"},{"name":"柠檬薄荷茶（壶装）","spec":"100元/壶","minQty":1,"price":100,"img":"p44_4.jpg","note":""},{"name":"大桶缤纷水果茶（桶装）","spec":"180/5升","price":180,"minQty":1,"img":"drinks_21.jpg","note":"3.5元/支"},{"name":"椰奶西瓜","spec":"160/5升","price":160,"minQty":1,"img":"drinks_22.jpg","note":"60元/壶"},{"name":"杨枝甘露（桶装）","spec":"200/5升","price":200,"minQty":1,"img":"drinks_23.jpg","note":"60元/壶"},{"name":"凤梨满杯（桶装）","spec":"180/5升","price":180,"minQty":1,"img":"drinks_24.jpg","note":"60元/壶"},{"name":"泰式柠檬茶（桶装）","spec":"180/5升","price":180,"minQty":1,"img":"drinks_25.jpg","note":"3.5元/支"},{"name":"花茶（8L桶装）","spec":"8L/桶 ¥220","minQty":1,"price":220,"img":"p43_0.jpg","note":""},{"name":"水果茶（8L桶装）","spec":"8L/桶 ¥230","minQty":1,"price":230,"img":"p43_0.jpg","note":"瓶装10元/瓶 350ml"},{"name":"暴打香印柠檬茶（8L桶装）","spec":"8L/桶 ¥250","minQty":1,"price":250,"img":"p43_0.jpg","note":""},{"name":"暗黑玫瑰绝绝紫（8L桶装）","spec":"8L/桶 ¥280","minQty":1,"price":280,"img":"p43_0.jpg","note":""},{"name":"8升冰镇祛湿毛根竹蔗水","spec":"冰糖，薏米，毛根，竹蔗，马蹄","minQty":0,"price":150,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_e0a4d0b36ae9afc1.jpg","note":"可选：冰/常温/热"},{"name":"鸡尾酒【现调】","spec":"杯","minQty":50,"price":23,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_cb2dc49b6aeaca45.jpg","note":"8升装"},{"name":"热咖啡","spec":"8升","minQty":1,"price":180,"img":"p43_0.jpg","note":"瓶装10元/瓶 350ml"},{"name":"柠檬蜜","spec":"8升","minQty":1,"price":150,"img":"p43_0.jpg","note":"瓶装10元/瓶 350ml"},{"name":"现磨咖啡机（配2包豆】","spec":"一台机","minQty":1,"price":400,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46b01b465.jpg","note":"瓶装10元/瓶 350ml"}],"fruit":[{"name":"水果拼盘(5斤装)","spec":"188元/盘(40x27x4.5cm)","minQty":1,"price":188,"img":"p45_1.jpg","note":"约5斤"},{"name":"水果拼盘(8斤装)","spec":"288元/盘(40x31x8cm)","minQty":1,"price":288,"img":"p45_1.jpg","note":"约8斤"},{"name":"什锦水果","spec":"10元/串(15串起)","minQty":15,"price":10,"img":"p45_0.jpg","note":"15串起订"},{"name":"水果鲜虾沙拉","spec":"200元/份","minQty":1,"price":200,"img":"p46_2.jpg","note":""},{"name":"高脚水果杯（高级水果除外）","spec":"10元/个","minQty":16,"price":13,"img":"p46_3.jpg","note":""},{"name":"法式冷餐水果拼盘","spec":"480元/1份","minQty":1,"price":480,"img":"p46_1.jpg","note":"根据季节主题水果会变换"},{"name":"高脚精致莓果水果杯","spec":"高脚红酒杯","minQty":10,"price":23,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_e0a4d0b36aebf55b.jpg","note":""},{"name":"小号莓果水果杯(副本)","spec":"","minQty":10,"price":18,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_fdc759b06aebf590.jpg","note":""},{"name":"圣诞法式冷餐拼盘(副本)","spec":"份","minQty":0,"price":680,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_0b0ff78c6afac548.jpg","note":"根据季节主题水果会变换"}],"table_cake":[{"name":"酥皮草莓莓果蛋糕","img":"table_cake_12.jpeg","spec":"多种规格可选","price":680,"minQty":1,"isCake":true,"cakeSpecs":{"round":{"label":"圆形","crafts":["酥皮版一层夹心","酥皮版两层夹心","蛋糕胚双层夹心","蛋糕胚双层夹心【复杂款】"],"sizes":[{"label":"20寸(50cm)","prices":[2200,2580,1800,2180]},{"label":"24寸(60cm)","prices":[2500,2800,2200,2580]},{"label":"28寸(70cm)","prices":[2800,3300,2600,3000]},{"label":"32寸(80cm)","prices":[3300,3800,3000,3500]},{"label":"39寸(100cm)","prices":[4200,4750,3800,4300]}]},"rect":{"label":"长方形","types":["二层夹心款","定制款"],"sizes":[{"label":"60×40cm","standardPrice":980},{"label":"50×30cm","standardPrice":780},{"label":"40×30cm","standardPrice":680}]},"note":"水果：草莓+树莓+蓝莓；夹心：草莓果酱夹心"}},{"name":"酥皮青提蛋糕","img":"table_cake_13.jpeg","spec":"多种规格可选","price":680,"minQty":1,"isCake":true,"cakeSpecs":{"round":{"label":"圆形","crafts":["酥皮版一层夹心","酥皮版两层夹心","蛋糕胚双层夹心","蛋糕胚双层夹心【复杂款】"],"sizes":[{"label":"20寸(50cm)","prices":[2200,2580,1800,2180]},{"label":"24寸(60cm)","prices":[2500,2800,2200,2580]},{"label":"28寸(70cm)","prices":[2800,3300,2600,3000]},{"label":"32寸(80cm)","prices":[3300,3800,3000,3500]},{"label":"39寸(100cm)","prices":[4200,4750,3800,4300]}]},"rect":{"label":"长方形","types":["二层夹心款","定制款"],"sizes":[{"label":"60×40cm","standardPrice":980},{"label":"50×30cm","standardPrice":780},{"label":"40×30cm","standardPrice":680}]},"note":"水果：青提为主；夹心：青提夹心"}},{"name":"酥皮纯树莓蛋糕","img":"table_cake_14.jpeg","spec":"多种规格可选","price":680,"minQty":1,"isCake":true,"cakeSpecs":{"round":{"label":"圆形","crafts":["酥皮版一层夹心","酥皮版两层夹心","蛋糕胚双层夹心","蛋糕胚双层夹心【复杂款】"],"sizes":[{"label":"20寸(50cm)","prices":[2200,2580,1800,2180]},{"label":"24寸(60cm)","prices":[2500,2800,2200,2580]},{"label":"28寸(70cm)","prices":[2800,3300,2600,3000]},{"label":"32寸(80cm)","prices":[3300,3800,3000,3500]},{"label":"39寸(100cm)","prices":[4200,4750,3800,4300]}]},"rect":{"label":"长方形","types":["二层夹心款","定制款"],"sizes":[{"label":"60×40cm","standardPrice":980},{"label":"50×30cm","standardPrice":780},{"label":"40×30cm","standardPrice":680}]},"note":"水果：纯树莓；夹心：草莓果酱夹心；纯树莓额外加¥500"}},{"name":"酥皮莓果双层蛋糕","img":"table_cake_15.jpeg","spec":"多种规格可选","price":680,"minQty":1,"isCake":true,"cakeSpecs":{"round":{"label":"圆形","crafts":["酥皮版一层夹心","酥皮版两层夹心","蛋糕胚双层夹心","蛋糕胚双层夹心【复杂款】"],"sizes":[{"label":"20寸(50cm)","prices":[2200,2580,1800,2180]},{"label":"24寸(60cm)","prices":[2500,2800,2200,2580]},{"label":"28寸(70cm)","prices":[2800,3300,2600,3000]},{"label":"32寸(80cm)","prices":[3300,3800,3000,3500]},{"label":"39寸(100cm)","prices":[4200,4750,3800,4300]}]},"rect":{"label":"长方形","types":["二层夹心款","定制款"],"sizes":[{"label":"60×40cm","standardPrice":980},{"label":"50×30cm","standardPrice":780},{"label":"40×30cm","standardPrice":680}]},"note":"水果：草莓+树莓+蓝莓；夹心：草莓果酱夹心"}},{"name":"蛋糕胚莓果蛋糕","img":"table_cake_16.jpeg","spec":"多种规格可选","price":680,"minQty":1,"isCake":true,"cakeSpecs":{"round":{"label":"圆形","crafts":["酥皮版一层夹心","酥皮版两层夹心","蛋糕胚双层夹心","蛋糕胚双层夹心【复杂款】"],"sizes":[{"label":"20寸(50cm)","prices":[2200,2580,1800,2180]},{"label":"24寸(60cm)","prices":[2500,2800,2200,2580]},{"label":"28寸(70cm)","prices":[2800,3300,2600,3000]},{"label":"32寸(80cm)","prices":[3300,3800,3000,3500]},{"label":"39寸(100cm)","prices":[4200,4750,3800,4300]}]},"rect":{"label":"长方形","types":["二层夹心款","定制款"],"sizes":[{"label":"60×40cm","standardPrice":980},{"label":"50×30cm","standardPrice":780},{"label":"40×30cm","standardPrice":680}]},"note":"水果：草莓+蓝莓；夹心：草莓果酱夹心"}},{"name":"提拉米苏大蛋糕","img":"table_cake_17.jpeg","spec":"多种规格可选","price":680,"minQty":1,"isCake":true,"cakeSpecs":{"round":{"label":"圆形","crafts":["酥皮版一层夹心","酥皮版两层夹心","蛋糕胚双层夹心","蛋糕胚双层夹心【复杂款】"],"sizes":[{"label":"20寸(50cm)","prices":[2200,2580,1800,2180]},{"label":"24寸(60cm)","prices":[2500,2800,2200,2580]},{"label":"28寸(70cm)","prices":[2800,3300,2600,3000]},{"label":"32寸(80cm)","prices":[3300,3800,3000,3500]},{"label":"39寸(100cm)","prices":[4200,4750,3800,4300]}]},"rect":{"label":"长方形","types":["二层夹心款","定制款"],"sizes":[{"label":"60×40cm","standardPrice":980},{"label":"50×30cm","standardPrice":780},{"label":"40×30cm","standardPrice":680}]},"note":"水果：提拉米苏；夹心：提拉米苏夹心"}},{"name":"老师驻场服务","img":"","spec":"150元/场","price":150,"minQty":0,"note":"专业烘焙老师现场服务，提供糖粉筛等工具。免费提供餐具，免费配套桌子，不包含配送费。"},{"name":"常规定制蛋糕","spec":"1磅","minQty":1,"price":188,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_d023402f6ac0bc3e.jpg","note":""},{"name":"挖了莓果提拉米苏","spec":"冬日限定.","minQty":1,"price":380,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_fdc759b06ae9d9c8.jpg","note":""},{"name":"桌花","spec":"个","minQty":6,"price":88,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6afd2ecb.jpg","note":"专业烘焙老师现场服务，提供糖粉筛等工具。免费提供餐具，免费配套桌子，不包含配送费。"},{"name":"指引牌【鲜花+气球】","spec":"个","minQty":0,"price":458,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196afd2ef3.jpg","note":"专业烘焙老师现场服务，提供糖粉筛等工具。免费提供餐具，免费配套桌子，不包含配送费。"},{"name":"气球大立柱","spec":"个","minQty":2,"price":208,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afd2f30.jpg","note":"专业烘焙老师现场服务，提供糖粉筛等工具。免费提供餐具，免费配套桌子，不包含配送费。"},{"name":"气球小立柱","spec":"个","minQty":6,"price":98,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196afd2f6b.jpg","note":"专业烘焙老师现场服务，提供糖粉筛等工具。免费提供餐具，免费配套桌子，不包含配送费。"},{"name":"陶瓷餐具","spec":"个","minQty":0,"price":6,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6afd3179.jpg","note":"专业烘焙老师现场服务，提供糖粉筛等工具。免费提供餐具，免费配套桌子，不包含配送费。"},{"name":"玻璃酒杯","spec":"个","minQty":0,"price":5,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6afd31a7.jpg","note":"专业烘焙老师现场服务，提供糖粉筛等工具。免费提供餐具，免费配套桌子，不包含配送费。"},{"name":"香槟桌","spec":"包含桌布和腰带","minQty":0,"price":88,"img":"https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afd31cf.jpg","note":"专业烘焙老师现场服务，提供糖粉筛等工具。免费提供餐具，免费配套桌子，不包含配送费。"}]}}
+{
+  "brand": "食之愈烘焙",
+  "brandEn": "Foodcomforts Bakery",
+  "config": {
+    "accessPassword": ""
+  },
+  "auth": {
+    "enabled": false,
+    "accounts": [
+      {
+        "username": "test1",
+        "password": "12345678"
+      },
+      {
+        "username": "test2",
+        "password": "12345678"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "cream",
+      "name": "轻糖奶油类",
+      "emoji": "🍰",
+      "en": "Light-Sugar Creams"
+    },
+    {
+      "id": "cheese",
+      "name": "芝士和挞类",
+      "emoji": "🧀",
+      "en": "Cheese & Tarts"
+    },
+    {
+      "id": "heavy",
+      "name": "重手工产品（宝宝宴、婚礼专品）",
+      "emoji": "🎉",
+      "en": "Handcraft Wedding"
+    },
+    {
+      "id": "lightcream",
+      "name": "少奶油类蛋糕",
+      "emoji": "🍮",
+      "en": "Less-Cream Cakes"
+    },
+    {
+      "id": "mousse",
+      "name": "慕斯类",
+      "emoji": "🍡",
+      "en": "Mousse"
+    },
+    {
+      "id": "snack",
+      "name": "下午茶和茶点类",
+      "emoji": "🫖",
+      "en": "Afternoon Tea & Snacks"
+    },
+    {
+      "id": "handmade",
+      "name": "手工茶点",
+      "emoji": "🌸",
+      "en": "Handmade Pastry"
+    },
+    {
+      "id": "nuts",
+      "name": "囍·坚果盘",
+      "emoji": "🥜",
+      "en": "Nuts Platter"
+    },
+    {
+      "id": "french",
+      "name": "精致法点",
+      "emoji": "🌷",
+      "en": "French Dessert"
+    },
+    {
+      "id": "cold",
+      "name": "精致冷餐",
+      "emoji": "🥗",
+      "en": "Cold Appetizers"
+    },
+    {
+      "id": "snack2",
+      "name": "小咸吃甜系列搭配",
+      "emoji": "🍢",
+      "en": "Sweet & Savory"
+    },
+    {
+      "id": "lumed",
+      "name": "卤味小吃",
+      "emoji": "🍗",
+      "en": "Braised Snacks"
+    },
+    {
+      "id": "drinks",
+      "name": "茶饮系列",
+      "emoji": "🥤",
+      "en": "Drinks"
+    },
+    {
+      "id": "fruit",
+      "name": "水果",
+      "emoji": "🍉",
+      "en": "Fruits"
+    },
+    {
+      "id": "table_cake",
+      "name": "甜品台大蛋糕",
+      "emoji": "🍰",
+      "en": "Table Cake"
+    }
+  ],
+  "products": {
+    "cream": [
+      {
+        "name": "水果抱抱卷",
+        "spec": "¥12.5/个",
+        "minQty": 20,
+        "price": 12.5,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/cream_mrk9zqz7.jpg",
+        "note": ""
+      },
+      {
+        "name": "海盐低糖杏仁卷",
+        "spec": "¥13/个",
+        "minQty": 10,
+        "price": 13,
+        "img": "p06_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "鲜果小方蛋糕(小)",
+        "spec": "¥12/个",
+        "minQty": 16,
+        "price": 12,
+        "img": "p06_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "纸杯蛋糕（大）",
+        "spec": "¥15/个",
+        "minQty": 6,
+        "price": 15,
+        "img": "cream_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "cupcake蛋糕（小）",
+        "spec": "¥10/个",
+        "minQty": 8,
+        "price": 10,
+        "img": "p07_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "水果流心泡芙",
+        "spec": "15元/个",
+        "minQty": 8,
+        "price": 15,
+        "img": "p07_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "水果号角酥（大）",
+        "spec": "¥16/个",
+        "minQty": 10,
+        "price": 16,
+        "img": "p07_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "水果号角酥（小）",
+        "spec": "¥12",
+        "price": 12,
+        "minQty": 10,
+        "img": "p07_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "鲜果瑞士卷",
+        "spec": "15元/个",
+        "minQty": 8,
+        "price": 15,
+        "img": "p08_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "精致水果高脚奶油杯子（小）",
+        "spec": "¥16/个",
+        "minQty": 8,
+        "price": 16,
+        "img": "p08_4.jpg",
+        "note": "可订小款 10元/个"
+      },
+      {
+        "name": "红丝绒草莓福袋",
+        "spec": "20元/个",
+        "minQty": 1,
+        "price": 20,
+        "img": "p08_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "鲜果小方蛋糕(大)",
+        "spec": "15元/个",
+        "price": 15,
+        "minQty": 16,
+        "img": "p06_3.jpg"
+      },
+      {
+        "name": "鲜果夹心蛋糕卷",
+        "spec": "15元/个",
+        "minQty": 10,
+        "price": 15,
+        "img": "p07_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "竹韵清甜",
+        "spec": "个",
+        "minQty": 6,
+        "price": 20,
+        "img": "p07_5.jpg",
+        "note": "10个起订"
+      },
+      {
+        "name": "水果高脚奶油杯子",
+        "spec": "杯",
+        "minQty": 8,
+        "price": 18,
+        "img": "p08_4.jpg",
+        "note": "可订小款 10元/个"
+      },
+      {
+        "name": "手工爆浆雪媚娘",
+        "spec": "有芒果，草莓，蓝莓，芋泥，海盐奥利奥多个口味",
+        "minQty": 12,
+        "price": 13,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aafb816.jpg",
+        "note": "可订小款 12元/个"
+      },
+      {
+        "name": "拿破仑千层酥",
+        "spec": "件",
+        "minQty": 12,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aafb98c.jpg",
+        "note": ""
+      },
+      {
+        "name": "草莓蛋糕",
+        "spec": "动物奶油，草莓果酱草莓夹心.",
+        "minQty": 6,
+        "price": 20,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_cb2dc49b6ae9d6b2.jpg",
+        "note": ""
+      },
+      {
+        "name": "鲜奶草莓小方蛋糕(小)",
+        "spec": "5*5cm",
+        "minQty": 12,
+        "price": 12,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196afe7143.jpg",
+        "note": ""
+      },
+      {
+        "name": "抹茶树莓蛋糕",
+        "spec": "5*5cm",
+        "minQty": 12,
+        "price": 13,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196afe717b.jpg",
+        "note": ""
+      },
+      {
+        "name": "鲜果口味蛋糕卷【平放】",
+        "spec": "件",
+        "minQty": 10,
+        "price": 12,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_65108bbb6afe71b7.jpg",
+        "note": ""
+      },
+      {
+        "name": "海盐杏仁草莓蛋糕",
+        "spec": "4*6",
+        "minQty": 12,
+        "price": 13,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afe7214.jpg",
+        "note": ""
+      },
+      {
+        "name": "海盐小方",
+        "spec": "3.5*3.5cm",
+        "minQty": 16,
+        "price": 8,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afe7266.jpg",
+        "note": "可订小款 10元/个"
+      },
+      {
+        "name": "圣诞草莓串",
+        "spec": "件",
+        "minQty": 12,
+        "price": 9,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_65108bbb6b0014dc.jpg",
+        "note": ""
+      },
+      {
+        "name": "菠萝蜜抱草莓",
+        "spec": "个",
+        "minQty": 16,
+        "price": 8,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_65108bbb6b001512.jpg",
+        "note": ""
+      },
+      {
+        "name": "水果串",
+        "spec": "件",
+        "minQty": 10,
+        "price": 10,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6b0016de.jpg",
+        "note": ""
+      },
+      {
+        "name": "圣诞手提桶",
+        "spec": "件",
+        "minQty": 8,
+        "price": 20,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196b0016fb.jpg",
+        "note": ""
+      },
+      {
+        "name": "圣诞咸点圣诞树",
+        "spec": "件",
+        "minQty": 10,
+        "price": 12,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46b0017b1.jpg",
+        "note": ""
+      },
+      {
+        "name": "圣诞纸杯蛋糕",
+        "spec": "个",
+        "minQty": 10,
+        "price": 13,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6b001a5f.jpg",
+        "note": "可订小款 8元/个"
+      },
+      {
+        "name": "圣诞草莓巴斯克小杯",
+        "spec": "件",
+        "minQty": 10,
+        "price": 18,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6b001822.jpg",
+        "note": ""
+      },
+      {
+        "name": "七彩酸奶麻薯",
+        "spec": "件",
+        "minQty": 12,
+        "price": 13,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196b001848.jpg",
+        "note": ""
+      },
+      {
+        "name": "培根土豆沙拉塔",
+        "spec": "件",
+        "minQty": 10,
+        "price": 13.8,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6b001894.jpg",
+        "note": ""
+      },
+      {
+        "name": "圣诞巧克力草莓蛋糕卷",
+        "spec": "个",
+        "minQty": 10,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46b001908.jpg",
+        "note": "可订小款 8元/个"
+      },
+      {
+        "name": "圣诞可露丽",
+        "spec": "件",
+        "minQty": 8,
+        "price": 18,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196b00194a.jpg",
+        "note": ""
+      },
+      {
+        "name": "莓果水果杯",
+        "spec": "杯",
+        "minQty": 10,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6b001a82.jpg",
+        "note": "可订小款 8元/个"
+      },
+      {
+        "name": "七彩圣诞咸点三层盘",
+        "spec": "",
+        "minQty": 1,
+        "price": 1080,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46b001ab5.jpg",
+        "note": "可订小款 8元/个"
+      },
+      {
+        "name": "糖葫芦",
+        "spec": "串",
+        "minQty": 20,
+        "price": 8,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46b001b08.jpg",
+        "note": "可订小款 8元/个"
+      },
+      {
+        "name": "圣诞树塔",
+        "spec": "件",
+        "minQty": 8,
+        "price": 20,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_65108bbb6b01afa3.jpg",
+        "note": ""
+      },
+      {
+        "name": "莓果圣诞老人拿破仑",
+        "spec": "件",
+        "minQty": 8,
+        "price": 22,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196b01afe1.jpg",
+        "note": ""
+      },
+      {
+        "name": "圣诞曲奇塔混搭一套6个【小号】",
+        "spec": "6粒/套",
+        "minQty": 1,
+        "price": 60,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6b01b01a.jpg",
+        "note": ""
+      },
+      {
+        "name": "鹿遇甜冬",
+        "spec": "件",
+        "minQty": 8,
+        "price": 25,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196b01b070.jpg",
+        "note": ""
+      },
+      {
+        "name": "圣诞红雪球法点",
+        "spec": "件",
+        "minQty": 10,
+        "price": 23,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_65108bbb6b01b0be.jpg",
+        "note": ""
+      },
+      {
+        "name": "圣诞玛德琳",
+        "spec": "件",
+        "minQty": 10,
+        "price": 12,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196b01b0f1.jpg",
+        "note": ""
+      },
+      {
+        "name": "平安果",
+        "spec": "个",
+        "minQty": 5,
+        "price": 18,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46b01b119.jpg",
+        "note": "可订小款 8元/个"
+      }
+    ],
+    "cheese": [
+      {
+        "name": "水果轻芝士蛋糕（大）",
+        "spec": "¥15/个",
+        "minQty": 6,
+        "price": 15,
+        "img": "p09_0.jpg",
+        "note": "6个起订"
+      },
+      {
+        "name": "水果轻芝士蛋糕（小）",
+        "spec": "¥12/个",
+        "minQty": 8,
+        "price": 12,
+        "img": "p09_0.jpg",
+        "note": "6个起订"
+      },
+      {
+        "name": "现烤巴斯克芝士蛋糕",
+        "spec": "16元/个",
+        "price": 16,
+        "minQty": 10,
+        "img": "p09_1.jpg",
+        "note": "6个起订"
+      },
+      {
+        "name": "法式海盐花塔",
+        "spec": "15元/个",
+        "minQty": 8,
+        "price": 15,
+        "img": "p09_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "半熟芝士",
+        "spec": "12元/个",
+        "minQty": 6,
+        "price": 12,
+        "img": "p09_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "鲜果芝士塔",
+        "spec": "10元/个",
+        "minQty": 10,
+        "price": 10,
+        "img": "p09_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "低糖美拉德栗子塔",
+        "spec": "16元/个",
+        "minQty": 10,
+        "price": 16,
+        "img": "p10_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "巴斯克小杯",
+        "spec": "16元/个",
+        "minQty": 10,
+        "price": 16,
+        "img": "p10_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "中式福气小瓦缸蛋糕",
+        "spec": "25元/个",
+        "minQty": 6,
+        "price": 25,
+        "img": "p10_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "迷你曲奇水果挞",
+        "spec": "12元/个",
+        "minQty": 10,
+        "price": 12,
+        "img": "p10_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "现烤巴斯克芝士蛋糕（切件）",
+        "spec": "件",
+        "minQty": 8,
+        "price": 12,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_01f3430d6aafb478.jpg",
+        "note": "6个起订"
+      },
+      {
+        "name": "现烤半熟芝士",
+        "spec": "个",
+        "minQty": 10,
+        "price": 12,
+        "img": "p09_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "柠檬芝士塔",
+        "spec": "个",
+        "minQty": 12,
+        "price": 10,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afe6468.jpg",
+        "note": ""
+      },
+      {
+        "name": "柠檬流心塔",
+        "spec": "个",
+        "minQty": 10,
+        "price": 12,
+        "img": "p10_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "抹茶流心塔",
+        "spec": "个",
+        "minQty": 10,
+        "price": 12,
+        "img": "p10_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "树莓芝士塔",
+        "spec": "树莓奶油，树莓鲜果，树莓果酱",
+        "minQty": 10,
+        "price": 12,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aafb850.jpg",
+        "note": ""
+      },
+      {
+        "name": "焦糖坚果塔(副本)",
+        "spec": "个",
+        "minQty": 12,
+        "price": 13,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afe648f.jpg",
+        "note": ""
+      },
+      {
+        "name": "法式爆酱曲奇水果塔",
+        "spec": "个",
+        "minQty": 8,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afe64f3.jpg",
+        "note": ""
+      }
+    ],
+    "heavy": [
+      {
+        "name": "手工巧克力甜甜圈（主题设计款）",
+        "spec": "18元/个",
+        "minQty": 6,
+        "price": 18,
+        "img": "p11_0.jpg",
+        "note": "8个起订"
+      },
+      {
+        "name": "造型推推乐蛋糕（主题设计款）",
+        "spec": "15元/个",
+        "minQty": 6,
+        "price": 15,
+        "img": "p11_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "水果雪糕筒蛋糕（主题设计款）",
+        "spec": "15元/个",
+        "minQty": 6,
+        "price": 15,
+        "img": "p11_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "焦糖布丁杯（主题设计款）",
+        "spec": "20元/个(玻璃瓶)",
+        "minQty": 6,
+        "price": 20,
+        "img": "p11_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "韩式棒棒糖蛋糕（主题设计款）",
+        "spec": "18元/个",
+        "minQty": 10,
+        "price": 18,
+        "img": "p12_0.jpg",
+        "note": "24个起订"
+      },
+      {
+        "name": "巧克力小熊玛德琳",
+        "spec": "12元/个",
+        "minQty": 12,
+        "price": 12,
+        "img": "p12_1.jpg",
+        "note": "12个起订"
+      },
+      {
+        "name": "现烤巴斯克（整个主题装饰）",
+        "spec": "180元/个(整蛋糕)",
+        "minQty": 1,
+        "price": 180,
+        "img": "p12_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "主题设计轻乳酪",
+        "spec": "160元/条(10件)",
+        "minQty": 1,
+        "price": 160,
+        "img": "p12_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "整条设计主题蛋糕卷",
+        "spec": "150元/条",
+        "minQty": 1,
+        "price": 150,
+        "img": "p12_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "cupcake纸杯蛋糕（主题设计款）",
+        "spec": "16元/个",
+        "minQty": 6,
+        "price": 16,
+        "img": "p12_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "x法式清糖马卡龙",
+        "spec": "粒",
+        "minQty": 10,
+        "price": 12,
+        "img": "p11_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "雪糕造型巧克力蛋糕（主题设计款）",
+        "spec": "个",
+        "minQty": 6,
+        "price": 20,
+        "img": "p11_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "x法式口味马卡龙(副本)",
+        "spec": "18元/粒",
+        "minQty": 8,
+        "price": 18,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_650815a96aafb4bc.jpg",
+        "note": ""
+      },
+      {
+        "name": "贝壳巧克力玛德琳【设计款】",
+        "spec": "个",
+        "minQty": 10,
+        "price": 18,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aafb59c.jpg",
+        "note": ""
+      },
+      {
+        "name": "车厘子红酒蛋糕杯",
+        "spec": "个",
+        "minQty": 1,
+        "price": 56,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_01f3430d6aafb5d6.jpg",
+        "note": ""
+      },
+      {
+        "name": "芒果红酒蛋糕杯",
+        "spec": "个",
+        "minQty": 1,
+        "price": 48,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_01f3430d6aafb646.jpg",
+        "note": ""
+      },
+      {
+        "name": "草莓红酒蛋糕杯(副本)",
+        "spec": "个",
+        "minQty": 1,
+        "price": 53,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aafb680.jpg",
+        "note": ""
+      }
+    ],
+    "lightcream": [
+      {
+        "name": "精致慕斯杯蛋糕",
+        "spec": "16元/个(可选蓝莓/草莓/芒果/抹茶)",
+        "minQty": 8,
+        "price": 16,
+        "img": "p13_1.jpg",
+        "note": "多种口味可选"
+      },
+      {
+        "name": "巧克力造型草莓",
+        "spec": "8元/个",
+        "minQty": 12,
+        "price": 8,
+        "img": "p13_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "椰奶烤布蕾（少奶油产品）",
+        "spec": "12.5元/个",
+        "minQty": 6,
+        "price": 12.5,
+        "img": "p14_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "现烤焦糖布丁",
+        "spec": "15元/个",
+        "minQty": 8,
+        "price": 15,
+        "img": "p14_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "清甜椰奶奶砖",
+        "spec": "68元/份(约16粒)",
+        "minQty": 1,
+        "price": 68,
+        "img": "p14_3.jpg",
+        "note": "一份16粒"
+      },
+      {
+        "name": "初夏（少奶油蛋糕）",
+        "spec": "15元/个",
+        "minQty": 8,
+        "price": 15,
+        "img": "p14_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "研磨时光（轻糖少奶油产品）",
+        "spec": "14元/个",
+        "minQty": 8,
+        "price": 14,
+        "img": "p14_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "秘境（少奶油系列）",
+        "spec": "14元/个",
+        "minQty": 10,
+        "price": 14,
+        "img": "p15_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "大理石磅蛋糕",
+        "spec": "件",
+        "minQty": 10,
+        "price": 12,
+        "img": "p14_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "酸甜蓝莓塔",
+        "spec": "个",
+        "minQty": 10,
+        "price": 12,
+        "img": "p15_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "荷花冻",
+        "spec": "12",
+        "minQty": 10,
+        "price": 12,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_afa272806a800509.jpg",
+        "note": "一份16粒"
+      },
+      {
+        "name": "清甜椰奶奶砖杯",
+        "spec": "8元",
+        "minQty": 10,
+        "price": 8,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_d7580c016aafb699.jpg",
+        "note": "一份16粒"
+      },
+      {
+        "name": "芒果椰奶奶砖",
+        "spec": "5元、粒",
+        "minQty": 20,
+        "price": 5,
+        "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDACAWGBwYFCAcGhwkIiAmMFA0MCwsMGJGSjpQdGZ6eHJmcG6AkLicgIiuim5woNqirr7EztDOfJri8uDI8LjKzsb/2wBDASIkJDAqMF40NF7GhHCExsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsb/wAARCADIAMYDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAgMEAAEF/8QALxABAAICAQMDAwMEAgMBAAAAAgASAyIBBDJCERNSIWJyMVGSBSNBghRhM6Kygf/EABgBAQEBAQEAAAAAAAAAAAAAAAIBAwAE/8QAIBEBAAMBAQEBAQEBAQEAAAAAAQACESExEkFREwNhIv/aAAwDAQACEQMRAD8AhOJo7an7o0YT42a/iZWcJKstowY0tQbTDFm/CJGNHtJJjK27klGrCj3IlQKo904DezmyzhMLGjbY2nJj3RW85OlJyJIk86xiLXaqyQ5FjcqxO6+qmI7xkTOzHCreqX0gvIVqiUT8pWe2LyYzkWxmjTDkOi9kSKyI1Naq2sf76KqibTuVe2SQYv3EvE/xgVObLmykIratVGWPpWTFWFrbRHuVVpf9MkK7LXwUao2Mg6gcY1xXnVeP7R3uJReU2FZLWLEVa4zYslj90NZUT3RIxo7E6/JQshRNe6DcI8Ni/cSW0bjSXdEV2jgamEs7K5nI4ELu2/KGyq69v2ye1VrHnOe1axltMZmiThvbW1YayklcLb9+IZVjrEZMOyVtVFUQ5DxexAx41kfPoeBzz68Hg+npNHjGT68cTR7FhMMGI93NlGPIMRNkSVrE7FRHWY1kxGqsj4wVuvpIkf1WU4cKyI2XaT90l6VZcyWR7GtYs48vU1xtVI7rT0sVMYIBqTHg9k7sm9ldxKRgLWXLIj9CYCJzKqNV8pRwxl2Q5UizH41VWMDqsKJNj262MDGqnaYpjrNOWJeM1dVOPIlsUamSe52qGVYqs6114Q/H7Ge8iu602TKkfjJ6pTpKf044tAK8iw9hY0kVaDVJfKPxdOvP6cSs4yT9DxHWi+wtg8kuLEkdjX8ofsq3jGqxVuVrFdR1Jw4UrFLxPymvyBjA2XsasZrtIuep6YsmyVlX14OsT1PULqOnJxWSS2J8YPR9Grl5qklWJnNR/IdfyX5cBRsT/GToo6ooy5I1sYCVuPRQWqHkVbP7I7V/2g2VlKMvTrINda9pkpsVXkoo/KZ2EmtbDHjKjrbWUHIEdlI0bHXunCkTtOrZJzUey8onj0tNILL5TRf6f+Q/EuGPXg8xeQjHwtbRiS/KHWx2M2wTCDU9kZSSsT/GMOJrbtlBJJ7SYKyklVhAr6ztXyEceuygqmPaKXUWVbQMisZbWA5OKr7Cecoo17pKiaqM4xrJz9ClDPSom2RVPxMyNt7GWCQlbVlGBbVXlLD02Knpwbf9+Umy4faWq1tOap2IsPIT1Cg9M6JH94SqjtBGM2X4wqjpKZmSpZku39Z0ZUu7WRpIqGciRqlJ/ojsHySpZQu5Sbqenx9RVWRr8YQHL/SUkEn6zWq26wWAiOn6c4x6E1tOokrUxiyVOsE5T5Stg5s4mxpfHWEkD3d0BZPEyfKkl9ZG2H9nBrKF1Bqq+MkeRZFbmdqqawKrxKUCr7GAQxDRKM2PFtZqv2wcvX9NhVCUke5HxjK6Tm2Qxj/WaHj9Mg4yBepX6TTv85PudxZtSVOrPZayXEbazKxSmf0hK1NlCyJRTsdTBCsu6OPr21U5t9ezsyKHTJfVamPxkk+S/KMK4I49eZuchWvqZpUD9kVYnqOtPTkkmyXaYHPW41gvz3fH7ofUYhnRudj5FSYdOceRImxrqUbViX+QhEcf8nrV9Eif4kz1D05OMmySJ7oAKR1JMYca7kpc08k8iniROtlFFIs21lxqe2BlJXFee7/EFqgbEMkSKVZzk6mdylFdxX4zhUy+dmgxmJ0NoTzlEquyg+MnSNYlQyUqWY73VkNbds5ZJQcSK1jTjWSx4rM8VktUIRm9u3jDGGuyVo4kzetVJlZi8eEo2XbIv6rmeI4ziSJX6rju5np6mI6jGMhRZKmiFSHrJej6w5cKOT/yE93y+6ebi6d5stSbJbJfGegejONFYjtY2svGXYsZxmpJ/jIKvJyf2Dj4w4MRx8Lt49JoTxLnm37zS/T/ACXCQYkiaoooxyJR+6U5cRyfavlJeSsa9OdZm1wmlbbAJRtaNxZvTiqi+FsYKKsvtmVq46ReyjkpLXaY41VJan7punyIyko5CqxAJsCoxCRrUnadxEnu7oRx/dOqmPuiqI6+Qr+E6kcfabQfePkawFn+JMly5El9VK/9R4RVrvstSFbSfJkWxtqoOJWM6zU2gVSIrnJxGwt5FQCoNkl9sIf3GiVsVVGdXyc8jeO2JyY0UtZ3qcx6Y1RSS8Yvp+rWbLVk7GxrL8qbJWwMKvt7eUdiyWK+UyJXcYCJJVZMyPfqV+99PRTuNe4tjJSkgUY3HkWNbdstbIm+QWryV12+6IeNFfRcL1he5Y6qKWRW7ppawwAjHYsddl3R2sWFrtE5ch/xKXA5ORWUJH1/Waeesi9e6aH/AG/8i+I02KJNlXWPWM5DVGYZCjrCRSMRXD3YVyQ5caxLbY+KnEtrSxY7Gq2Mmy4VjNjsYLVfYq2ivc9tdsbjyeRiUbHWdxWKr4qZ9Jpgkq/5FT2xOTIkrQa7VjDjKJk1eQ8OxKstoPKt4xmQpKpMZj6RLiyXp9s4ovkX0HYOIkmOWM5DVKs6cROusPjjg8frtGCewWtryL9o4yan/wDfKRq2Hryq1OSWrIjqonqEcmBWJVdj+U7TcgRZ5nWJZOsyc7JWqSZd0fRPCLM7rx+Mb0pCwnLwD7iOyrtKbJdy/jNcHkJXHWKXTpHVViEUWSzW0vJrtZc/lNkNj4qc05FW2MhOusJbGHlwomx/jElKZ2M4zT62cKR+2POU5Bt3fvFElKyhHGa6zMGVxh+5UraTrIsirDePRReLGk/Kdj5OMOzJV59KzSo4C+PVH05ml+GX6IBxsutVKwamqVotZfjFZcir900LB5MWqxyzG1SrROXIsmpk5St90cTaG1m3CLAiCoY7oKxpZkSUvKOPTImyRt8TKVZW0IkqdrWcOqqu6a0uZDO2qrfGGc5RqtVFpWNYm22sDZq8iK7KlwkvT5fpFosr62mGSp27oRyJLttI2F7J8pDGEo7TixElW2hnJU7H+MKxU0rUSHXZIEQa1PB8TKMWNE2X8YfHJP7QcmYkxgHVnKvCEkT5ViMnU+J2+6Dlye5WJrBb/q7hFWv9jk+ch7tYqEdTaLttD9b7FkM7WgnIiqwhZLXaMWKq+prOauaSCfsWclltGFEq3HdN7ZO0ykBDWc98jMeUo+q/WaIKPrzNJ9s75nSUe6BlyVMfxhSOyrMcYPail8lNGucZxYkoxNK1a/cpaMRJ7rKAyiEibIlVnkYuqy4817pfIrynVqENnZ66SsiZsbPuU5RsvG20m63qfbwFYls+1fEyDpsayZjW2qslL847sLb8J7OU2WvdJcmRY1VGstSNbSdk5DVf6qcn8lIo5Jxn+6V4qD1GNdObI2PyhFe5jK8qwI/sdbYw/b+KhDIjrBOQ9sBKr1gtUOkfssKtOJEnXuicattaHWWu5A1Bi1kVoGTJZR6NSlJqpKR04xVxnSl5ThStD9tLUmOxdKe5K3/RnVNcnWsECqQ1Nopk49sqqT4mejUnj044444k3W47dKjjOxqpq0zsybfyF0eYZSqGpPcZuo6rBi554b2+PG08/oM3t+9x9luPyMhV8j8kkrV8lNR5kzV9nuWKBZVivIxCykqvlH9P0yx4CO1E7QcnRFIrtR8oLVZtWxnYCK4XOvpNDyYlzzap+v7TTL5Ytjcia2J1iSkVUmU4iUSrTqqV2za1V7MxzkAFo2Wsny/03HkaRSxpbKvbKUlFLI7fEzhDk7FiT/T/AHDXI0idTX4xxwDEag1P2ynH/cBUyx7StdNITjFFa1VYYJWxO077Z7lAy5TjNeIT/wCesXvkY8ZRqiUfukHUYziqgtbdscsyyGsRlKWJL47TO1xcCKtUewCrbQUttpsSsZsh2hZpX2Nxqu3jG41ZfbJ8S8ZQDUzqruTrZ7DR1rO4sZ/yrczsUUitolxgPI9YV4qdJOP9edoZRRic52MSAaEA64xliu1Wi8hKVkoBKtHLHYmcWU8nfISRYAsxQJNltXyMpGDFi2xgnn9/Kcx4kXZRyNu2aV3OwobybjtinlRSPbGmvygvGcmyltqcZ1c3sV7i+U0y4B59Lc8/7TTHv9mukE5Ee2NKOQ18pKVOnJVd022DI7gNKvb+U6cRPcrQjlKO3dFPMkkTM7IGymsccoJrxrDWSQnJtG2kr/0XkrWMWRKIylLaHErL8TJZ32WpkA2tCSsET5GFixrIu2p+Sjlj6fBVZkbL5Q1qryVsHs8zB7iVcRSP/wAy7/jo7ZFX7TKicaBWNGvijJf6h1HsihW6/wDUzRryD7/YNcZZJRtHFVM8zpi8vUGqWqslPZqUdpCs762JtASK2U7lKx7Lt+UUl/7QX0ir2P4yqp548YwZjkP1/WRcJFQ7HuPlIWQ7E1JaSv8AChVXyk+DN4qNWcmaVsBsztVHJ15PbgHPbugNGtj3RKVoG7vJSv8AZQshPb3ROXIku6d9tVtFoq0jazGVqTFLniaHiK9OfWadjO0iiiVWLSRU2UqpUEpIq3cZpazsoGRqyJLuhY7LaADY/cY8GpgBXsigRWRIrt/2mFsiPco3ITXaN6Un2+PQ/Vd0Va65D9cnEUdazpJxn1J2lNTNWaP/ADh+pJZJWKkf9Q6d393ZFd1T2z1VjJsidov3FXYqdWiesNu+Tx+l6p9Pk12K7jHvBl6vMsq1xrtS+MurbtxEwzjJJJJJPjEH4w1IjFgOI1Cr8l8o720TqrTV27YRSr2zvk/Y+TVsao/lEZenqf7fGp8fjHWnSrGGwJjOFHk81JFQyrHxjuqxHIbHu/8AqTYtUphYzk2HSNFrRjtaLK/lHhWP3SBvJLP7Bxm3dDOMnxhVrNNACBss4jBR2jQbeNp3IQTtK100hLdmHB547bf9zQ8aNe30ml+f/Z2zzSrGcRqrHtkmPKsa27ZWUch1kTY+kZiNVb5R8Tj1raOUda4QvsW8aVawceT21WNtJ2alKBEdJTHk9HHkKMZaeViyoonxl4ylaqbVsJjDauRygawoCKXbE6GkJMu1VkyTK2tHkr8YSJXG3EysL0iEIoZraoxtjWAsZxq04suqrOLIdlcfISr9sVkyGtTEpJLaYmxUxtZeEta5OLIl5Wikau0cTWAsbTVSl+MgP7HuTE7R5NVYwDir3Lb8Y/HjVe6OtdYLWgm1dp1Ti1VVrBSlsYSELFkRVVHrgv8AKRpVdY0rWdW3MZWv7DWSnPpNOcZCjxyuDzzNLp/ZMniKvpXuP2+P4zDIsSsVY/L5TTSk0ZdiynIbHuj0tZpovyZs5aDl2C+6aaR8nV9iOFsYRzIr7ZppkPZpbyW4s1ibLWVWKmmnqr0mFvYnLkOPaIXVc/oTNNM7cir5MUshsptZppnFOToxpfoZpoT2V8jPZrxZVU7ZE1rWaaOCYFJRm1u6aaKs5guiNUj+Uly41j27j8ppp1pxBy7VRnTkJJtNNMT2afkzR59Fx/maaaWdP//Z",
+        "note": "一份16粒"
+      },
+      {
+        "name": "酸奶坚果杯",
+        "spec": "15元",
+        "minQty": 8,
+        "price": 18,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_7cc5dc476af9f2bf.jpg",
+        "note": "一份16粒"
+      },
+      {
+        "name": "莓果酸奶杯",
+        "spec": "杯",
+        "minQty": 8,
+        "price": 18,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_f90f3bbb6af9f311.jpg",
+        "note": "一份16粒"
+      },
+      {
+        "name": "轻糖鲜果米布丁【少奶油】",
+        "spec": "个",
+        "minQty": 10,
+        "price": 12,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6afe7706.jpg",
+        "note": ""
+      },
+      {
+        "name": "轻糖绿豆糕",
+        "spec": "件",
+        "minQty": 10,
+        "price": 5,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_65108bbb6b001d8b.jpg",
+        "note": "一份16粒"
+      }
+    ],
+    "mousse": [
+      {
+        "name": "意式提拉米苏（小）",
+        "spec": "¥15/个",
+        "minQty": 8,
+        "price": 15,
+        "img": "p16_0.jpg",
+        "note": "8个起订，可选小款12元/大款20元"
+      },
+      {
+        "name": "莓果提拉米苏",
+        "spec": "16元/个",
+        "minQty": 6,
+        "price": 16,
+        "img": "p16_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "芋泥椰椰",
+        "spec": "15元/个",
+        "minQty": 10,
+        "price": 15,
+        "img": "p16_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "鲜芒多多",
+        "spec": "13元/个",
+        "minQty": 10,
+        "price": 13,
+        "img": "p16_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "云顶百香（酸甜可口）",
+        "spec": "16元/个",
+        "minQty": 6,
+        "price": 16,
+        "img": "p16_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "栗屿微光",
+        "spec": "13元/个",
+        "minQty": 6,
+        "price": 13,
+        "img": "p17_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "绿野轻慕",
+        "spec": "16元/个",
+        "minQty": 1,
+        "price": 16,
+        "img": "p17_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "酸奶可可",
+        "spec": "12元/个",
+        "minQty": 6,
+        "price": 12,
+        "img": "p17_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "杏语微甜",
+        "spec": "¥12.5/个",
+        "minQty": 8,
+        "price": 12.5,
+        "img": "p16_5.jpg",
+        "note": "可选大款15元/个"
+      },
+      {
+        "name": "意式提拉米苏（切块大）",
+        "spec": "",
+        "minQty": 8,
+        "price": 20,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_db8664076aed648d.jpg",
+        "note": "8个起订，可选小款12元/大款20元"
+      },
+      {
+        "name": "草莓巴巴露亚",
+        "spec": "个",
+        "minQty": 6,
+        "price": 18,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_650815a96aab7568.jpg",
+        "note": ""
+      },
+      {
+        "name": "柠檬巴巴露亚",
+        "spec": "个",
+        "minQty": 6,
+        "price": 18,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aab757c.jpg",
+        "note": ""
+      },
+      {
+        "name": "酸奶兔兔",
+        "spec": "个",
+        "minQty": 8,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_d7580c016aab75ac.jpg",
+        "note": ""
+      },
+      {
+        "name": "巧克力蓝莓慕斯小方",
+        "spec": "个",
+        "minQty": 16,
+        "price": 12,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aafb726.jpg",
+        "note": ""
+      },
+      {
+        "name": "柠檬芝士小方",
+        "spec": "个",
+        "minQty": 16,
+        "price": 13,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_650815a96aafb782.jpg",
+        "note": ""
+      },
+      {
+        "name": "一盏清茶",
+        "spec": "桂花，奶冻",
+        "minQty": 6,
+        "price": 26,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_650815a96aafb8e2.jpg",
+        "note": ""
+      },
+      {
+        "name": "古扇慕斯",
+        "spec": "件",
+        "minQty": 6,
+        "price": 22,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_01f3430d6aafb8f2.jpg",
+        "note": ""
+      },
+      {
+        "name": "轻糖双莓慕斯",
+        "spec": "件",
+        "minQty": 10,
+        "price": 11,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_fdc759b06aeaf7c6.jpg",
+        "note": ""
+      },
+      {
+        "name": "轻糖芒果慕斯小方",
+        "spec": "件",
+        "minQty": 10,
+        "price": 11,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_cb2dc49b6aeaf7fb.jpg",
+        "note": ""
+      },
+      {
+        "name": "轻糖蓝莓慕斯",
+        "spec": "件",
+        "minQty": 10,
+        "price": 11,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_db8664076aeaf82a.jpg",
+        "note": ""
+      },
+      {
+        "name": "巧克力坚果布朗尼",
+        "spec": "件",
+        "minQty": 12,
+        "price": 12,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_fdc759b06aeaf87f.jpg",
+        "note": ""
+      },
+      {
+        "name": "纽约芝士【青柠，蓝莓，草莓】",
+        "spec": "件",
+        "minQty": 10,
+        "price": 12,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196afe6dfc.jpg",
+        "note": ""
+      }
+    ],
+    "snack": [
+      {
+        "name": "黑金迷你汉堡",
+        "spec": "12元/个",
+        "minQty": 10,
+        "price": 12,
+        "img": "p18_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "火腿芝士可颂",
+        "spec": "8元/个",
+        "minQty": 8,
+        "price": 8,
+        "img": "p18_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "迷你芝士汉堡",
+        "spec": "12元/个",
+        "minQty": 10,
+        "price": 12,
+        "img": "p18_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "法式小热狗",
+        "spec": "6元/个",
+        "minQty": 10,
+        "price": 6,
+        "img": "p18_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "青瓜芝士三文治",
+        "spec": "7元/个",
+        "minQty": 12,
+        "price": 7,
+        "img": "p19_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "全麦厚切鲜蔬菜三文治",
+        "spec": "8元/份",
+        "minQty": 12,
+        "price": 8,
+        "img": "p19_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "手工椒盐桃酥",
+        "spec": "3.5元/粒",
+        "minQty": 12,
+        "price": 3.5,
+        "img": "p19_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "巧克力薄脆",
+        "spec": "120克",
+        "minQty": 1,
+        "price": 60,
+        "img": "p19_4.jpg",
+        "note": "16粒起"
+      },
+      {
+        "name": "现烤麻薯球",
+        "spec": "4元/个",
+        "minQty": 9,
+        "price": 4,
+        "img": "p19_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "一口芝士火腿麻薯",
+        "spec": "24元/盒(12个一盒)",
+        "minQty": 1,
+        "price": 24,
+        "img": "p20_0.jpg",
+        "note": "12个一盒"
+      },
+      {
+        "name": "虎皮蛋糕",
+        "spec": "5片",
+        "minQty": 1,
+        "price": 15,
+        "img": "p20_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "原味爆浆大泡芙",
+        "spec": "10元/个",
+        "minQty": 8,
+        "price": 10,
+        "img": "p20_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "小贝蛋糕",
+        "spec": "6元/个",
+        "minQty": 8,
+        "price": 6,
+        "img": "p20_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "肉松虎皮卷",
+        "spec": "6元/个",
+        "minQty": 8,
+        "price": 6,
+        "img": "p20_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "手工醇糖绿豆冰糕",
+        "spec": "6元/个",
+        "minQty": 10,
+        "price": 6,
+        "img": "p21_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "千层葡挞",
+        "spec": "5元/个",
+        "minQty": 12,
+        "price": 5,
+        "img": "p21_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "起酥老婆饼",
+        "spec": "60元/份（15个）",
+        "minQty": 1,
+        "price": 60,
+        "img": "p21_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "芋泥海苔号角酥",
+        "spec": "12元/个",
+        "minQty": 10,
+        "price": 12,
+        "img": "p18_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "鸡扒三文治（小份）",
+        "spec": "8元/个",
+        "minQty": 16,
+        "price": 8,
+        "img": "p18_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "手工黄油曲奇饼",
+        "spec": "180克",
+        "minQty": 1,
+        "price": 50,
+        "img": "p20_2.jpg",
+        "note": "25个起订"
+      },
+      {
+        "name": "黄油香煎三文治",
+        "spec": "件",
+        "minQty": 12,
+        "price": 8,
+        "img": "p19_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "肉松小方",
+        "spec": "个",
+        "minQty": 16,
+        "price": 4,
+        "img": "p19_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "顶级黄油牛角包",
+        "spec": "个",
+        "minQty": 10,
+        "price": 8,
+        "img": "p21_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "芋泥海苔号角酥（大）",
+        "spec": "个",
+        "minQty": 8,
+        "price": 12,
+        "img": "p18_0.jpg",
+        "note": "可订小款 7元/个"
+      },
+      {
+        "name": "芋泥海苔号角酥（小）",
+        "spec": "个",
+        "minQty": 12,
+        "price": 8,
+        "img": "p18_0.jpg",
+        "note": "可订小款 7元/个"
+      },
+      {
+        "name": "x凤梨小贝",
+        "spec": "个",
+        "minQty": 12,
+        "price": 6.5,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_afa272806a8004b8.jpg",
+        "note": ""
+      },
+      {
+        "name": "x抹茶爆浆小贝",
+        "spec": "个",
+        "minQty": 12,
+        "price": 6.5,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_253558636a80049b.jpg",
+        "note": ""
+      },
+      {
+        "name": "鲜果千层葡挞",
+        "spec": "个",
+        "minQty": 12,
+        "price": 6,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afe74e7.jpg",
+        "note": ""
+      },
+      {
+        "name": "培根松露塔",
+        "spec": "件",
+        "minQty": 12,
+        "price": 10,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_f90f3bbb6af9f583.jpg",
+        "note": ""
+      }
+    ],
+    "handmade": [
+      {
+        "name": "桃花酥",
+        "spec": "16元/个",
+        "minQty": 4,
+        "price": 16,
+        "img": "p22_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "经典手工凤梨酥",
+        "spec": "12元/个",
+        "minQty": 10,
+        "price": 12,
+        "img": "p22_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "卡通凤梨酥",
+        "spec": "12.8元/个",
+        "minQty": 10,
+        "price": 12.8,
+        "img": "p22_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "迷你凤梨酥",
+        "spec": "个",
+        "minQty": 10,
+        "price": 7,
+        "img": "p22_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "手工蛋白凤梨酥",
+        "spec": "个",
+        "minQty": 12,
+        "price": 10,
+        "img": "data:image/jpeg;base64,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",
+        "note": ""
+      },
+      {
+        "name": "香蕉糕（传统岭南特色手工糕点）",
+        "spec": "件",
+        "minQty": 20,
+        "price": 5,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_a2cf60796ae1b03a.jpg",
+        "note": ""
+      },
+      {
+        "name": "迷你蛋黄酥",
+        "spec": "个",
+        "minQty": 12,
+        "price": 10,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_bc92e77d6ae1b06d.jpg",
+        "note": ""
+      },
+      {
+        "name": "坚果桃酥",
+        "spec": "一份有12个",
+        "minQty": 1,
+        "price": 60,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_a2cf60796ae1b0c5.jpg",
+        "note": ""
+      },
+      {
+        "name": "低糖手工沙琪玛",
+        "spec": "1斤",
+        "minQty": 1,
+        "price": 80,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a9302746ae1b1e1.jpg",
+        "note": ""
+      },
+      {
+        "name": "南瓜烧",
+        "spec": "个",
+        "minQty": 12,
+        "price": 10,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6afe758a.jpg",
+        "note": ""
+      },
+      {
+        "name": "中式花样酥饼【各形状】",
+        "spec": "各种造型口味结合，不同季节节令不一样",
+        "minQty": 8,
+        "price": 28,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a9302746ae1b83d.jpg",
+        "note": ""
+      },
+      {
+        "name": "黄油蝴蝶酥",
+        "spec": "黄油手工蝴蝶酥",
+        "minQty": 16,
+        "price": 6,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_bc92e77d6ae1b8bd.jpg",
+        "note": ""
+      },
+      {
+        "name": "起酥千层老婆饼",
+        "spec": "层层酥脆，岭南特色酥饼",
+        "minQty": 20,
+        "price": 6,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a9302746ae1b97e.jpg",
+        "note": ""
+      },
+      {
+        "name": "椒盐桃酥",
+        "spec": "迷你型，口味独特",
+        "minQty": 20,
+        "price": 4,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a9302746ae1b9c2.jpg",
+        "note": ""
+      },
+      {
+        "name": "黄油雪花曲奇",
+        "spec": "约25小件",
+        "minQty": 1,
+        "price": 60,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_a2cf60796ae1ba7d.jpg",
+        "note": ""
+      },
+      {
+        "name": "岭南榄香鸡仔饼",
+        "spec": "岭南特色手工酥饼，咸香口感",
+        "minQty": 20,
+        "price": 8,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a9302746ae1bdeb.jpg",
+        "note": ""
+      }
+    ],
+    "nuts": [
+      {
+        "name": "坚果四拼",
+        "spec": "120元/份",
+        "minQty": 1,
+        "price": 120,
+        "img": "p23_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "坚果9宫格",
+        "spec": "200元/份",
+        "minQty": 1,
+        "price": 200,
+        "img": "p23_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "坚果干货零食拼盘",
+        "spec": "85元/份(葡萄干+红枣+桂圆+花生+瓜子)",
+        "minQty": 1,
+        "price": 85,
+        "img": "p24_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "会议果干",
+        "spec": "80元/份(苹果干+杏仁+紫菜+素辣条)",
+        "minQty": 1,
+        "price": 80,
+        "img": "p24_2.jpg",
+        "note": ""
+      }
+    ],
+    "french": [
+      {
+        "name": "可露丽",
+        "spec": "20元/个",
+        "minQty": 12,
+        "price": 20,
+        "img": "p25_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "抹茶伯爵",
+        "spec": "20元/个",
+        "minQty": 12,
+        "price": 20,
+        "img": "p25_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "椰香雪莉",
+        "spec": "16元/个",
+        "minQty": 12,
+        "price": 16,
+        "img": "p25_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "桃之夭夭",
+        "spec": "18元/个",
+        "minQty": 12,
+        "price": 18,
+        "img": "p25_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "玫瑰荔荔",
+        "spec": "16元/个",
+        "minQty": 12,
+        "price": 16,
+        "img": "p25_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "甜心结梦",
+        "spec": "25元/个",
+        "minQty": 8,
+        "price": 25,
+        "img": "p26_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "小葵朵朵",
+        "spec": "25元/个",
+        "minQty": 8,
+        "price": 25,
+        "img": "p26_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "奶蓝泡泡",
+        "spec": "¥28/个",
+        "minQty": 8,
+        "price": 28,
+        "img": "p26_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "花见漫想",
+        "spec": "25元/个",
+        "minQty": 8,
+        "price": 25,
+        "img": "p26_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "晴日云酪",
+        "spec": "30元/个",
+        "minQty": 8,
+        "price": 30,
+        "img": "p26_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "荔露凝香",
+        "spec": "25元/个",
+        "minQty": 8,
+        "price": 25,
+        "img": "p26_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "巧克力梦龙",
+        "spec": "16元/个",
+        "minQty": 10,
+        "price": 16,
+        "img": "p27_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "芒芒夏日",
+        "spec": "16元/个",
+        "minQty": 8,
+        "price": 16,
+        "img": "p27_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "柠檬乳酪",
+        "spec": "16元/个",
+        "minQty": 8,
+        "price": 16,
+        "img": "p27_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "茉莉蜜桃",
+        "spec": "18元/个",
+        "minQty": 8,
+        "price": 18,
+        "img": "p27_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "特洛伊",
+        "spec": "20元/个",
+        "minQty": 8,
+        "price": 20,
+        "img": "p27_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "琉璃之恋",
+        "spec": "¥25个",
+        "minQty": 8,
+        "price": 25,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_50599b866a7ad505.jpg",
+        "note": "12个起订，可选小款15元"
+      },
+      {
+        "name": "甜蜜有期",
+        "spec": "25/个",
+        "minQty": 8,
+        "price": 25,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_50599b866a7ad51f.jpg",
+        "note": "12个起订，可选小款15元"
+      },
+      {
+        "name": "浅夕之约",
+        "spec": "30/个",
+        "minQty": 8,
+        "price": 30,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b5138c476a7ad559.jpg",
+        "note": "12个起订，可选小款15元"
+      },
+      {
+        "name": "纯甄心愿",
+        "spec": "35/个",
+        "minQty": 8,
+        "price": 35,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a0201bc6a7ad59f.jpg",
+        "note": "12个起订，可选小款15元"
+      },
+      {
+        "name": "苍山暮雪",
+        "spec": "25元",
+        "minQty": 8,
+        "price": 25,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aafb957.jpg",
+        "note": "12个起订"
+      },
+      {
+        "name": "提拉米苏塔",
+        "spec": "玻璃杯",
+        "minQty": 1,
+        "price": 38,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_650815a96aafba21.jpg",
+        "note": "12个起订"
+      },
+      {
+        "name": "主题定制法点",
+        "spec": "根据不同主题色定制设计的法式甜品台",
+        "minQty": 12,
+        "price": 28,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a9302746ae1e2b1.jpg",
+        "note": "12个起订"
+      }
+    ],
+    "cold": [
+      {
+        "name": "芝士火腿卷",
+        "spec": "8.5元/串",
+        "minQty": 16,
+        "price": 8.5,
+        "img": "p28_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "鲜虾香芒蔬菜沙拉",
+        "spec": "12.5元/串",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p28_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "鲜虾牛油果",
+        "spec": "20元/个",
+        "minQty": 16,
+        "price": 20,
+        "img": "p28_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "蜜瓜培根卷",
+        "spec": "12.5元/串",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p28_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "蜜瓜帕尔马奶酪",
+        "spec": "12.5元/串",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p29_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "蜂蜜无花果培根杯",
+        "spec": "18元/个",
+        "minQty": 16,
+        "price": 18,
+        "img": "p29_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "芝士鸡块果蔬小汉堡",
+        "spec": "12元/个",
+        "minQty": 16,
+        "price": 12,
+        "img": "p29_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "凤梨培根卷",
+        "spec": "12.5元/串",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p29_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "小号培根秋葵卷",
+        "spec": "12.5元/串",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p29_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "蟹柳鲜蔬杯",
+        "spec": "15元/个",
+        "minQty": 16,
+        "price": 15,
+        "img": "p29_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "橄榄萨拉米三明治",
+        "spec": "15元/个",
+        "minQty": 16,
+        "price": 15,
+        "img": "p30_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "青瓜鲜虾塔",
+        "spec": "12.5元/串",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p30_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "培根青瓜法棍",
+        "spec": "12.5元/串",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p30_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "鲜虾培根三明治",
+        "spec": "12.5元/个",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p30_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "马苏里拉奶酪火腿串",
+        "spec": "15元/串",
+        "minQty": 16,
+        "price": 15,
+        "img": "p30_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "夏威夷黑椒牛肉粒串",
+        "spec": "12.5元/串",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p30_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "杯子三明治",
+        "spec": "10.5元/串",
+        "minQty": 16,
+        "price": 10.5,
+        "img": "p31_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "芦笋培根卷",
+        "spec": "15元/串",
+        "minQty": 16,
+        "price": 15,
+        "img": "p31_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "香芒培根卷",
+        "spec": "12.5元/串",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p31_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "青虾水果沙拉塔",
+        "spec": "15元/串",
+        "minQty": 16,
+        "price": 15,
+        "img": "p31_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "米肠芝士花卷",
+        "spec": "13.5元/串",
+        "minQty": 16,
+        "price": 13.5,
+        "img": "p31_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "香缇沙拉培根",
+        "spec": "13.5元/串",
+        "minQty": 16,
+        "price": 13.5,
+        "img": "p32_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "火腿蜜瓜卷",
+        "spec": "12.5元/串",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p32_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "蜜瓜芝士培根",
+        "spec": "13元/串",
+        "minQty": 16,
+        "price": 13,
+        "img": "p32_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "水果鲜虾沙拉杯",
+        "spec": "13元/串",
+        "minQty": 16,
+        "price": 13,
+        "img": "p32_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "牛肉杂锦串",
+        "spec": "15元/串",
+        "minQty": 16,
+        "price": 15,
+        "img": "p32_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "米肠黑松露",
+        "spec": "15元/串",
+        "minQty": 16,
+        "price": 15,
+        "img": "p33_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "凤梨烤翅",
+        "spec": "10元/串",
+        "minQty": 20,
+        "price": 10,
+        "img": "p33_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "香印鱼蛋",
+        "spec": "9元/串",
+        "minQty": 16,
+        "price": 9,
+        "img": "p33_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "黑椒牛肉塔",
+        "spec": "12.5元/个",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p33_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "帕斯雀牛肉口蘑杯",
+        "spec": "12.5元/个",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p34_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "萨拉米肠香印",
+        "spec": "12.5元/串",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p34_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "德式香肠蟹柳串",
+        "spec": "12.5元/串",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p34_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "德式黑椒肠凤梨挞",
+        "spec": "12.5元/串",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p34_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "蟹柳芝士塔",
+        "spec": "12.5元/个(小)",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p34_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "三文鱼奶酪三明治",
+        "spec": "12.5元/串",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p35_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "培根蔬菜卷",
+        "spec": "12.5元/串",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p35_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "法式蒜香黄油虾",
+        "spec": "13.5元/串",
+        "minQty": 16,
+        "price": 13.5,
+        "img": "p35_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "罗勒蟹柳白酱",
+        "spec": "12.5元/串",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p35_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "意大利火腿彩椒沙拉",
+        "spec": "16元/串",
+        "minQty": 16,
+        "price": 16,
+        "img": "p35_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "鲜虾玉米沙拉羽衣甘蓝",
+        "spec": "16元/串",
+        "minQty": 16,
+        "price": 16,
+        "img": "p35_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "鸡胸肉凯撒酱法棍",
+        "spec": "12元/串",
+        "minQty": 16,
+        "price": 12,
+        "img": "p36_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "白汁培根野菌塔",
+        "spec": "12.5元/串",
+        "minQty": 16,
+        "price": 12.5,
+        "img": "p36_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "香煎鸭胸肉萨拉米肠",
+        "spec": "13.5元/串",
+        "minQty": 16,
+        "price": 13.5,
+        "img": "p36_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "鲜蔬红酒牛肉粒",
+        "spec": "16元/串",
+        "minQty": 16,
+        "price": 16,
+        "img": "p36_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "肉酱意大利面杯",
+        "spec": "16元/份",
+        "minQty": 16,
+        "price": 16,
+        "img": "p31_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "轻食菠菜黑椒牛肉卷",
+        "spec": "20元/份",
+        "price": 20,
+        "minQty": 12,
+        "img": "cold_48.jpg",
+        "note": ""
+      },
+      {
+        "name": "香芒培根卷",
+        "spec": "12.5元/串",
+        "price": 12.5,
+        "minQty": 16,
+        "img": "p31_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "芦笋培根卷",
+        "spec": "16元/串",
+        "price": 16,
+        "minQty": 16,
+        "img": "p31_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "火腿口蘑挞",
+        "spec": "15元/串",
+        "minQty": 16,
+        "price": 15,
+        "img": "p34_2.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "水果tapas",
+        "spec": "12元",
+        "minQty": 0,
+        "price": 12,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_37138adf6a8942d4.jpg",
+        "note": "16串起订"
+      },
+      {
+        "name": "奶酪火腿拾果串",
+        "spec": "15元/串",
+        "minQty": 20,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_37138adf6a894376.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "苹果奶酪火腿卷",
+        "spec": "15元/个【苹果，奶酪，意大利火腿，薄荷】",
+        "minQty": 12,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_2612439e6a8a4fd4.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "芒果彩椒taco",
+        "spec": "18元",
+        "minQty": 12,
+        "price": 18,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_2612439e6a8a50af.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "香煎三文治",
+        "spec": "10【午餐肉，鸡蛋，肉松，青瓜，芝士】",
+        "minQty": 16,
+        "price": 10,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_a9defcfd6a8a5108.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "午餐肉时蔬串",
+        "spec": "12元【番茄，芝士，火腿，口蘑，生菜】",
+        "minQty": 16,
+        "price": 12,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9a701d46a8a517d.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "芦笋牛扒时蔬盘",
+        "spec": "250元【番茄，蓝莓，树莓，芦笋，牛扒，烤肠】",
+        "minQty": 1,
+        "price": 250,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_a9defcfd6a8a5235.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "蟹柳五彩杯(副本)",
+        "spec": "15元【蟹柳，番茄，苹果，黄瓜，水果】",
+        "minQty": 0,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9a701d46a8a501f.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "无花果火腿奶酪",
+        "spec": "15元/个【无花果，奶酪，进口火腿，罗勒叶】",
+        "minQty": 16,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_2612439e6a8a53a2.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "烤布里无花果tapas",
+        "spec": "20元【无花果，奶酪，法棍，罗勒叶，火腿，蜂蜜，橄榄油】",
+        "minQty": 12,
+        "price": 20,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_2612439e6a8a53f6.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "水果奶酪塔塔",
+        "spec": "15元【法棍，奶酪，水果，橄榄油，蜂蜜】",
+        "minQty": 16,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_a9defcfd6a8a6196.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "牛油果鲜虾塔塔",
+        "spec": "15元【牛油果，鲜虾，青瓜】",
+        "minQty": 16,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9a701d46a8ae392.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "奶油煎扇贝",
+        "spec": "杯",
+        "minQty": 10,
+        "price": 20,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_38d6f6e86af9f5f3.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "火腿奶酪蜜瓜卷(副本)",
+        "spec": "15元【意大利火腿，涂抹奶酪，蜜瓜，沙拉菜，坚果，黑醋】",
+        "minQty": 0,
+        "price": 16,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_2612439e6a8a6593.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "烟熏三文鱼tapas",
+        "spec": "份",
+        "minQty": 12,
+        "price": 25,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9bea3326af9f88b.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "牛油果烟熏三文鱼tapas(副本)",
+        "spec": "份",
+        "minQty": 10,
+        "price": 25,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_38d6f6e86af9f969.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "黑虎虾牛油果tapas",
+        "spec": "份",
+        "minQty": 12,
+        "price": 28,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_f90f3bbb6af9faf6.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "鲜虾三文鱼三文治",
+        "spec": "件",
+        "minQty": 12,
+        "price": 23,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_7cc5dc476af9fb25.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "帕斯雀香芒tapas",
+        "spec": "件",
+        "minQty": 12,
+        "price": 23,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9bea3326af9fe16.jpg",
+        "note": "16个起订"
+      },
+      {
+        "name": "蜜瓜火腿",
+        "spec": "件",
+        "minQty": 10,
+        "price": 14,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afe6e2c.jpg",
+        "note": "16个起订"
+      }
+    ],
+    "snack2": [
+      {
+        "name": "烤红薯",
+        "spec": "8元/个",
+        "minQty": 30,
+        "price": 8,
+        "img": "p37_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "糖炒栗子",
+        "spec": "32元/斤",
+        "minQty": 3,
+        "price": 32,
+        "img": "p37_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "糖山楂",
+        "spec": "28元/份",
+        "minQty": 3,
+        "price": 28,
+        "img": "p37_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "冰糖葫芦（小串）",
+        "spec": "6.8元/串",
+        "minQty": 20,
+        "price": 6.8,
+        "img": "p37_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "冰糖葫芦（大串）",
+        "spec": "12元/串",
+        "minQty": 12,
+        "price": 12,
+        "img": "p37_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "薯条",
+        "spec": "80元/20人份",
+        "minQty": 1,
+        "price": 80,
+        "img": "p37_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "冰粉",
+        "spec": "15元/份",
+        "price": 15,
+        "minQty": 50,
+        "img": "snack2_7.jpg",
+        "note": "自助"
+      },
+      {
+        "name": "烤红薯（带机器）",
+        "spec": "个",
+        "minQty": 100,
+        "price": 6,
+        "img": "p37_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "x糖炒栗子杯",
+        "spec": "杯",
+        "minQty": 5,
+        "price": 18,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_7cc5dc476af6b9f6.jpg",
+        "note": ""
+      },
+      {
+        "name": "芝士烤红薯杯",
+        "spec": "杯",
+        "minQty": 16,
+        "price": 14,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_f90f3bbb6af6ba2f.jpg",
+        "note": ""
+      },
+      {
+        "name": "糖山楂杯",
+        "spec": "杯",
+        "minQty": 5,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_f90f3bbb6af6ba6e.jpg",
+        "note": ""
+      },
+      {
+        "name": "红枣奶芙",
+        "spec": "杯",
+        "minQty": 5,
+        "price": 18,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_7cc5dc476af6ba9f.jpg",
+        "note": ""
+      },
+      {
+        "name": "烤梨",
+        "spec": "碗",
+        "minQty": 12,
+        "price": 25,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_38d6f6e86af6be32.jpg",
+        "note": "200串起订"
+      }
+    ],
+    "lumed": [
+      {
+        "name": "关东煮（带机器）",
+        "spec": "5元/串",
+        "minQty": 100,
+        "price": 5,
+        "img": "lumed_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "咖喱鱼蛋",
+        "spec": "2元/个",
+        "minQty": 60,
+        "price": 2,
+        "img": "p38_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "卤味素菜",
+        "spec": "38元/斤",
+        "minQty": 2,
+        "price": 38,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/lumed_mrkor8lk.jpg",
+        "note": ""
+      },
+      {
+        "name": "奥尔良鸡中翅",
+        "spec": "5元/1个",
+        "minQty": 20,
+        "price": 5,
+        "img": "p38_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "纯肉火山肠（带机器）",
+        "spec": "6元/条",
+        "minQty": 100,
+        "price": 6,
+        "img": "p38_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "凉拌素菜",
+        "spec": "38元/1斤",
+        "minQty": 2,
+        "price": 38,
+        "img": "p38_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "柠檬百香果无骨鸡爪",
+        "spec": "58元/斤",
+        "minQty": 2,
+        "price": 58,
+        "img": "p39_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "蒜香无骨鸭掌",
+        "spec": "58元/1斤",
+        "minQty": 2,
+        "price": 58,
+        "img": "p39_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "卤味小吃套餐",
+        "spec": "220元/4斤",
+        "minQty": 1,
+        "price": 220,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/lumed_mrkow64n.jpg",
+        "note": ""
+      },
+      {
+        "name": "【麻辣】酱卤鸭肾/鸭脖双拼",
+        "spec": "50元/斤",
+        "minQty": 2,
+        "price": 50,
+        "img": "p39_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "盐焗鸡翅",
+        "spec": "72元/1斤",
+        "minQty": 2,
+        "price": 72,
+        "img": "p39_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "寿司船（1.2米）",
+        "spec": "980元/份",
+        "minQty": 1,
+        "price": 980,
+        "img": "p39_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "招牌爆汁香肠",
+        "spec": "2.3元/个",
+        "minQty": 60,
+        "price": 2.3,
+        "img": "p40_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "大串秘制钵钵鸡",
+        "spec": "4元/串",
+        "minQty": 60,
+        "price": 4,
+        "img": "p40_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "现卤鸭翅",
+        "spec": "7元/个",
+        "minQty": 20,
+        "price": 7,
+        "img": "p40_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "现卤鸡爪",
+        "spec": "5.5元/个",
+        "minQty": 20,
+        "price": 5.5,
+        "img": "p40_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "现卤鸭胗",
+        "spec": "8元/个",
+        "minQty": 10,
+        "price": 8,
+        "img": "p40_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "现卤鸭爪",
+        "spec": "5元/个",
+        "minQty": 20,
+        "price": 5,
+        "img": "p40_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "牙签牛肉",
+        "spec": "150元/1斤",
+        "minQty": 1,
+        "price": 150,
+        "img": "p41_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "寿司拼盘",
+        "spec": "150元/38粒",
+        "minQty": 1,
+        "price": 150,
+        "img": "p41_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "意大利肉酱面",
+        "spec": "180元/份(15人份)",
+        "minQty": 1,
+        "price": 180,
+        "img": "p41_3.jpg",
+        "note": "15人份"
+      },
+      {
+        "name": "卤味鸭头",
+        "spec": "10元/个",
+        "minQty": 10,
+        "price": 10,
+        "img": "p41_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "章鱼小丸子",
+        "spec": "130元/36颗",
+        "minQty": 1,
+        "price": 130,
+        "img": "p41_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "纯肉火山肠",
+        "spec": "5元/条",
+        "minQty": 20,
+        "price": 5,
+        "img": "p38_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "x寿司船",
+        "spec": "350元/份",
+        "minQty": 1,
+        "price": 350,
+        "img": "p39_5.jpg",
+        "note": ""
+      },
+      {
+        "name": "安格斯小牛肉串",
+        "spec": "100元/1斤",
+        "minQty": 1,
+        "price": 100,
+        "img": "p41_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "卤味鸭下巴",
+        "spec": "10元/个",
+        "minQty": 16,
+        "price": 10,
+        "img": "p41_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "港式卤味小吃套餐(副本)",
+        "spec": "220元/4斤",
+        "minQty": 0,
+        "price": 220,
+        "img": "p39_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "凉拌香菜牛肉",
+        "spec": "200元【约2斤】",
+        "minQty": 1,
+        "price": 200,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9a701d46a8a6030.jpg",
+        "note": ""
+      },
+      {
+        "name": "凤梨牛肉串",
+        "spec": "15元【凤梨，黑椒牛肉粒，彩椒】",
+        "minQty": 16,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_a9defcfd6a8a6091.jpg",
+        "note": ""
+      },
+      {
+        "name": "凤梨鸡肉串",
+        "spec": "15元【凤梨，自研鸡腿肉，彩椒】",
+        "minQty": 16,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_37138adf6a8a60eb.jpg",
+        "note": ""
+      },
+      {
+        "name": "凤梨牛肉粒【约3斤】",
+        "spec": "220【牛肉，凤梨，彩椒，黑椒】",
+        "minQty": 1,
+        "price": 220,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_37138adf6a8a60fb.jpg",
+        "note": ""
+      },
+      {
+        "name": "百香果柠檬虾",
+        "spec": "250元【约2.5斤，大虾，黄瓜，香菜，柠檬，百香果，青柠】",
+        "minQty": 1,
+        "price": 250,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_2612439e6a8a636f.jpg",
+        "note": ""
+      },
+      {
+        "name": "奶酪流心钵仔糕",
+        "spec": "多种口味拼",
+        "minQty": 20,
+        "price": 5,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6b042cc7.jpg",
+        "note": ""
+      },
+      {
+        "name": "泡菜臭豆腐【现场制作】",
+        "spec": "8粒",
+        "minQty": 100,
+        "price": 18,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a9302746ae1b5d3.jpg",
+        "note": ""
+      },
+      {
+        "name": "*瓦缸麻辣串串【带道具】",
+        "spec": "荤素搭配",
+        "minQty": 150,
+        "price": 6,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_fb505a7c6ae1b5f0.jpg",
+        "note": ""
+      },
+      {
+        "name": "柠檬茶奶茶现场制作",
+        "spec": "500ml",
+        "minQty": 100,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_fb505a7c6ae1b66f.jpg",
+        "note": ""
+      },
+      {
+        "name": "关东煮",
+        "spec": "串",
+        "minQty": 80,
+        "price": 5,
+        "img": "lumed_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "椰香咖喱鱼蛋",
+        "spec": "50",
+        "minQty": 1,
+        "price": 88,
+        "img": "p38_1.jpg",
+        "note": ""
+      },
+      {
+        "name": "【麻辣】酱卤鸭肾/",
+        "spec": "斤",
+        "minQty": 1,
+        "price": 60,
+        "img": "p39_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "现场抄板栗",
+        "spec": "斤",
+        "minQty": 10,
+        "price": 50,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_e0a4d0b36aed62a3.jpg",
+        "note": ""
+      },
+      {
+        "name": "钵钵鸡大杂烩",
+        "spec": "海带，笋，虾，丸子，鱼皮，白菜，莴笋，土豆，莲藕，菇，鸭血，黄瓜，面筋，豆腐皮，千张，鱼豆腐，金针菇，鸡爪，金针菇，魔芋",
+        "minQty": 100,
+        "price": 4,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_e0a4d0b36aed628c.jpg",
+        "note": ""
+      },
+      {
+        "name": "现场制作糖葫芦",
+        "spec": "山楂，杨桃，草莓，蓝莓，圣女果，青提，橘子，金桔",
+        "minQty": 80,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_e0a4d0b36aed623c.jpg",
+        "note": ""
+      },
+      {
+        "name": "冰淇淋diy",
+        "spec": "内涵Diy等各种器皿",
+        "minQty": 40,
+        "price": 20,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_fdc759b06aed62df.jpg",
+        "note": ""
+      },
+      {
+        "name": "冰粉Diy",
+        "spec": "份",
+        "minQty": 50,
+        "price": 18,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_e0a4d0b36aed62f2.jpg",
+        "note": ""
+      },
+      {
+        "name": "纸杯蛋糕DIY",
+        "spec": "个",
+        "minQty": 60,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_cb2dc49b6aed6328.jpg",
+        "note": ""
+      },
+      {
+        "name": "卤味素菜【毛豆花生】",
+        "spec": "杯",
+        "minQty": 16,
+        "price": 10,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_38d6f6e86af6b39b.jpg",
+        "note": ""
+      },
+      {
+        "name": "卤味毛豆",
+        "spec": "1斤",
+        "minQty": 2,
+        "price": 38,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9bea3326af6b3e5.jpg",
+        "note": ""
+      },
+      {
+        "name": "卤味小吃杯",
+        "spec": "杯",
+        "minQty": 12,
+        "price": 12,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_f90f3bbb6af6b4d7.jpg",
+        "note": ""
+      },
+      {
+        "name": "钵钵鸡小吃杯",
+        "spec": "杯",
+        "minQty": 20,
+        "price": 12,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9bea3326af6b506.jpg",
+        "note": ""
+      },
+      {
+        "name": "卤味素菜杯",
+        "spec": "杯",
+        "minQty": 12,
+        "price": 10,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_f90f3bbb6af6b587.jpg",
+        "note": ""
+      },
+      {
+        "name": "凉拌素菜杯",
+        "spec": "杯",
+        "minQty": 20,
+        "price": 10,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_7cc5dc476af6b5db.jpg",
+        "note": ""
+      },
+      {
+        "name": "凉拌青瓜牛肉杯",
+        "spec": "杯",
+        "minQty": 12,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_38d6f6e86af6b62d.jpg",
+        "note": ""
+      },
+      {
+        "name": "凉拌青瓜牛肉",
+        "spec": "2斤",
+        "minQty": 1,
+        "price": 180,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9bea3326af6b65c.jpg",
+        "note": ""
+      },
+      {
+        "name": "x寿司拼盘杯",
+        "spec": "杯",
+        "minQty": 18,
+        "price": 15,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9bea3326af6cef1.jpg",
+        "note": ""
+      },
+      {
+        "name": "椰香鱼蛋杯",
+        "spec": "杯",
+        "minQty": 10,
+        "price": 10,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_65108bbb6afe617b.jpg",
+        "note": ""
+      },
+      {
+        "name": "百香果柠檬无骨鸡爪【杯】",
+        "spec": "杯",
+        "minQty": 10,
+        "price": 12,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_65108bbb6afe61b9.jpg",
+        "note": ""
+      }
+    ],
+    "drinks": [
+      {
+        "name": "蜜桃乌龙（8L桶装）",
+        "spec": "8L/桶 ¥200",
+        "minQty": 1,
+        "price": 200,
+        "img": "p43_0.jpg",
+        "note": "可选：冰/常温/热"
+      },
+      {
+        "name": "荔枝玫瑰红茶（8L桶装）",
+        "spec": "8L/桶 ¥200",
+        "minQty": 1,
+        "price": 200,
+        "img": "p43_0.jpg",
+        "note": "可选：冰/常温"
+      },
+      {
+        "name": "红茶（8L桶装）",
+        "spec": "8L/桶 ¥80",
+        "minQty": 1,
+        "price": 80,
+        "img": "p43_0.jpg",
+        "note": "8升装"
+      },
+      {
+        "name": "罗汉果熟地热茶（8L桶装）",
+        "spec": "8L/桶 ¥150",
+        "minQty": 1,
+        "price": 150,
+        "img": "p43_0.jpg",
+        "note": "热饮"
+      },
+      {
+        "name": "柠乐（8L桶装）",
+        "spec": "8L/桶 ¥130",
+        "minQty": 1,
+        "price": 130,
+        "img": "p43_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "橙汁（8L桶装）",
+        "spec": "8L/桶 ¥130",
+        "minQty": 1,
+        "price": 130,
+        "img": "p43_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "秘制酸梅汤（8L桶装）",
+        "spec": "8L/桶 ¥130",
+        "minQty": 1,
+        "price": 130,
+        "img": "p43_0.jpg",
+        "note": "可选：冰/常温"
+      },
+      {
+        "name": "奶茶（8L桶装）",
+        "spec": "8L/桶 ¥200",
+        "minQty": 1,
+        "price": 200,
+        "img": "p43_0.jpg",
+        "note": "可选：冰/常温/热"
+      },
+      {
+        "name": "水果茶（瓶装）",
+        "spec": "350ml/瓶 ¥10",
+        "minQty": 1,
+        "price": 10,
+        "img": "p43_0.jpg",
+        "note": "瓶装10元/瓶 350ml"
+      },
+      {
+        "name": "桂花龙眼热茶（8L桶装）",
+        "spec": "8L/桶 ¥180",
+        "minQty": 1,
+        "price": 180,
+        "img": "p43_0.jpg",
+        "note": "热饮"
+      },
+      {
+        "name": "气泡水果茶（8L桶装）",
+        "spec": "8L/桶 ¥250",
+        "minQty": 1,
+        "price": 250,
+        "img": "p43_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "薄荷柠檬乳酸菌（8L桶装）",
+        "spec": "8L/桶 ¥200",
+        "minQty": 1,
+        "price": 200,
+        "img": "p43_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "港式奶茶（罐装）",
+        "spec": "罐 ¥12",
+        "minQty": 1,
+        "price": 12,
+        "img": "p44_1.jpg",
+        "note": "12元/罐"
+      },
+      {
+        "name": "杨枝甘露（瓶装）",
+        "spec": "瓶 ¥12",
+        "minQty": 1,
+        "price": 12,
+        "img": "p44_2.jpg",
+        "note": "12元/瓶"
+      },
+      {
+        "name": "乳酸菌饮品（支装）",
+        "spec": "支 ¥3.5",
+        "minQty": 1,
+        "price": 3.5,
+        "img": "p44_3.jpg",
+        "note": "3.5元/支"
+      },
+      {
+        "name": "柠檬薄荷茶（壶装）",
+        "spec": "100元/壶",
+        "minQty": 1,
+        "price": 100,
+        "img": "p44_4.jpg",
+        "note": ""
+      },
+      {
+        "name": "大桶缤纷水果茶（桶装）",
+        "spec": "180/5升",
+        "price": 180,
+        "minQty": 1,
+        "img": "drinks_21.jpg",
+        "note": "3.5元/支"
+      },
+      {
+        "name": "椰奶西瓜",
+        "spec": "160/5升",
+        "price": 160,
+        "minQty": 1,
+        "img": "drinks_22.jpg",
+        "note": "60元/壶"
+      },
+      {
+        "name": "杨枝甘露（桶装）",
+        "spec": "200/5升",
+        "price": 200,
+        "minQty": 1,
+        "img": "drinks_23.jpg",
+        "note": "60元/壶"
+      },
+      {
+        "name": "凤梨满杯（桶装）",
+        "spec": "180/5升",
+        "price": 180,
+        "minQty": 1,
+        "img": "drinks_24.jpg",
+        "note": "60元/壶"
+      },
+      {
+        "name": "泰式柠檬茶（桶装）",
+        "spec": "180/5升",
+        "price": 180,
+        "minQty": 1,
+        "img": "drinks_25.jpg",
+        "note": "3.5元/支"
+      },
+      {
+        "name": "花茶（8L桶装）",
+        "spec": "8L/桶 ¥220",
+        "minQty": 1,
+        "price": 220,
+        "img": "p43_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "水果茶（8L桶装）",
+        "spec": "8L/桶 ¥230",
+        "minQty": 1,
+        "price": 230,
+        "img": "p43_0.jpg",
+        "note": "瓶装10元/瓶 350ml"
+      },
+      {
+        "name": "暴打香印柠檬茶（8L桶装）",
+        "spec": "8L/桶 ¥250",
+        "minQty": 1,
+        "price": 250,
+        "img": "p43_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "暗黑玫瑰绝绝紫（8L桶装）",
+        "spec": "8L/桶 ¥280",
+        "minQty": 1,
+        "price": 280,
+        "img": "p43_0.jpg",
+        "note": ""
+      },
+      {
+        "name": "8升冰镇祛湿毛根竹蔗水",
+        "spec": "冰糖，薏米，毛根，竹蔗，马蹄",
+        "minQty": 0,
+        "price": 150,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_e0a4d0b36ae9afc1.jpg",
+        "note": "可选：冰/常温/热"
+      },
+      {
+        "name": "鸡尾酒【现调】",
+        "spec": "杯",
+        "minQty": 50,
+        "price": 23,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_cb2dc49b6aeaca45.jpg",
+        "note": "8升装"
+      },
+      {
+        "name": "热咖啡",
+        "spec": "8升",
+        "minQty": 1,
+        "price": 180,
+        "img": "p43_0.jpg",
+        "note": "瓶装10元/瓶 350ml"
+      },
+      {
+        "name": "柠檬蜜",
+        "spec": "8升",
+        "minQty": 1,
+        "price": 150,
+        "img": "p43_0.jpg",
+        "note": "瓶装10元/瓶 350ml"
+      },
+      {
+        "name": "现磨咖啡机（配2包豆】",
+        "spec": "一台机",
+        "minQty": 1,
+        "price": 400,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46b01b465.jpg",
+        "note": "瓶装10元/瓶 350ml"
+      }
+    ],
+    "fruit": [
+      {
+        "name": "水果拼盘(5斤装)",
+        "spec": "188元/盘(40x27x4.5cm)",
+        "minQty": 1,
+        "price": 188,
+        "img": "p45_1.jpg",
+        "note": "约5斤"
+      },
+      {
+        "name": "水果拼盘(8斤装)",
+        "spec": "288元/盘(40x31x8cm)",
+        "minQty": 1,
+        "price": 288,
+        "img": "p45_1.jpg",
+        "note": "约8斤"
+      },
+      {
+        "name": "什锦水果",
+        "spec": "10元/串(15串起)",
+        "minQty": 15,
+        "price": 10,
+        "img": "p45_0.jpg",
+        "note": "15串起订"
+      },
+      {
+        "name": "水果鲜虾沙拉",
+        "spec": "200元/份",
+        "minQty": 1,
+        "price": 200,
+        "img": "p46_2.jpg",
+        "note": ""
+      },
+      {
+        "name": "高脚水果杯（高级水果除外）",
+        "spec": "10元/个",
+        "minQty": 16,
+        "price": 13,
+        "img": "p46_3.jpg",
+        "note": ""
+      },
+      {
+        "name": "法式冷餐水果拼盘",
+        "spec": "480元/1份",
+        "minQty": 1,
+        "price": 480,
+        "img": "p46_1.jpg",
+        "note": "根据季节主题水果会变换"
+      },
+      {
+        "name": "高脚精致莓果水果杯",
+        "spec": "高脚红酒杯",
+        "minQty": 10,
+        "price": 23,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_e0a4d0b36aebf55b.jpg",
+        "note": ""
+      },
+      {
+        "name": "小号莓果水果杯(副本)",
+        "spec": "",
+        "minQty": 10,
+        "price": 18,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_fdc759b06aebf590.jpg",
+        "note": ""
+      },
+      {
+        "name": "圣诞法式冷餐拼盘(副本)",
+        "spec": "份",
+        "minQty": 0,
+        "price": 680,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_0b0ff78c6afac548.jpg",
+        "note": "根据季节主题水果会变换"
+      }
+    ],
+    "table_cake": [
+      {
+        "name": "酥皮草莓莓果蛋糕",
+        "img": "table_cake_12.jpeg",
+        "spec": "多种规格可选",
+        "price": 680,
+        "minQty": 1,
+        "isCake": true,
+        "cakeSpecs": {
+          "round": {
+            "label": "圆形",
+            "crafts": [
+              "酥皮版一层夹心",
+              "酥皮版两层夹心",
+              "蛋糕胚双层夹心",
+              "蛋糕胚双层夹心【复杂款】"
+            ],
+            "sizes": [
+              {
+                "label": "20寸(50cm)",
+                "prices": [
+                  2200,
+                  2580,
+                  1800,
+                  2180
+                ]
+              },
+              {
+                "label": "24寸(60cm)",
+                "prices": [
+                  2500,
+                  2800,
+                  2200,
+                  2580
+                ]
+              },
+              {
+                "label": "28寸(70cm)",
+                "prices": [
+                  2800,
+                  3300,
+                  2600,
+                  3000
+                ]
+              },
+              {
+                "label": "32寸(80cm)",
+                "prices": [
+                  3300,
+                  3800,
+                  3000,
+                  3500
+                ]
+              },
+              {
+                "label": "39寸(100cm)",
+                "prices": [
+                  4200,
+                  4750,
+                  3800,
+                  4300
+                ]
+              }
+            ]
+          },
+          "rect": {
+            "label": "长方形",
+            "types": [
+              "二层夹心款",
+              "定制款"
+            ],
+            "sizes": [
+              {
+                "label": "60×40cm",
+                "standardPrice": 980
+              },
+              {
+                "label": "50×30cm",
+                "standardPrice": 780
+              },
+              {
+                "label": "40×30cm",
+                "standardPrice": 680
+              }
+            ]
+          },
+          "note": "水果：草莓+树莓+蓝莓；夹心：草莓果酱夹心"
+        }
+      },
+      {
+        "name": "酥皮青提蛋糕",
+        "img": "table_cake_13.jpeg",
+        "spec": "多种规格可选",
+        "price": 680,
+        "minQty": 1,
+        "isCake": true,
+        "cakeSpecs": {
+          "round": {
+            "label": "圆形",
+            "crafts": [
+              "酥皮版一层夹心",
+              "酥皮版两层夹心",
+              "蛋糕胚双层夹心",
+              "蛋糕胚双层夹心【复杂款】"
+            ],
+            "sizes": [
+              {
+                "label": "20寸(50cm)",
+                "prices": [
+                  2200,
+                  2580,
+                  1800,
+                  2180
+                ]
+              },
+              {
+                "label": "24寸(60cm)",
+                "prices": [
+                  2500,
+                  2800,
+                  2200,
+                  2580
+                ]
+              },
+              {
+                "label": "28寸(70cm)",
+                "prices": [
+                  2800,
+                  3300,
+                  2600,
+                  3000
+                ]
+              },
+              {
+                "label": "32寸(80cm)",
+                "prices": [
+                  3300,
+                  3800,
+                  3000,
+                  3500
+                ]
+              },
+              {
+                "label": "39寸(100cm)",
+                "prices": [
+                  4200,
+                  4750,
+                  3800,
+                  4300
+                ]
+              }
+            ]
+          },
+          "rect": {
+            "label": "长方形",
+            "types": [
+              "二层夹心款",
+              "定制款"
+            ],
+            "sizes": [
+              {
+                "label": "60×40cm",
+                "standardPrice": 980
+              },
+              {
+                "label": "50×30cm",
+                "standardPrice": 780
+              },
+              {
+                "label": "40×30cm",
+                "standardPrice": 680
+              }
+            ]
+          },
+          "note": "水果：青提为主；夹心：青提夹心"
+        }
+      },
+      {
+        "name": "酥皮纯树莓蛋糕",
+        "img": "table_cake_14.jpeg",
+        "spec": "多种规格可选",
+        "price": 680,
+        "minQty": 1,
+        "isCake": true,
+        "cakeSpecs": {
+          "round": {
+            "label": "圆形",
+            "crafts": [
+              "酥皮版一层夹心",
+              "酥皮版两层夹心",
+              "蛋糕胚双层夹心",
+              "蛋糕胚双层夹心【复杂款】"
+            ],
+            "sizes": [
+              {
+                "label": "20寸(50cm)",
+                "prices": [
+                  2200,
+                  2580,
+                  1800,
+                  2180
+                ]
+              },
+              {
+                "label": "24寸(60cm)",
+                "prices": [
+                  2500,
+                  2800,
+                  2200,
+                  2580
+                ]
+              },
+              {
+                "label": "28寸(70cm)",
+                "prices": [
+                  2800,
+                  3300,
+                  2600,
+                  3000
+                ]
+              },
+              {
+                "label": "32寸(80cm)",
+                "prices": [
+                  3300,
+                  3800,
+                  3000,
+                  3500
+                ]
+              },
+              {
+                "label": "39寸(100cm)",
+                "prices": [
+                  4200,
+                  4750,
+                  3800,
+                  4300
+                ]
+              }
+            ]
+          },
+          "rect": {
+            "label": "长方形",
+            "types": [
+              "二层夹心款",
+              "定制款"
+            ],
+            "sizes": [
+              {
+                "label": "60×40cm",
+                "standardPrice": 980
+              },
+              {
+                "label": "50×30cm",
+                "standardPrice": 780
+              },
+              {
+                "label": "40×30cm",
+                "standardPrice": 680
+              }
+            ]
+          },
+          "note": "水果：纯树莓；夹心：草莓果酱夹心；纯树莓额外加¥500"
+        }
+      },
+      {
+        "name": "酥皮莓果双层蛋糕",
+        "img": "table_cake_15.jpeg",
+        "spec": "多种规格可选",
+        "price": 680,
+        "minQty": 1,
+        "isCake": true,
+        "cakeSpecs": {
+          "round": {
+            "label": "圆形",
+            "crafts": [
+              "酥皮版一层夹心",
+              "酥皮版两层夹心",
+              "蛋糕胚双层夹心",
+              "蛋糕胚双层夹心【复杂款】"
+            ],
+            "sizes": [
+              {
+                "label": "20寸(50cm)",
+                "prices": [
+                  2200,
+                  2580,
+                  1800,
+                  2180
+                ]
+              },
+              {
+                "label": "24寸(60cm)",
+                "prices": [
+                  2500,
+                  2800,
+                  2200,
+                  2580
+                ]
+              },
+              {
+                "label": "28寸(70cm)",
+                "prices": [
+                  2800,
+                  3300,
+                  2600,
+                  3000
+                ]
+              },
+              {
+                "label": "32寸(80cm)",
+                "prices": [
+                  3300,
+                  3800,
+                  3000,
+                  3500
+                ]
+              },
+              {
+                "label": "39寸(100cm)",
+                "prices": [
+                  4200,
+                  4750,
+                  3800,
+                  4300
+                ]
+              }
+            ]
+          },
+          "rect": {
+            "label": "长方形",
+            "types": [
+              "二层夹心款",
+              "定制款"
+            ],
+            "sizes": [
+              {
+                "label": "60×40cm",
+                "standardPrice": 980
+              },
+              {
+                "label": "50×30cm",
+                "standardPrice": 780
+              },
+              {
+                "label": "40×30cm",
+                "standardPrice": 680
+              }
+            ]
+          },
+          "note": "水果：草莓+树莓+蓝莓；夹心：草莓果酱夹心"
+        }
+      },
+      {
+        "name": "蛋糕胚莓果蛋糕",
+        "img": "table_cake_16.jpeg",
+        "spec": "多种规格可选",
+        "price": 680,
+        "minQty": 1,
+        "isCake": true,
+        "cakeSpecs": {
+          "round": {
+            "label": "圆形",
+            "crafts": [
+              "酥皮版一层夹心",
+              "酥皮版两层夹心",
+              "蛋糕胚双层夹心",
+              "蛋糕胚双层夹心【复杂款】"
+            ],
+            "sizes": [
+              {
+                "label": "20寸(50cm)",
+                "prices": [
+                  2200,
+                  2580,
+                  1800,
+                  2180
+                ]
+              },
+              {
+                "label": "24寸(60cm)",
+                "prices": [
+                  2500,
+                  2800,
+                  2200,
+                  2580
+                ]
+              },
+              {
+                "label": "28寸(70cm)",
+                "prices": [
+                  2800,
+                  3300,
+                  2600,
+                  3000
+                ]
+              },
+              {
+                "label": "32寸(80cm)",
+                "prices": [
+                  3300,
+                  3800,
+                  3000,
+                  3500
+                ]
+              },
+              {
+                "label": "39寸(100cm)",
+                "prices": [
+                  4200,
+                  4750,
+                  3800,
+                  4300
+                ]
+              }
+            ]
+          },
+          "rect": {
+            "label": "长方形",
+            "types": [
+              "二层夹心款",
+              "定制款"
+            ],
+            "sizes": [
+              {
+                "label": "60×40cm",
+                "standardPrice": 980
+              },
+              {
+                "label": "50×30cm",
+                "standardPrice": 780
+              },
+              {
+                "label": "40×30cm",
+                "standardPrice": 680
+              }
+            ]
+          },
+          "note": "水果：草莓+蓝莓；夹心：草莓果酱夹心"
+        }
+      },
+      {
+        "name": "提拉米苏大蛋糕",
+        "img": "table_cake_17.jpeg",
+        "spec": "多种规格可选",
+        "price": 680,
+        "minQty": 1,
+        "isCake": true,
+        "cakeSpecs": {
+          "round": {
+            "label": "圆形",
+            "crafts": [
+              "酥皮版一层夹心",
+              "酥皮版两层夹心",
+              "蛋糕胚双层夹心",
+              "蛋糕胚双层夹心【复杂款】"
+            ],
+            "sizes": [
+              {
+                "label": "20寸(50cm)",
+                "prices": [
+                  2200,
+                  2580,
+                  1800,
+                  2180
+                ]
+              },
+              {
+                "label": "24寸(60cm)",
+                "prices": [
+                  2500,
+                  2800,
+                  2200,
+                  2580
+                ]
+              },
+              {
+                "label": "28寸(70cm)",
+                "prices": [
+                  2800,
+                  3300,
+                  2600,
+                  3000
+                ]
+              },
+              {
+                "label": "32寸(80cm)",
+                "prices": [
+                  3300,
+                  3800,
+                  3000,
+                  3500
+                ]
+              },
+              {
+                "label": "39寸(100cm)",
+                "prices": [
+                  4200,
+                  4750,
+                  3800,
+                  4300
+                ]
+              }
+            ]
+          },
+          "rect": {
+            "label": "长方形",
+            "types": [
+              "二层夹心款",
+              "定制款"
+            ],
+            "sizes": [
+              {
+                "label": "60×40cm",
+                "standardPrice": 980
+              },
+              {
+                "label": "50×30cm",
+                "standardPrice": 780
+              },
+              {
+                "label": "40×30cm",
+                "standardPrice": 680
+              }
+            ]
+          },
+          "note": "水果：提拉米苏；夹心：提拉米苏夹心"
+        }
+      },
+      {
+        "name": "老师驻场服务",
+        "img": "",
+        "spec": "150元/场",
+        "price": 150,
+        "minQty": 0,
+        "note": "专业烘焙老师现场服务，提供糖粉筛等工具。免费提供餐具，免费配套桌子，不包含配送费。"
+      },
+      {
+        "name": "常规定制蛋糕",
+        "spec": "1磅",
+        "minQty": 1,
+        "price": 188,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_d023402f6ac0bc3e.jpg",
+        "note": ""
+      },
+      {
+        "name": "挖了莓果提拉米苏",
+        "spec": "冬日限定.",
+        "minQty": 1,
+        "price": 380,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_fdc759b06ae9d9c8.jpg",
+        "note": ""
+      },
+      {
+        "name": "桌花",
+        "spec": "个",
+        "minQty": 6,
+        "price": 88,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6afd2ecb.jpg",
+        "note": "专业烘焙老师现场服务，提供糖粉筛等工具。免费提供餐具，免费配套桌子，不包含配送费。"
+      },
+      {
+        "name": "指引牌【鲜花+气球】",
+        "spec": "个",
+        "minQty": 0,
+        "price": 458,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196afd2ef3.jpg",
+        "note": "专业烘焙老师现场服务，提供糖粉筛等工具。免费提供餐具，免费配套桌子，不包含配送费。"
+      },
+      {
+        "name": "气球大立柱",
+        "spec": "个",
+        "minQty": 2,
+        "price": 208,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afd2f30.jpg",
+        "note": "专业烘焙老师现场服务，提供糖粉筛等工具。免费提供餐具，免费配套桌子，不包含配送费。"
+      },
+      {
+        "name": "气球小立柱",
+        "spec": "个",
+        "minQty": 6,
+        "price": 98,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196afd2f6b.jpg",
+        "note": "专业烘焙老师现场服务，提供糖粉筛等工具。免费提供餐具，免费配套桌子，不包含配送费。"
+      },
+      {
+        "name": "陶瓷餐具",
+        "spec": "个",
+        "minQty": 0,
+        "price": 6,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6afd3179.jpg",
+        "note": "专业烘焙老师现场服务，提供糖粉筛等工具。免费提供餐具，免费配套桌子，不包含配送费。"
+      },
+      {
+        "name": "玻璃酒杯",
+        "spec": "个",
+        "minQty": 0,
+        "price": 5,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6afd31a7.jpg",
+        "note": "专业烘焙老师现场服务，提供糖粉筛等工具。免费提供餐具，免费配套桌子，不包含配送费。"
+      },
+      {
+        "name": "香槟桌",
+        "spec": "包含桌布和腰带",
+        "minQty": 0,
+        "price": 88,
+        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46afd31cf.jpg",
+        "note": "专业烘焙老师现场服务，提供糖粉筛等工具。免费提供餐具，免费配套桌子，不包含配送费。"
+      }
+    ]
+  }
+}
