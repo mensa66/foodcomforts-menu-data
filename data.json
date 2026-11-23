@@ -2089,22 +2089,6 @@
         "note": ""
       },
       {
-        "name": "鲜虾三文鱼三文治",
-        "spec": "件",
-        "minQty": 12,
-        "price": 23,
-        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_7cc5dc476af9fb25.jpg",
-        "note": "16个起订"
-      },
-      {
-        "name": "帕斯雀香芒tapas",
-        "spec": "件",
-        "minQty": 12,
-        "price": 23,
-        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9bea3326af9fe16.jpg",
-        "note": "16个起订"
-      },
-      {
         "name": "蜜瓜火腿",
         "spec": "件",
         "minQty": 10,
