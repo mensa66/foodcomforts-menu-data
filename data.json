@@ -694,7 +694,7 @@
         "name": "车厘子红酒蛋糕杯",
         "spec": "个",
         "minQty": 1,
-        "price": null,
+        "price": 68,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_01f3430d6aafb5d6.jpg",
         "note": ""
       },
@@ -702,7 +702,7 @@
         "name": "芒果红酒蛋糕杯",
         "spec": "个",
         "minQty": 1,
-        "price": 48,
+        "price": 58,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_01f3430d6aafb646.jpg",
         "note": ""
       },
@@ -710,7 +710,7 @@
         "name": "草莓红酒蛋糕杯(副本)",
         "spec": "个",
         "minQty": 1,
-        "price": 53,
+        "price": 62,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aafb680.jpg",
         "note": ""
       }
