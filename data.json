@@ -314,7 +314,7 @@
         "name": "水果串",
         "spec": "件",
         "minQty": 10,
-        "price": 10,
+        "price": 10.5,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6b0016de.jpg",
         "note": ""
       },
