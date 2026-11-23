@@ -1002,7 +1002,7 @@
         "name": "纽约芝士【青柠，蓝莓，草莓】",
         "spec": "件",
         "minQty": 10,
-        "price": 12,
+        "price": 15,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196afe6dfc.jpg",
         "note": ""
       }
@@ -1020,7 +1020,7 @@
         "name": "火腿芝士可颂",
         "spec": "8元/个",
         "minQty": 8,
-        "price": 8,
+        "price": 10,
         "img": "p18_1.jpg",
         "note": ""
       },
