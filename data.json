@@ -1326,7 +1326,7 @@
         "name": "中式花样酥饼【各形状】",
         "spec": "各种造型口味结合，不同季节节令不一样",
         "minQty": 8,
-        "price": 28,
+        "price": 30,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a9302746ae1b83d.jpg",
         "note": ""
       },
@@ -1334,7 +1334,7 @@
         "name": "黄油蝴蝶酥",
         "spec": "黄油手工蝴蝶酥",
         "minQty": 16,
-        "price": 6,
+        "price": 8,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_bc92e77d6ae1b8bd.jpg",
         "note": ""
       },
