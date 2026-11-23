@@ -2092,7 +2092,7 @@
     "snack2": [
       {
         "name": "烤红薯",
-        "spec": "8元/个",
+        "spec": "",
         "minQty": 30,
         "price": 10,
         "img": "p37_2.jpg",
@@ -2134,7 +2134,7 @@
         "name": "薯条",
         "spec": "80元/20人份",
         "minQty": 1,
-        "price": 80,
+        "price": 88,
         "img": "p37_5.jpg",
         "note": ""
       },
