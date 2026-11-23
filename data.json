@@ -1201,7 +1201,7 @@
         "note": ""
       },
       {
-        "name": "芋泥海苔号角酥（小）",
+        "name": "芋泥海苔号角酥",
         "spec": "个",
         "minQty": 12,
         "price": 10,
@@ -1212,7 +1212,7 @@
         "name": "x凤梨小贝",
         "spec": "个",
         "minQty": 12,
-        "price": 6.5,
+        "price": 8,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_afa272806a8004b8.jpg",
         "note": ""
       },
