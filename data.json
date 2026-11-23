@@ -1994,9 +1994,9 @@
       },
       {
         "name": "奶酪火腿拾果串",
-        "spec": "15元/串",
+        "spec": "",
         "minQty": 20,
-        "price": 15,
+        "price": 18,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_37138adf6a894376.jpg",
         "note": "16个起订"
       },
