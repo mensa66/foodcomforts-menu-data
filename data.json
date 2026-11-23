@@ -2089,18 +2089,10 @@
         "note": ""
       },
       {
-        "name": "牛油果烟熏三文鱼tapas(副本)",
-        "spec": "份",
-        "minQty": 10,
-        "price": 25,
-        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_38d6f6e86af9f969.jpg",
-        "note": "16个起订"
-      },
-      {
         "name": "黑虎虾牛油果tapas",
         "spec": "份",
         "minQty": 12,
-        "price": 28,
+        "price": null,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_f90f3bbb6af9faf6.jpg",
         "note": "16个起订"
       },
