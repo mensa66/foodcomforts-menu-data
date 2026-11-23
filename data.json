@@ -2132,7 +2132,7 @@
       },
       {
         "name": "薯条",
-        "spec": "80元/20人份",
+        "spec": "20人份",
         "minQty": 1,
         "price": 88,
         "img": "p37_5.jpg",
@@ -2145,14 +2145,6 @@
         "minQty": 50,
         "img": "snack2_7.jpg",
         "note": "自助"
-      },
-      {
-        "name": "烤红薯（带机器）",
-        "spec": "个",
-        "minQty": 100,
-        "price": 6,
-        "img": "p37_2.jpg",
-        "note": ""
       },
       {
         "name": "x糖炒栗子杯",
