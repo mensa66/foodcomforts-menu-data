@@ -1986,7 +1986,7 @@
       },
       {
         "name": "水果tapas",
-        "spec": "12元",
+        "spec": "",
         "minQty": 0,
         "price": 14.8,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_37138adf6a8942d4.jpg",
@@ -2031,14 +2031,6 @@
         "price": 14.8,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9a701d46a8a517d.jpg",
         "note": ""
-      },
-      {
-        "name": "芦笋牛扒时蔬盘",
-        "spec": "250元【番茄，蓝莓，树莓，芦笋，牛扒，烤肠】",
-        "minQty": 1,
-        "price": 250,
-        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_a9defcfd6a8a5235.jpg",
-        "note": "16个起订"
       },
       {
         "name": "蟹柳五彩杯(副本)",
