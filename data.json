@@ -1578,7 +1578,7 @@
         "name": "主题定制法点",
         "spec": "根据不同主题色定制设计的法式甜品台",
         "minQty": 12,
-        "price": 28,
+        "price": 32,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a9302746ae1e2b1.jpg",
         "note": "12个起订"
       }
