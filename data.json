@@ -2066,7 +2066,7 @@
       },
       {
         "name": "牛油果鲜虾塔塔",
-        "spec": "15元【牛油果，鲜虾，青瓜】",
+        "spec": "牛油果，鲜虾，青瓜",
         "minQty": 16,
         "price": 18,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9a701d46a8ae392.jpg",
