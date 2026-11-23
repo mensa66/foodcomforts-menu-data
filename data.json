@@ -938,7 +938,7 @@
         "name": "柠檬巴巴露亚",
         "spec": "个",
         "minQty": 6,
-        "price": 18,
+        "price": 20,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aab757c.jpg",
         "note": ""
       },
@@ -946,7 +946,7 @@
         "name": "酸奶兔兔",
         "spec": "个",
         "minQty": 8,
-        "price": 15,
+        "price": 16,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_d7580c016aab75ac.jpg",
         "note": ""
       },
