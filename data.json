@@ -1090,9 +1090,9 @@
       },
       {
         "name": "虎皮蛋糕",
-        "spec": "5片",
+        "spec": "",
         "minQty": 1,
-        "price": null,
+        "price": 3.6,
         "img": "p20_1.jpg",
         "note": ""
       },
