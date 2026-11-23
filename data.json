@@ -1560,11 +1560,11 @@
       },
       {
         "name": "苍山暮雪",
-        "spec": "25元",
-        "minQty": 8,
-        "price": 2,
+        "spec": "",
+        "minQty": 12,
+        "price": 28,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_345cf9926aafb957.jpg",
-        "note": "12个起订"
+        "note": ""
       },
       {
         "name": "提拉米苏塔",
