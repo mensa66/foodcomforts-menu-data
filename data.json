@@ -1537,8 +1537,8 @@
       {
         "name": "甜蜜有期",
         "spec": "25/个",
-        "minQty": 8,
-        "price": 25,
+        "minQty": 12,
+        "price": 28,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_50599b866a7ad51f.jpg",
         "note": ""
       },
