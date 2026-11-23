@@ -1042,15 +1042,15 @@
       },
       {
         "name": "青瓜芝士三文治",
-        "spec": "7元/个",
+        "spec": "",
         "minQty": 12,
-        "price": 7,
+        "price": 9,
         "img": "p19_0.jpg",
         "note": ""
       },
       {
         "name": "全麦厚切鲜蔬菜三文治",
-        "spec": "8元/份",
+        "spec": "",
         "minQty": 12,
         "price": 12,
         "img": "p19_1.jpg",
