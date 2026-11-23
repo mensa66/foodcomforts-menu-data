@@ -2070,13 +2070,13 @@
         "minQty": 16,
         "price": 18,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9a701d46a8ae392.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "奶油煎扇贝",
         "spec": "杯",
         "minQty": 10,
-        "price": 20,
+        "price": 22,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_38d6f6e86af9f5f3.jpg",
         "note": "16个起订"
       },
