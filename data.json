@@ -2026,11 +2026,11 @@
       },
       {
         "name": "午餐肉时蔬串",
-        "spec": "【番茄，芝士，火腿，口蘑，生菜",
+        "spec": "番茄，芝士，火腿，口蘑，生菜",
         "minQty": 16,
         "price": 14.8,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b9a701d46a8a517d.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "芦笋牛扒时蔬盘",
