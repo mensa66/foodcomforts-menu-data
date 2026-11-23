@@ -1529,7 +1529,7 @@
       {
         "name": "琉璃之恋",
         "spec": "",
-        "minQty": 8,
+        "minQty": 12,
         "price": 28,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_50599b866a7ad505.jpg",
         "note": ""
@@ -1540,7 +1540,7 @@
         "minQty": 8,
         "price": 25,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_50599b866a7ad51f.jpg",
-        "note": "12个起订，可选小款15元"
+        "note": ""
       },
       {
         "name": "浅夕之约",
