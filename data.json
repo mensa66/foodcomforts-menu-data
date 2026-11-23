@@ -1310,7 +1310,7 @@
         "name": "低糖手工沙琪玛",
         "spec": "1斤",
         "minQty": 1,
-        "price": 8,
+        "price": 88,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a9302746ae1b1e1.jpg",
         "note": ""
       },
@@ -1318,7 +1318,7 @@
         "name": "南瓜烧",
         "spec": "个",
         "minQty": 12,
-        "price": 10,
+        "price": 12,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_1e4c06cf6afe758a.jpg",
         "note": ""
       },
