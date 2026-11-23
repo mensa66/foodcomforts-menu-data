@@ -434,17 +434,9 @@
         "name": "圣诞玛德琳",
         "spec": "件",
         "minQty": 10,
-        "price": 12,
+        "price": 15,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196b01b0f1.jpg",
         "note": ""
-      },
-      {
-        "name": "平安果",
-        "spec": "个",
-        "minQty": 5,
-        "price": 18,
-        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46b01b119.jpg",
-        "note": "可订小款 8元/个"
       }
     ],
     "cheese": [
