@@ -1361,14 +1361,6 @@
         "price": 68,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_a2cf60796ae1ba7d.jpg",
         "note": ""
-      },
-      {
-        "name": "岭南榄香鸡仔饼",
-        "spec": "岭南特色手工酥饼，咸香口感",
-        "minQty": 20,
-        "price": 8,
-        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a9302746ae1bdeb.jpg",
-        "note": ""
       }
     ],
     "nuts": [
