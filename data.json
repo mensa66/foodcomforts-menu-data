@@ -694,7 +694,7 @@
         "name": "车厘子红酒蛋糕杯",
         "spec": "个",
         "minQty": 1,
-        "price": 56,
+        "price": null,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_01f3430d6aafb5d6.jpg",
         "note": ""
       },
