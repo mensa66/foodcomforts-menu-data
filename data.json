@@ -1058,7 +1058,7 @@
       },
       {
         "name": "手工椒盐桃酥",
-        "spec": "3.5元/粒",
+        "spec": "",
         "minQty": 12,
         "price": 4.5,
         "img": "p19_2.jpg",
@@ -1092,7 +1092,7 @@
         "name": "虎皮蛋糕",
         "spec": "5片",
         "minQty": 1,
-        "price": 15,
+        "price": 18,
         "img": "p20_1.jpg",
         "note": ""
       },
