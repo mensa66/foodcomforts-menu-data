@@ -1091,8 +1091,8 @@
       {
         "name": "虎皮蛋糕",
         "spec": "",
-        "minQty": 1,
-        "price": 3.6,
+        "minQty": 5,
+        "price": 3.8,
         "img": "p20_1.jpg",
         "note": ""
       },
