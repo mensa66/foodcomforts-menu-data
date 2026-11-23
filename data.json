@@ -319,14 +319,6 @@
         "note": ""
       },
       {
-        "name": "圣诞手提桶",
-        "spec": "件",
-        "minQty": 8,
-        "price": 20,
-        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_04f2d8196b0016fb.jpg",
-        "note": ""
-      },
-      {
         "name": "圣诞咸点圣诞树",
         "spec": "件",
         "minQty": 10,
