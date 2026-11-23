@@ -2051,10 +2051,10 @@
       {
         "name": "烤布里无花果tapas",
         "spec": "无花果，奶酪，法棍，罗勒叶，火腿，蜂蜜，橄榄油",
-        "minQty": 12,
+        "minQty": 16,
         "price": 24,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_2612439e6a8a53f6.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "水果奶酪塔塔",
