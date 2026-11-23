@@ -521,14 +521,6 @@
         "note": ""
       },
       {
-        "name": "现烤巴斯克芝士蛋糕（切件）",
-        "spec": "件",
-        "minQty": 8,
-        "price": 12,
-        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_01f3430d6aafb478.jpg",
-        "note": "6个起订"
-      },
-      {
         "name": "现烤半熟芝士",
         "spec": "个",
         "minQty": 10,
