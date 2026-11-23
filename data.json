@@ -386,7 +386,7 @@
         "name": "糖葫芦",
         "spec": "串",
         "minQty": 20,
-        "price": 8,
+        "price": 8.5,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_5a1229d46b001b08.jpg",
         "note": ""
       },
@@ -394,7 +394,7 @@
         "name": "圣诞树塔",
         "spec": "件",
         "minQty": 8,
-        "price": 20,
+        "price": 22,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_65108bbb6b01afa3.jpg",
         "note": ""
       },
