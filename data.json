@@ -2022,7 +2022,7 @@
         "minQty": 16,
         "price": 10,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_a9defcfd6a8a5108.jpg",
-        "note": "16个起订"
+        "note": ""
       },
       {
         "name": "午餐肉时蔬串",
@@ -2044,7 +2044,7 @@
         "name": "无花果火腿奶酪",
         "spec": "15元/个【无花果，奶酪，进口火腿，罗勒叶】",
         "minQty": 16,
-        "price": 15,
+        "price": 18,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_2612439e6a8a53a2.jpg",
         "note": "16个起订"
       },
