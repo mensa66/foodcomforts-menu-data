@@ -962,16 +962,8 @@
         "name": "柠檬芝士小方",
         "spec": "个",
         "minQty": 16,
-        "price": 1,
+        "price": 15.8,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_650815a96aafb782.jpg",
-        "note": ""
-      },
-      {
-        "name": "一盏清茶",
-        "spec": "桂花，奶冻",
-        "minQty": 6,
-        "price": 26,
-        "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_650815a96aafb8e2.jpg",
         "note": ""
       },
       {
