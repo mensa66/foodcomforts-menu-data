@@ -1548,13 +1548,13 @@
         "minQty": 12,
         "price": 32,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_b5138c476a7ad559.jpg",
-        "note": "12个起订，可选小款15元"
+        "note": ""
       },
       {
         "name": "纯甄心愿",
-        "spec": "35/个",
+        "spec": "",
         "minQty": 8,
-        "price": 35,
+        "price": 38,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_9a0201bc6a7ad59f.jpg",
         "note": "12个起订，可选小款15元"
       },
