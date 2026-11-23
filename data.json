@@ -676,9 +676,9 @@
       },
       {
         "name": "x法式口味马卡龙",
-        "spec": "18元/粒",
+        "spec": "",
         "minQty": 8,
-        "price": 18,
+        "price": 22,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_650815a96aafb4bc.jpg",
         "note": ""
       },
