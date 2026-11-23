@@ -1408,7 +1408,7 @@
       },
       {
         "name": "抹茶伯爵",
-        "spec": "20元/个",
+        "spec": "",
         "minQty": 12,
         "price": 20.8,
         "img": "p25_1.jpg",
@@ -1530,7 +1530,7 @@
         "name": "琉璃之恋",
         "spec": "¥25个",
         "minQty": 8,
-        "price": 25,
+        "price": 28,
         "img": "https://cdn.jsdelivr.net/gh/mensa66/foodcomforts-menu-data@main/imgs/susie_50599b866a7ad505.jpg",
         "note": "12个起订，可选小款15元"
       },
